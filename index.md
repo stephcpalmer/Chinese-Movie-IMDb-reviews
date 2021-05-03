@@ -1,9 +1,7 @@
 
-# Welcome to GitHub Pages
+ Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/stephcpalmer/IMDb_Chinese_title_user_reviews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm still in the process of setting everything up.
 
 ### Markdown
 
