@@ -1,0 +1,2424 @@
+,Id,Primary Title,Original Title,Year,Genres,Average Rating,# of Votes
+2,tt0018600,Xi xiang ji, Xi xiang ji,1927, Drama&Romance,6.2,114
+3,tt0019996,Hongxia, Hongxia,2011, Action,6.3,52
+5,tt0023036,Loving Blood of the Volcano, Huo shan qing xue,1932, Drama,6.8,50
+11,tt0028281,Tian lun, Tian lun,1935, Drama,6.4,52
+26,tt0033669,Golden Gate Girl, Golden Gate Girl,1941, Drama,7.4,59
+47,tt0040009,Tears of the Yang-Tse, Yi jiang chun shui xiang dong liu,1947, Drama&War,7.4,288
+55,tt0042054,Crows and Sparrows, Wuya yu maque,1949, Drama,7.2,237
+59,tt0042785,The New China, Osvobozhdyonnyy Kitay,1951, Documentary,5.9,9
+61,tt0043139,Life of a Beijing Policeman, Wo zhe yi bei zi,1950, Drama&History,7.3,158
+90,tt0049979,New Year Sacrifice, Zhu Fu,1956, Drama,6.8,125
+96,tt0051883,Luban De Chuanshuo, Luban De Chuanshuo,1958, Drama,5.6,5
+98,tt0053010,Lin Zexu, Lin Zexu,1959, Drama&History&War,6.2,104
+100,tt0053196,Qing chun zhi ge, Qing chun zhi ge,1959, Drama,6.4,36
+108,tt0054034,Third Sister Liu, Liu san jie,1960, Musical,7.0,155
+113,tt0055371,Geming jiating, Geming jiating,1961, Drama,6.7,13
+114,tt0056078,Hong lou meng, Hong lou meng,1962, Drama,8.4,22
+123,tt0057713,Threshold of Spring, Zao Chun Er Yue,1983, Drama,7.3,128
+128,tt0059855,Havoc in Heaven, Da nao tian gong,1963, Action&Adventure&Animation,8.1,1795
+165,tt0076581,Qingchun, Qingchun,1977, N/A,6.7,18
+175,tt0079421,Troubled Laughter, Ku nao ren de xiao,1981, N/A,7.8,28
+179,tt0079891,Shaolin Temple, Shao Lin si,1982, Action&Drama,6.9,4001
+182,tt0080404,Evening Rain, Ba shan ye yu,1980, Drama,7.3,94
+187,tt0081553,Two Stage Sisters, Wutai jiemei,1964, Drama,6.8,302
+190,tt0081632,Legend of Tianyun Mountain, Tian yun shan chuan qi,1980, Drama,7.7,151
+191,tt0081770,Nu lan wu hao, Nu lan wu hao,1957, Drama&Romance&Sport,6.6,84
+192,tt0081781,Xiao hua, Xiao hua,1979, Drama&War,6.6,135
+194,tt0081971,A Q zheng zhuan, A Q zheng zhuan,1981, Drama,6.9,139
+196,tt0082662,Lin ju, Lin ju,1981, Drama,6.2,10
+197,tt0083060,The Drive to Win, Sha Ou,1981, Drama&Sport,6.7,23
+198,tt0083345,Xian Incident, Xian shi bian,1981, Drama&War,5.8,30
+200,tt0084280,Rickshaw Boy, Luo tuo Xiang Zi,1982, Drama,6.9,144
+201,tt0084363,The Herdsman, Mu Ma Ren,1982, Drama,7.3,212
+207,tt0085326,My Memories of Old Beijing, Cheng nan jiu shi,1983, Drama,7.7,311
+208,tt0085336,Reign Behind a Curtain, Chui lian ting zheng,1983, Drama,7.0,109
+212,tt0085837,Li bing, Li bing,1983, N/A,6.4,5
+217,tt0086621,Yi ge he ba ge, Yi ge he ba ge,1988, War,6.8,58
+218,tt0086878,Bian cheng, Bian cheng,1984, N/A,6.8,53
+219,tt0087057,Xin Fang Shi Yu, Xin Fang Shi Yu,1984, Action,6.5,33
+222,tt0087301,Hibiscus Town, Fu rong zhen,1987, Drama&History&Romance,8.2,822
+223,tt0087433,Yellow Earth, Huang tu di,1984, Drama&History&Music,7.1,2190
+226,tt0087703,River Without Buoys, Mei you hang biao de he liu,1984, Drama,7.2,33
+227,tt0087841,Lie chang zha sha, Lie chang zha sha,1984, Drama,6.5,23
+229,tt0087961,Qiu Jin, Qiu Jin,1984, Biography&Drama,7.0,24
+230,tt0087992,Life, Ren sheng,1984, Drama,7.8,69
+234,tt0088426,Yamaha yudang, Yamaha yudang,1984, N/A,5.7,10
+237,tt0089335,In the Wild Mountains, Ye shan,1986, Drama,6.8,58
+238,tt0089389,Juexiang, Juexiang,1986, Drama,6.8,17
+242,tt0089788,Kong que gong zhu, Kong que gong zhu,1982, Fantasy,7.3,27
+244,tt0089864,Sacrificed Youth, Qing chun ji,1986, Drama,7.7,108
+247,tt0089916,Ri Chu, Ri Chu,1985, Drama,8.1,67
+250,tt0090303,The Last Empress, Mo dai huang hou,1987, Drama,7.0,99
+251,tt0090340,Wreaths at the Foot of the Mountain, Gao shan xia de hua huan,1985, Drama&War,7.2,190
+252,tt0090587,Cross the River, Guo jiang,1988, Action&Fantasy,6.5,11
+254,tt0090832,Shao ye de mo nan, Shao ye de mo nan,1987, Comedy,6.2,24
+256,tt0090895,The Big Parade, Da yue bing,1986, Drama,6.0,157
+257,tt0090907,The Horse Thief, Dao ma zei,1986, Drama,6.9,1146
+260,tt0091190,The Black Cannon Incident, Hei pao shi jian,1985, Comedy,7.3,291
+264,tt0091377,The Old Well, Lao jing,1987, Drama&Romance,7.1,285
+266,tt0092192,Wan zhong, Wan zhong,1989, Drama,7.4,31
+267,tt0092247,A Girl from Hunan, Xiangnu xiaoxiao,1987, Drama,6.7,167
+270,tt0092706,Buddhas Lock, Tian pu sa,1987, Drama,6.9,14
+271,tt0093007,Yuanli zhanzhengde niandai, Yuanli zhanzhengde niandai,1987, N/A,7.3,7
+273,tt0093131,The Street Players, Gushu Yiren,1987, Drama,6.0,14
+274,tt0093133,King of the Children, Hai zi wang,1988, Drama,6.8,481
+275,tt0093206,Red Sorghum, Hong gao liang,1988, Drama&History&Romance,7.4,8142
+278,tt0093844,Woman Demon Human, Ren gui qing,1987, Drama,7.3,95
+282,tt0093962,The Romance of Book and Sword, Shu jian en chou lu,1987, Action&Drama,6.6,72
+284,tt0093989,Slaughter in Xian, Xian sha lu,1990, Action&Crime&Drama,6.5,10
+285,tt0094000,Ba qi zi di, Ba qi zi di,1988, Drama&History,6.3,27
+286,tt0094386,Zui hou de feng kuang, Zui hou de feng kuang,1989, Action&Crime&Thriller,6.5,14
+289,tt0094845,The Case of the Silver Snake, Yin she mou sha an,1988, Thriller,6.3,23
+293,tt0095151,Feng kuang de dai jia, Feng kuang de dai jia,1989, Drama,6.8,44
+294,tt0095318,Hong yi shao nu, Hong yi shao nu,1985, Drama,8.0,80
+298,tt0095817,Panda monogatari, Panda monogatari,1988, Drama&Family,7.6,7
+304,tt0096475,Rock Kids, Yaogun Qingnian,1988, Drama&Music,5.9,22
+305,tt0096478,Yellow River Fighter, Huang he da xia,1988, Action&Drama,6.9,143
+307,tt0097144,Codename Cougar, Dai hao mei zhou bao,1989, Drama&Thriller,4.3,225
+309,tt0097461,Gua fu cun, Gua fu cun,1989, Drama,7.9,64
+312,tt0097984,Ninja in Ancient China, Shen tong,1993, Action&Adventure&Drama,5.0,31
+313,tt0097985,Niu-Peng, Niu-Peng,1989, Drama,6.2,83
+321,tt0098717,The Last Aristocrats, Zui hou de gui zu,1989, Drama&History,7.7,50
+327,tt0099338,Da Jue Zhan I: Liao Shen Zhan Yi, Da Jue Zhan I: Liao Shen Zhan Yi,1990, Drama&History&War,6.5,135
+328,tt0099339,Da Jue Zhan II: Huai Hai Zhan Yi, Da Jue Zhan II: Huai Hai Zhan Yi,1991, Drama&History&War,6.4,116
+329,tt0099340,Da Jue Zhan III: Ping Jin Zhan Yi, Da Jue Zhan III: Ping Jin Zhan Yi,1992, Drama&History&War,6.6,98
+333,tt0099902,Ju Dou, Ju Dou,1990, Drama&Romance,7.6,7709
+342,tt0101425,Beijing ni zao, Beijing ni zao,1991, N/A,7.0,46
+343,tt0101440,Life on a String, Bian zou bian chang,1991, Drama&Music&Romance,6.7,623
+346,tt0101640,Raise the Red Lantern, Dà hóng denglong gaogao guà,1991, Drama&History&Romance,8.1,30065
+347,tt0101641,The Last Eunuch, Da taijian Li Lianying,1991, Drama&History,6.8,97
+358,tt0102738,Qingchun wu hui, Qingchun wu hui,1991, Drama,7.6,16
+360,tt0102917,The Swordsman in Double Flag Town, Shuang Qi Zhen dao ke,1991, Adventure,7.1,484
+369,tt0103762,Huang he yao, Huang he yao,1990, Adventure&Comedy&Drama,7.8,17
+375,tt0104318,Gao bie zi jin cheng, Gao bie zi jin cheng,1992, Drama,6.2,32
+377,tt0104646,Kuang, Kuang,1992, Drama&Romance,6.9,15
+379,tt0104800,Mama, Mama,1991, Drama,6.6,34
+382,tt0105197,The Story of Qiu Ju, Qiu Ju da guan si,1992, Comedy&Drama,7.6,5528
+394,tt0105842,Deadend Besiegers, Wu Lin sheng dou shi,1992, Action&Comedy,6.4,75
+397,tt0105863,Xuese Qingchen, Xuese Qingchen,1992, Crime&Drama,7.7,51
+399,tt0105895,Zhou Enlai, Zhou Enlai,1992, Biography&Drama,7.3,64
+400,tt0105903,Legend of the Drunken Tiger, Zui gui Zhang San,1990, Action&Romance,4.7,41
+401,tt0106332,Farewell My Concubine, Ba wang bie ji,1993, Drama&Music&Romance,8.1,25568
+403,tt0106378,Beijing Bastards, Beijing zazhong,1993, Drama,5.5,163
+405,tt0106532,Ce huang qi, Ce huang qi,1993, N/A,6.6,5
+406,tt0106602,Descendants of Confucius, Que li ren jia,1993, N/A,7.5,14
+407,tt0106617,Feng huang qin, Feng huang qin,1993, Drama,6.6,104
+408,tt0106643,Da Sa Ba, Da Sa Ba,1993, Romance,7.0,131
+409,tt0106750,The Days, Dongchun de rizi,1993, Drama,6.2,160
+410,tt0106771,Dragons of the Orient, Dong fang ju long,1988, Action&Documentary,6.0,93
+411,tt0106772,A Dream in Red Mansions, Hong lou meng,1988, Drama,7.5,50
+412,tt0106937,The Legend II, Fong Sai Yuk 2,1993, Action&Adventure&Comedy,7.0,4193
+415,tt0107109,Hidden Hero, Jiang hu qi bing,1990, Action,6.0,17
+416,tt0107158,A Soul Haunted by Painting, Hua hun,1994, Biography&Drama&Romance,6.7,392
+417,tt0107161,Fist from Shaolin, Huang Fei Hong zhi nan er dang bao guo,1993, Action&Adventure&Comedy,6.6,73
+420,tt0107358,The Blue Kite, Lan feng zheng,1993, Drama,7.6,2716
+422,tt0107463,Luo he zhen de xiong di, Luo he zhen de xiong di,1995, Drama,5.8,5
+429,tt0108145,Sishi puhuo, Sishi puhuo,1992, Drama,7.9,10
+432,tt0108227,Xinghua san yue tian, Xinghua san yue tian,1994, Drama&Romance,6.5,51
+441,tt0108608,Woman Sesame Oil Maker, Xiang hun nü,1993, Drama,7.3,280
+442,tt0108612,The True-Hearted, Xin xiang,1992, Drama&Music,8.0,32
+444,tt0108615,Red Beads, Xuan lian,1994, Drama,6.5,13
+446,tt0108644,Zai na yao yuan de di fang, Zai na yao yuan de di fang,1993, Biography&Drama&Romance,7.1,7
+447,tt0108652,Zhao le, Zhao le,1993, Comedy&Drama,6.8,108
+451,tt0109418,Chinas First Swordsman, Shen zhou di yi dao,1994, Action&Drama,6.5,8
+456,tt0109946,Shanghai Fever, Gu feng,1994, Drama,7.0,103
+457,tt0109948,The Square, Guang Chang,1995, Documentary,7.5,13
+458,tt0110007,Hei shan lu, Hei shan lu,1994, Drama,7.6,11
+459,tt0110051,Blush, Hong fen,1995, Drama,6.9,129
+462,tt0110081,To Live, Huo zhe,1994, Drama&War,8.3,16359
+472,tt0110625,Nan quan wang, Nan quan wang,1984, Action,6.3,70
+485,tt0111752,The Wooden Mans Bride, Wu Kui,1994, Drama,6.8,216
+487,tt0111771,Revanchist, Xin bao chou,1994, Adult,6.6,8
+491,tt0111786,In the Heat of the Sun, Yang guang can lan de ri zi,1994, Drama&Romance,8.2,3974
+510,tt0113825,On the Beat, Min jing gu shi,1995, Comedy,7.0,151
+515,tt0114243,Red Cherry, Hong ying tao,1995, Drama&War,6.9,677
+526,tt0115028,Postman, Youchai,1995, Drama,6.3,155
+528,tt0115054,Zhong e Lie Che da jie an, Zhong e Lie Che da jie an,1995, Action&Crime,4.0,13
+536,tt0115669,The King of Masks, Bian Lian,1996, Drama,7.7,3117
+544,tt0116223,Erzi, Erzi,1996, Drama,7.5,29
+546,tt0116295,Temptress Moon, Feng yue,1996, Drama&Romance,6.8,1782
+565,tt0118120,Lan ling wang, Lan ling wang,1995, N/A,6.5,39
+566,tt0118187,Wo ye you ba ba, Wo ye you ba ba,1996, Family,6.0,9
+567,tt0118199,Wu Shan Yun Yu, Wu Shan Yun Yu,1996, Comedy&Drama,7.0,144
+579,tt0120538,The Opium War, Ya pian zhan zheng,1997, Drama&History&War,6.5,504
+589,tt0121180,The Big Road, Dalu,1935, Comedy&Drama&Musical,6.8,254
+595,tt0121739,Abbot Hai Teng of Shaolin, Shao Lin Hai Deng da shi,1985, Action&Documentary&Sport,6.9,101
+598,tt0121890,Little Toys, Xiao Wanyi,1933, Drama&War,7.0,168
+600,tt0121918,China Heat, Zhong Hua jing hua,1992, Action&Crime,4.6,33
+601,tt0121919,Kekes Magic Umbrella, Zhui gui san,2000, Family,6.7,7
+604,tt0122805,Yinhe shuangxing, Yinhe shuangxing,1931, Drama&Romance,6.1,43
+606,tt0123329,Journey to Western Xia Empire, Xixia lu tiaotiao,1997, Drama,6.5,47
+607,tt0123450,Black Snow, Ben ming nian,1990, Drama,7.2,407
+608,tt0124852,Sun Valley, Ri guang xia gu,1995, Action&Adventure&Drama,7.1,47
+610,tt0125279,Frozen, Jidu hanleng,1996, Drama,6.4,265
+620,tt0130380,Zhou mo qing ren, Zhou mo qing ren,1993, Drama,6.3,66
+622,tt0131654,Xiao jiao qi mou sheng ji, Xiao jiao qi mou sheng ji,1996, Comedy,4.8,24
+623,tt0131655,Ying jia, Ying jia,1996, N/A,7.0,10
+627,tt0134824,Strange Friends, Mo sheng de peng you,1983, Drama,6.8,8
+635,tt0140700,Womens Story, Nu ren de gu shi,1989, N/A,8.2,11
+636,tt0144020,Pickpocket, Xiao Wu,1998, Drama,7.4,2185
+637,tt0145254,Out of Phoenix Bridge, Hui dao feng huang qiao,1997, Documentary,6.1,7
+643,tt0151464,Surveillance, Mai fu,1997, Comedy&Drama,6.6,86
+652,tt0162866,The Emperor and the Assassin, Jing Ke ci Qin Wang,1998, Drama&History&Romance,7.2,5961
+658,tt0164934,Tian guo en chou, Tian guo en chou,1987, Action&Drama&History,8.0,40
+659,tt0165127,Burning of the Red Lotus Monastery, Huo shao hong lian si,1928, Drama,7.5,40
+661,tt0165234,Disciples of Shaolin Temple, Shao Lin shu jia di zhi,1985, N/A,6.4,45
+674,tt0168499,Going to School with Father on My Back, Bei zhu baba shangxue qu,1998, Drama,6.7,106
+675,tt0169064,Gui lin rong ji, Gui lin rong ji,1998, Drama,7.3,57
+676,tt0169279,Sun Bird, Taiyangniao,1998, Drama,7.0,5
+681,tt0174425,Ren zhi chu, Ren zhi chu,1992, N/A,7.0,5
+686,tt0177624,Love in the City, Chengshi aiqing,1997, N/A,8.8,8
+692,tt0179191,Genghis Khan, Genghis Khan,1998, Adventure&Drama&War,6.9,98
+697,tt0182030,Da zuo deng xiang you zhuan, Da zuo deng xiang you zhuan,1996, Comedy,7.1,29
+699,tt0182776,Penitentiary Angel, Nü er gu,1995, Crime&Drama,7.0,113
+700,tt0182826,Black Spot, Hei se zou lang,1994, Action,7.4,23
+704,tt0183576,Nie Er, Nie Er,1960, Biography&Drama,7.5,20
+705,tt0183700,Restless, Restless,1998, Comedy&Romance,6.3,63
+706,tt0183828,Street Angel, Ma lu tian shi,1937, Comedy&Drama&Musical,7.2,767
+710,tt0184464,Fei lai de xian he, Fei lai de xian he,1982, N/A,8.6,7
+712,tt0184562,Tai hou ji xiang, Tai hou ji xiang,1996, N/A,6.1,43
+714,tt0185028,Yong shi wo ai, Yong shi wo ai,1994, Drama,5.3,64
+715,tt0185415,An Old Man and His Dog, Lao ren he gou,1993, N/A,7.9,19
+716,tt0185673,Shao Lin ying xiong zhi Feng Shi-Yu Hong Zhi-Guan, Shao Lin ying xiong zhi Feng Shi-Yu Hong Zhi-Guan,1994, Action,5.2,34
+717,tt0186015,Da lu, Da lu,1993, Action&Comedy&Crime,5.7,13
+719,tt0186709,Naked Blood, Xiu Nu,1994, N/A,5.0,10
+721,tt0188299,Heroic Sons and Daughters, Ying xiong er nü,2020, War,6.9,83
+723,tt0188790,Kung Fu Hero, Kung Fu Hero,1989, N/A,6.5,13
+725,tt0189219,Spring in a Small Town, Xiao cheng zhi chun,1948, Drama&Romance,7.4,2646
+726,tt0189220,Xu Mao and his Daughters, Xu Mao he ta de nü er men,1983, N/A,7.0,19
+728,tt0190887,Lunar Eclipse, Yue shi,1999, Drama,6.4,61
+730,tt0191889,Chun can, Chun can,1933, Drama,6.7,58
+731,tt0192127,Hong lou meng, Hong lou meng,1945, Drama&Romance,6.6,25
+732,tt0192177,Jia, Jia,1941, Drama&War,7.6,8
+733,tt0192239,Love and Duty, Lian ai yu yi wu,1931, Drama,7.2,44
+734,tt0192272,Dragon Town Story, Long cheng zheng yue,1997, N/A,7.6,45
+735,tt0192338,Maiden in Armour, Mulan cong jun,1939, Drama&History&War,6.2,20
+736,tt0192367,Ningwu Pass, Ningwu Pass,1941, N/A,6.4,5
+737,tt0192378,The Classic for Girls, Nü er jing,1934, Drama,6.6,5
+738,tt0192491,Living Dream, Qian niu hua,1995, Drama,5.6,5
+739,tt0192665,Tao hua qi xue ji, Tao hua qi xue ji,1931, Drama&Romance,6.9,145
+740,tt0192679,Hong se lian ren, Hong se lian ren,1998, Drama&Romance,6.3,157
+741,tt0192770,Eternity, Wan shi liu fang,1944, Drama,4.3,6
+742,tt0192826,Old and New Shanghai, Xinjiu Shanghai,1936, Drama,5.1,59
+743,tt0192842,A Spray of Plum Blossoms, Yi jian mei,1931, Drama,6.1,52
+744,tt0192845,Yin mu yan shi, Yin mu yan shi,1931, N/A,6.4,5
+745,tt0193709,Alishan feng yun, Alishan feng yun,1950, Drama&Romance,5.8,5
+747,tt0195256,The Goddess, Shen nu,1934, Drama,7.7,1906
+748,tt0195258,Life and Death, Shengsi tongxin,1936, N/A,5.0,8
+749,tt0195260,Crossroads, Shi zi jie tou,1937, Comedy&Drama&Romance,7.0,145
+750,tt0195290,Along the Sungari River, Song hua jiang shang,1947, Drama,6.8,49
+751,tt0195402,The Lights of Ten Thousand Homes, Wanjia denghuo,1948, Drama,7.3,120
+755,tt0199027,Shui hu chuan gu shi lang zi yan qing, Shui hu chuan gu shi lang zi yan qing,1984, N/A,6.7,7
+756,tt0199354,Be There or Be Square, Bu jian bu san,1998, Comedy&Romance,7.2,1140
+759,tt0199922,Out of Danger, Jue chu feng sheng,1985, N/A,5.8,8
+761,tt0200121,Cut-Throat Struggle for an Invaluable Treasure, Sai wai duo bao,1982, Action&Sport,6.7,10
+762,tt0200292,Deadly Fury, Wu lin zhi,1988, Action&Drama,7.1,66
+763,tt0201963,Tai shan en chou, Tai shan en chou,1991, N/A,7.0,6
+764,tt0202122,Wu Song and Pan Jianlin, Wu Song and Pan Jianlin,1938, N/A,7.2,5
+765,tt0202160,Little Heroes, Zi gu ying xiong chu shao nian,1983, Action&Drama,7.5,48
+771,tt0205107,National Customs, Guo feng,1935, Drama,5.9,51
+772,tt0205218,Symphony of Lianhua, Lian hua jiao xiang qu,1937, Comedy&Drama,7.1,30
+773,tt0205405,Sons and Daughters of the Times, Shi dai de er nu,1933, N/A,7.0,7
+774,tt0205569,Vistas of Art, Yi hai feng guang,1937, N/A,6.6,9
+775,tt0206160,Mu yu zi, Mu yu zi,1947, N/A,6.0,5
+776,tt0206286,The Young Mistress Fan, Shao nai nai de shan zi,1939, Drama,6.2,5
+777,tt0206313,The Spring Festival, Guo nian,1991, Drama,7.1,170
+779,tt0206442,Song at Midnight, Ye ban ge sheng,1935, Horror&Romance,6.2,710
+780,tt0206443,Ye ban ge sheng xu ji, Ye ban ge sheng xu ji,1941, Horror,6.5,11
+782,tt0206738,Family, Jia,1957, Drama,7.2,36
+783,tt0207964,An ju, An ju,1997, Drama,7.1,26
+785,tt0209189,Not One Less, Yi ge dou bu neng shao,1999, Drama,7.7,8314
+786,tt0209510,Twin Sisters, Zi mei hua,1934, Drama,6.2,87
+787,tt0210677,Crazy English, Fengkuang yingyu,1999, Documentary,6.6,72
+788,tt0210916,Postmen in the Mountains, Na shan na ren na gou,1999, Drama,7.8,1329
+791,tt0215369,Shower, Xi zao,1999, Comedy&Drama,7.5,3910
+795,tt0217681,Men and Women, Nannan nünü,1999, Comedy,6.0,118
+801,tt0221723,Zhi yin, Zhi yin,1981, N/A,6.8,23
+803,tt0223998,Red River Valley, Hong he gu,1997, Drama&History&Romance,6.7,292
+805,tt0227366,At Middle Age, Ren dao zhong nian,1982, Drama,7.8,67
+807,tt0227608,Fate of Graduates, Taoli jie,1934, Drama,7.3,44
+808,tt0227844,Wild Flower, Ye cao xian hua,1930, Drama,6.9,7
+810,tt0229539,Heart of China, Huanghe juelian,1999, Drama&War,6.3,262
+811,tt0230290,Steel Meets Fire, Lie huo jin gang,1991, War,6.5,27
+816,tt0235060,The Road Home, Wo de fu qin mu qin,1999, Drama&History&Romance,7.8,12524
+820,tt0235897,Paper, Zhi,2000, N/A,5.0,6
+821,tt0236598,Breaking the Silence, Piao liang ma ma,2000, Drama,7.0,401
+822,tt0238588,Shadow Magic, Shadow Magic,2000, Drama&History&Romance,6.8,745
+823,tt0239220,Spicy Love Soup, Aiqing mala tang,1997, Drama&Romance,7.0,278
+832,tt0243898,Scenery, Feng jing,2000, N/A,7.2,8
+833,tt0243943,Hearts for the Motherland, Hai wai chi zi,1979, Drama,7.1,15
+835,tt0244709,Pavilion of Women, Pavilion of Women,2001, Drama&Romance&War,5.9,956
+838,tt0245224,Old Men, Lao tou,1999, Documentary,7.5,25
+841,tt0245929,Devils on the Doorstep, Guizi lai le,2000, Comedy&Drama&War,8.2,6964
+848,tt0256630,Father, Baba,2000, Comedy&Drama,6.8,147
+850,tt0257664,A Lingering Face, Feichang xiari,2000, Drama&Mystery,7.0,17
+852,tt0258885,Platform, Zhantai,2000, Drama&History,7.4,2460
+855,tt0259945,Ban ye ji jiao, Ban ye ji jiao,1965, Animation,6.8,45
+857,tt0260898,An Unusual Love, Fei chang ai qing,2000, Drama&Romance,7.5,8
+858,tt0260960,Beijing Herbs, Huanglian houpu,2000, Drama,7.7,7
+859,tt0260987,The Dream Factory, Jia fang yi fang,1997, Comedy,7.3,1314
+861,tt0261730,Colors of the Blind, Hei yanjing,1997, Drama&Sport,6.7,22
+862,tt0261797,After Divorce, Li hun,1992, Drama,6.2,16
+864,tt0261998,Xians Finest, Shui bu zhao,2000, Drama,6.7,9
+865,tt0262264,Lotus Lantern, Bao lian deng,1999, Animation,6.8,637
+866,tt0262470,The Red Suit, Hong xi fu,2000, Drama,7.4,7
+867,tt0262529,Crash Landing, Jinji pojiang,2000, Action,5.7,98
+869,tt0264457,The Straw House, Caofangzi,2000, Drama,7.2,63
+871,tt0265740,Fatal Decision, Sheng si jue ze,2000, Drama,6.1,39
+874,tt0266450,Death Visits the Living, Yi ge shi zhe dui sheng zhe de fang wen,1988, Drama&Fantasy&Romance,6.8,11
+878,tt0269537,A Tree in House, Mei shi tou zhe le,1998, Comedy,6.8,167
+880,tt0270095,Song of Tibet, Yeshe Dolma,2000, Drama,7.2,44
+889,tt0276329,Sorry Baby, Mei wan mei liao,1999, Comedy&Drama,6.8,771
+891,tt0276504,A Sigh, Yi sheng tan xi,2000, Drama&Family&Romance,7.1,350
+892,tt0276615,The Troubleshooters, Wan zhu,1989, Comedy&Drama,7.5,381
+893,tt0276769,Zou dao di, Zou dao di,2001, Comedy&Crime&Drama,6.5,39
+894,tt0277444,I Love Beijing, Xiari nuanyangyang,2001, Drama&Romance,6.9,205
+906,tt0285082,Fading Reindeer Bell, Fading Reindeer Bell,1997, Documentary,7.3,7
+907,tt0285181,Hi Frank!, Hi Frank!,2002, Comedy&Drama&Family,7.3,10
+910,tt0285848,The Orphan of Anyang, Anyangde guer,2001, Drama,6.8,230
+913,tt0286135,Ge er men, Ge er men,2001, N/A,7.7,6
+919,tt0287934,Da wan, Da wan,2001, Comedy&Drama,6.7,2089
+921,tt0288583,Love Story by Tea, Juhua cha,2001, Drama,6.7,19
+923,tt0289196,The Full Moon, Yue yuan jin xiao,2001, Drama,6.1,7
+928,tt0292278,Theres a Strong Wind in Beijing, Beijing de feng hen da,2000, Documentary,6.9,46
+929,tt0293660,The Touch, Tian mai zhuan qi,2002, Action&Adventure&Romance,4.6,1613
+932,tt0295435,Metamorphosis, Se jie,2001, Drama,5.1,7
+936,tt0297161,Seafood, Haixian,2001, Drama,6.5,76
+939,tt0297928,The Treatment, Gua sha,2001, Drama,6.7,289
+941,tt0298238,Quitting, Zuotian,2001, Biography&Drama&Music,7.1,716
+943,tt0299977,Hero, Ying xiong,2002, Action&Adventure&History,7.9,174979
+944,tt0300060,Breaking with Old Ideas, Jue lie,1976, Drama,7.6,49
+947,tt0301376,Hei xia die xue ji, Hei xia die xue ji,1986, Action&Adventure&Drama,4.7,10
+948,tt0303243,Happy Times, Xing fu shi guang,2000, Comedy&Drama&Romance,7.4,3882
+949,tt0303260,Purple Sunset, Ziri,2001, War,7.0,421
+950,tt0303814,Hu die de wei xiao, Hu die de wei xiao,2001, Drama&Thriller,6.0,23
+952,tt0304092,Go for Broke, Heng shu heng,2001, Drama,7.5,15
+953,tt0304641,Roots and Branches, Wo de xiong di jie mei,2001, Family,6.6,202
+959,tt0307154,Mi yu shi qi xiao shi, Mi yu shi qi xiao shi,2001, Drama,6.1,51
+961,tt0308559,The Marriage Certificate, Shui shuo wo bu zai hu,2001, Comedy&Drama,6.4,171
+962,tt0310870,Chen Mo and Meiting, Chen Mo he Meiting,2002, Drama,6.9,66
+963,tt0311041,Waiting Alone, Du zi deng dai,2004, Comedy&Drama&Romance,7.2,1024
+967,tt0312535,C.E.O., C.E.O.,2002, N/A,6.2,25
+973,tt0316906,You yuan, You yuan,1984, N/A,6.4,16
+974,tt0317763,Fish and Elephant, Jin nian xia tian,2001, Romance,5.1,169
+975,tt0318025,Unknown Pleasures, Ren xiao yao,2002, Comedy&Drama,6.9,2210
+981,tt0322265,Fearless Hyena 3, Fearless Master,1980, Action,5.5,65
+983,tt0323015,Blood on Wolf Mountain, Lang shan die xue ji,1936, Drama,6.6,34
+988,tt0325731,Liangjia funu, Liangjia funu,1986, Drama,7.2,14
+989,tt0326383,High Sky Summer, Wang Shouxian de xia tian,2002, N/A,5.7,24
+992,tt0327899,Huang shan lai de gu niang, Huang shan lai de gu niang,1985, N/A,7.6,10
+993,tt0328492,Sunset Street, Xizhao jie,1983, Drama,6.8,15
+994,tt0328629,The Wedding Maidens, Chujia nu,1990, Drama,6.1,11
+995,tt0329775,Chicken Poets, Xiang ji mao yi yang fei,2002, Drama,6.8,126
+996,tt0329796,Zhenzhen de fa wu, Zhenzhen de fa wu,1986, Drama,5.2,5
+1000,tt0332639,Together, He ni zai yi qi,2002, Drama&Music,7.3,4230
+1001,tt0332831,Springtime in a Small Town, Xiao cheng zhi chun,2002, Drama&Romance,6.9,1264
+1002,tt0333058,Afanti, Afanti,1979, Drama,7.7,15
+1003,tt0333060,Ailipu yu Sainaimu, Ailipu yu Sainaimu,1981, Drama&Romance,6.8,5
+1004,tt0333088,Aolei Yilan, Aolei Yilan,1979, Drama,7.5,13
+1005,tt0333099,Ashima, Ashima,1964, Musical&Romance,7.6,44
+1006,tt0333126,Baise qi yi, Baise qi yi,1989, War,5.6,12
+1007,tt0333135,Bao shi fu zi, Bao shi fu zi,1983, Drama,6.6,14
+1008,tt0333139,Bei gao Shangang ye, Bei gao Shangang ye,1994, Drama,7.2,12
+1009,tt0333142,Beijing Chick, Beijing xiao niu,1991, Family&Fantasy,5.2,20
+1010,tt0333292,Da ji qin lue zhe, Da ji qin lue zhe,1965, War,7.8,12
+1011,tt0333326,Di hou wu gong dui, Di hou wu gong dui,1995, War,6.8,5
+1012,tt0333360,The Woman Who Sells the Bean Curd, Dou hua nu,1992, Drama,6.8,6
+1013,tt0333394,Emei fei dao, Emei fei dao,1985, Crime&Mystery,6.6,5
+1014,tt0333527,Anxious to Return, Gui xin si jian,1983, War,7.4,22
+1015,tt0333538,Hai tan, Hai tan,1984, Drama,6.2,12
+1016,tt0333673,Jiang Hu: Life on the Road, Jiang Hu: Life on the Road,1999, Documentary,7.8,12
+1017,tt0333679,This Winter, Jin nian dong tian,2002, Documentary,7.1,11
+1018,tt0333680,The Battle of Jinan, Ji nan zhan yi,1979, War,6.4,5
+1019,tt0333682,Jing du qiu xia, Jing du qiu xia,1987, Drama,5.8,51
+1020,tt0333690,Jue zhan zhi hou, Jue zhan zhi hou,1991, Drama&War,7.2,16
+1021,tt0333762,Whoever Comes Is a Guest, Lai de dou shi ke,1990, Comedy&Drama,6.7,15
+1022,tt0333979,The Story of South Island, Nan dao feng yun,1955, War,7.2,5
+1023,tt0334000,Ni ming dian hua, Ni ming dian hua,1987, Horror,6.6,5
+1024,tt0334022,Army Nurse, Nu er lo,1985, Romance,6.0,6
+1025,tt0334195,What a Family, Qiao zhe yi jia zi,1979, Drama,7.4,69
+1026,tt0334198,Qiu shou qi yi, Qiu shou qi yi,1993, Drama&War,2.4,7
+1027,tt0334339,Shang gan ling, Shang gan ling,1956, Drama&War,6.6,116
+1028,tt0334504,Tian shi yu mo gui, Tian shi yu mo gui,1987, Crime&Drama,5.7,6
+1029,tt0334505,An Answer from Heaven, Tian tang hui xin,1994, Family,7.5,57
+1030,tt0334683,Wan shui qian shan, Wan shui qian shan,1960, War,6.5,13
+1032,tt0334732,Railroad of Hope, Xi wang zhi lü,2002, Documentary,7.7,48
+1033,tt0334735,Xin ju zhang dao lai zhi qian, Xin ju zhang dao lai zhi qian,1956, Drama,6.5,17
+1034,tt0334738,Beauty Head of the Haunted House, Xiong zhai mei ren tou,1989, Horror,6.2,11
+1035,tt0334786,To Liberate Shanghai, Zhan Shanghai,1959, War,6.9,14
+1041,tt0338893,Da jie, Da jie,1995, War,7.8,12
+1042,tt0339118,Hei bai ren jian, Hei bai ren jian,1992, Crime,7.4,5
+1043,tt0339127,Hei san jiao, Hei san jiao,1977, Action,6.3,16
+1044,tt0339128,Hei se 25, Hei se 25,1992, Action&Crime,3.0,6
+1045,tt0339269,Ku cai hua, Ku cai hua,1965, Drama&War,5.9,17
+1048,tt0339891,Wei hai zi men zhu fu, Wei hai zi men zhu fu,1953, Drama,6.0,6
+1049,tt0339917,Husband and Wife, Wo men fu fu zhi jian,1951, Drama,6.2,8
+1050,tt0339932,You xia hei hu die, You xia hei hu die,1988, Drama,5.1,7
+1051,tt0339981,Murder in 405, 405 mou sha an,1980, Thriller,7.6,97
+1052,tt0340015,Bi xue bao dao, Bi xue bao dao,1991, Action,6.0,7
+1053,tt0340043,Cheng feng po lang, Cheng feng po lang,1958, Drama,5.8,11
+1054,tt0340046,Chuang ye, Chuang ye,1974, Drama,6.0,5
+1056,tt0340065,Da chuan qi, Da chuan qi,1988, Drama,7.0,13
+1057,tt0340114,Feng huo shao nian, Feng huo shao nian,1975, Drama,6.1,7
+1058,tt0340126,Ge lia hao, Ge lia hao,1962, Comedy,6.7,7
+1059,tt0340151,He chu bu feng liu, He chu bu feng liu,1983, Drama,6.2,5
+1060,tt0340166,Hua hao yue yuan, Hua hao yue yuan,1958, Drama&Romance,5.7,6
+1061,tt0340185,Jin guang da dao shang ji, Jin guang da dao shang ji,1975, Drama,4.8,6
+1062,tt0340202,Lan dun bao xian xiang, Lan dun bao xian xiang,1983, Crime,4.6,5
+1063,tt0340226,Bloodshed on the Luohuapo, Luohuapo qing chou,1991, Action,5.6,7
+1064,tt0340300,The Bridge, Qiao,1949, Drama,6.2,12
+1065,tt0340305,Quan shui ding dong, Quan shui ding dong,1982, Drama,7.5,14
+1066,tt0340396,Born Coward, Tian sheng dan xiao,1994, Crime,6.2,39
+1067,tt0340400,Tie xue Kunlun guan, Tie xue Kunlun guan,1994, War,7.0,13
+1068,tt0340448,Xue jian hua ping, Xue jian hua ping,1986, Mystery,8.6,5
+1069,tt0340453,The Bloody Battle of Taierzhuang, Xue zhan Taierzhuang,1986, War,6.5,148
+1070,tt0340455,Yan yang tian, Yan yang tian,1975, Drama,3.5,13
+1071,tt0340462,Ingeniously Taking Mount Hua, Zhi qu Huashan,1953, War,6.4,16
+1072,tt0340587,Bing lin cheng xia, Bing lin cheng xia,1964, War,6.7,6
+1073,tt0340623,Chen Huansheng shang cheng, Chen Huansheng shang cheng,1982, Drama,6.7,6
+1074,tt0340626,Chongqing tan pan, Chongqing tan pan,1994, Drama,5.8,26
+1075,tt0340628,Chunmiao, Chunmiao,1975, Drama,5.8,12
+1076,tt0340764,Huan le ren jian, Huan le ren jian,1959, Drama,4.0,5
+1078,tt0340925,Chess King, Qi wang,1988, Drama,6.8,19
+1079,tt0340970,Sha mo zhui fei ji, Sha mo zhui fei ji,1959, Action,7.2,6
+1080,tt0341111,Xing zhen feng yun, Xing zhen feng yun,1994, Action&Crime,5.2,5
+1081,tt0341125,Zhong Guo ba wang hua, Zhong Guo ba wang hua,1990, Action&Crime,5.3,7
+1082,tt0341128,Zhu jian, Zhu jian,1994, Action,7.3,7
+1084,tt0341301,Chen Sanliang, Chen Sanliang,1959, Drama,5.4,5
+1087,tt0342095,Corner Left Unnoticed by Love, Bei ai qing yi wang de jiao luo,1981, Drama,7.7,21
+1088,tt0342103,Bi shui shuang hun, Bi shui shuang hun,1986, Fantasy&Romance,8.2,5
+1089,tt0342246,Dai hao Er Yi San, Dai hao Er Yi San,1984, Thriller,7.7,7
+1090,tt0342301,Dou ji, Dou ji,1990, Drama,6.4,7
+1091,tt0342312,Duo cai de chen guang, Duo cai de chen guang,1984, Drama,7.7,7
+1092,tt0342513,The Synthetic Man, He cheng ren,1988, Sci-Fi,5.9,7
+1093,tt0342555,I Love You, Wo ai ni,2002, Drama&Romance,6.8,211
+1094,tt0342697,Sheng huo xiu, Sheng huo xiu,2002, Drama,7.0,258
+1095,tt0342778,The Missing Gun, Xun qiang,2002, Crime&Drama&Mystery,6.6,1135
+1096,tt0342830,Countering Lights, Ni guang,1982, Romance,7.0,12
+1097,tt0343105,To Live Is Better Than to Die, Hao si bu ru lai huo zhe,2003, Documentary,8.4,96
+1098,tt0343195,Comic Star, Xi ju ming xing,1991, Drama,6.1,17
+1099,tt0343213,The Conscription, Zhua zhuang ding,1963, Drama,7.3,22
+1100,tt0343566,Da ze long she, Da ze long she,1982, Action,5.8,5
+1101,tt0343571,Dai gu lu de yao lan, Dai gu lu de yao lan,1994, Drama,6.6,5
+1102,tt0343885,Kai tian pi di, Kai tian pi di,1991, Drama,6.9,14
+1103,tt0344331,Si du Chishui, Si du Chishui,1983, War,3.6,10
+1104,tt0344500,Tutor, Tutor,1999, Drama,7.2,6
+1105,tt0344568,Shanghai Panic, Wo men hai pa,2002, Drama&Romance,5.1,116
+1106,tt0344589,Yue ya er, Yue ya er,1986, Drama,6.7,10
+1108,tt0346565,Doctor Bethune, Baiqiuen dai fu,1964, Drama,6.9,14
+1110,tt0346810,Dislocation, Cuo wei,1986, Drama&Sci-Fi&Thriller,7.2,81
+1112,tt0346816,Total Destruction, Da hui mie,1990, Crime,4.8,5
+1113,tt0346819,Cross the Dadu River, Dadu he,1980, War,5.7,17
+1114,tt0346833,The Daughter of the Party, Dang de nu er,1958, Drama&Thriller&War,6.3,13
+1117,tt0346975,Feng liu Qianlong, Feng liu Qianlong,1991, Action,5.4,5
+1119,tt0347404,Divorce Wars, Li hun da zhan,1992, Drama,5.6,25
+1120,tt0347405,Li hun he tong, Li hun he tong,1990, Drama,5.3,11
+1121,tt0347442,Lu ming cui gu, Lu ming cui gu,1981, Family,5.8,5
+1122,tt0347562,Mo gui fa qia, Mo gui fa qia,1994, Family&Fantasy,8.1,7
+1123,tt0347684,Nu mo te zhi shi, Nu mo te zhi shi,1987, Drama&Mystery,6.0,7
+1124,tt0347830,Qiu chang feng bo, Qiu chang feng bo,1957, Drama,4.6,5
+1125,tt0347831,Quan wang, Quan wang,1993, War,2.5,18
+1126,tt0347992,Death Ray on Coral Island, Shanhu dao shang de shi guang,1980, Sci-Fi&Thriller,5.0,13
+1127,tt0348048,Sky Lovers, Tian shang de lian ren,2002, Drama,6.7,55
+1128,tt0348143,Sun Zhongshan, Sun Zhongshan,1986, Drama,6.8,12
+1129,tt0348233,Tou fa luan le, Tou fa luan le,1994, Drama,5.5,17
+1131,tt0348493,Daughters of China, Zhong Hua nu er,1949, Drama&War,5.7,7
+1133,tt0348651,The Well, Jing,1988, Drama,7.6,19
+1135,tt0349743,Long xu gou, Long xu gou,1953, Drama,5.5,11
+1136,tt0350575,Ba bai luo han, Ba bai luo han,1985, Action,5.9,50
+1137,tt0350585,Eagles Brave the Storm, Bao feng yu zhong de xiong ying,1957, Drama&War,3.6,5
+1138,tt0350762,Dao dan bu dui, Dao dan bu dui,1990, Drama,6.3,6
+1139,tt0350831,Dong jin xuqu, Dong jin xuqu,1962, War,7.1,8
+1140,tt0350852,Du Shiniang, Du Shiniang,1981, Drama,7.7,21
+1141,tt0350875,Eerduosi feng bao, Eerduosi feng bao,1962, Drama,5.6,7
+1142,tt0350897,Erzi kai dian, Erzi kai dian,1987, Drama,6.7,81
+1143,tt0350967,Fu yu zhi, Fu yu zhi,1986, Comedy&Drama,6.6,37
+1144,tt0351135,Ji zhan qian ye, Ji zhan qian ye,1957, Thriller,5.5,6
+1145,tt0351136,Jia da xia, Jia da xia,1989, Action,7.1,8
+1146,tt0351138,Jia nu zheng qing, Jia nu zheng qing,1990, Drama,8.2,6
+1147,tt0351140,Jia ting wen ti, Jia ting wen ti,1964, Drama,5.0,6
+1148,tt0351141,Jiang hu ba mian feng, Jiang hu ba mian feng,1991, Action&Adventure&Drama,4.6,5
+1149,tt0351299,Blind Shaft, Mang jing,2003, Crime&Drama,7.5,2505
+1150,tt0351712,Sha mao jing li, Sha mao jing li,1988, Drama,6.0,33
+1151,tt0351716,Sheng Baoluo yi yuan zhi mi, Sheng Baoluo yi yuan zhi mi,1990, Crime&Horror&Thriller,6.4,25
+1152,tt0351998,The Empress Dowager, Xi tai hou,1989, Biography&Drama&History,6.4,93
+1153,tt0351999,Xian shi huo bao, Xian shi huo bao,1990, Drama,6.6,9
+1154,tt0352000,Ye er liang kai geting, Ye er liang kai geting,1992, Comedy,6.2,32
+1155,tt0352005,Ying sheng a ge, Ying sheng a ge,1982, Family,6.4,5
+1156,tt0352008,The Eternal Wave, Yong bu xiao shi de dian bo,1958, Drama&Thriller&War,7.3,37
+1158,tt0352337,Fenshui ling, Fenshui ling,1964, Drama,4.6,5
+1159,tt0352615,From Victory to Victory, Nan zheng bei zhan,1952, War,5.8,45
+1160,tt0353017,Xiao zi xian sun ci hou zhe, Xiao zi xian sun ci hou zhe,1993, Comedy,7.2,51
+1161,tt0353291,Chengji sihan, Chengji sihan,1986, Adventure,7.7,7
+1163,tt0353580,Jia wu feng yun, Jia wu feng yun,1962, History&War,6.8,57
+1164,tt0354173,Violin, Xiao ti qing,2003, Drama,7.6,26
+1165,tt0354227,Xin Zhongguo di yi da an, Xin Zhongguo di yi da an,1992, Crime,5.7,6
+1166,tt0354243,Zhou Yus Train, Zhou Yu de huo che,2002, Drama&Romance,6.5,1472
+1167,tt0354361,Ai qing sha gua, Ai qing sha gua,1993, Comedy,8.2,8
+1168,tt0354417,Bian zhai feng huo, Bian zhai feng huo,1957, Thriller,7.5,6
+1169,tt0354566,Fei hu dui, Fei hu dui,1995, War,4.5,17
+1171,tt0354692,Langya shan wu zhuang shi, Langya shan wu zhuang shi,1958, War,5.8,72
+1172,tt0354770,Prince Nezhas Triumph Against Dragon King, Nezha nao hai,1979, Action&Adventure&Animation,7.8,900
+1174,tt0354878,Ru yan fei, Ru yan fei,1979, Drama,4.8,5
+1175,tt0354911,Shan lin zhong tou yi ge nu ren, Shan lin zhong tou yi ge nu ren,1986, Drama,7.6,5
+1176,tt0354964,Tie dao you ji dui, Tie dao you ji dui,1956, War,6.2,78
+1177,tt0355035,Wu du mang mang, Wu du mang mang,1980, Thriller,7.8,5
+1178,tt0355036,Five Golden Flowers, Wu duo Jinhua,1959, Musical&Romance,7.2,65
+1179,tt0355037,Wu hai ye hang, Wu hai ye hang,1958, Drama,6.8,5
+1180,tt0355056,Flowers of Our Motherland, Zuguo de huaduo,1955, Drama&Family,6.2,18
+1182,tt0355465,Fathers, Fu qin ba ba,2001, N/A,6.3,12
+1183,tt0355571,Interesting Times: The Secret of My Success, Lin qi da she tou,2002, Documentary,7.7,12
+1184,tt0356127,Heavenly Grassland, Tianshang caoyuan,2002, N/A,7.7,25
+1186,tt0356483,Cong nu li dao jiang jun, Cong nu li dao jiang jun,1979, Drama&War,7.0,9
+1187,tt0356499,Under the Bridge, Da qiao xia mian,1984, Romance,7.3,48
+1189,tt0357067,Forever Young, Qing chun wan sui,1983, Drama&Family,7.2,17
+1190,tt0357176,Si ge xiao huo ban, Si ge xiao huo ban,1981, Comedy&Family,6.2,8
+1191,tt0357306,For Peace, Wei le he ping,1956, Drama,5.8,9
+1192,tt0357867,Liu hao men, Liu hao men,1952, Drama,4.6,5
+1194,tt0358292,Villages Cadre, Xiao po qing wang,1987, Comedy,5.2,8
+1196,tt0361634,For the Children, Meili de dajiao,2003, Drama,6.5,146
+1198,tt0362288,Voice from Hometown, Voice from Hometown,1983, N/A,8.1,8
+1199,tt0363290,Purple Butterfly, Zi hu die,2003, Drama&History&War,6.1,1198
+1200,tt0365402,Spring Subway, Kai wang chun tian de di tie,2002, Drama&Romance,7.0,409
+1202,tt0365917,Welcome to Destination Shanghai, Mu di di Shanghai,2003, Drama,4.6,51
+1205,tt0367247,Eyes of a Beauty, Xi shi yan,2002, Drama,7.1,16
+1206,tt0367602,Drunken Monkey, Zhui ma lao,2003, Action&Adventure&Comedy,5.9,568
+1207,tt0367765,Gada Meilin, Gada Meilin,2002, Action&Adventure&Drama,6.2,62
+1209,tt0368276,Hero Zheng Chengong, Yingxiong Zheng Chengong,2001, Action&Drama&War,6.3,61
+1214,tt0369552,Huangjiang nüxia, Huangjiang nüxia,1930, Action&Drama&History,6.6,14
+1217,tt0370074,Bus Number 3, Xiao zi bei,1980, N/A,6.4,10
+1219,tt0370969,Jasmine Flower, Mo li hua kai,2004, Drama&Family&Romance,6.5,790
+1222,tt0373081,A Love of Blueness, Lan se ai qing,2001, Romance,7.2,50
+1225,tt0374330,Warriors of Heaven and Earth, Tian di ying xiong,2003, Action&Adventure&Drama,6.3,4105
+1229,tt0379278,Drifters, Er di,2003, Drama,6.3,268
+1230,tt0379329,Shanghai Women, Jia zhuang mei gan jue,2002, Drama,7.1,21
+1231,tt0379587,My Father and I, Wo he ba ba,2003, Drama,6.7,165
+1236,tt0382066,The Happy Bachelors, Kuai le de dan shen han,1985, N/A,6.6,14
+1237,tt0382821,Green Tea, Lü cha,2003, Drama&Romance,6.6,706
+1242,tt0384804,All Tomorrows Parties, Mingri tianya,2003, Drama&Sci-Fi,5.9,138
+1243,tt0385004,House of Flying Daggers, Shi mian mai fu,2004, Action&Adventure&Drama,7.5,108514
+1246,tt0385893,Where Have All the Flowers Gone, Na shi hua kai,2002, Romance,6.3,102
+1248,tt0386651,Mountain Patrol, Kekexili,2004, Action&Drama,7.6,4776
+1249,tt0386814,Peach Blossom, Tao hua man tian hong,1995, N/A,7.1,11
+1250,tt0387592,Something About Secret, Shuo chu ni de mi mi,1999, Drama,6.9,25
+1253,tt0388549,The New Years Gift, Ya sui qian,1937, N/A,5.2,9
+1255,tt0389448,Tie Xi Qu: West of the Tracks, Tiexi qu,2002, Documentary,8.4,1031
+1257,tt0390054,Gone Is the One Who Held Me Dearest in the World, Shi jie shang zui teng wo de na ge ren qu le,2002, Drama,7.0,57
+1260,tt0390311,Nuan, Nuan,2003, Drama,7.0,218
+1261,tt0390475,The Only Sons, Shan qing shui xiu,2003, Drama,7.3,6
+1262,tt0390649,Uniform, Zhifu,2003, Drama&Thriller,6.3,231
+1263,tt0390805,A Father with His Twenty-five Children, Er shi wu ge hai zi yi ge die,2003, Drama&Family,6.6,32
+1265,tt0395819,Murky Shadow Over the Gorges, Xia jiang yiying,1985, Action,6.6,21
+1272,tt0397625,The Magic Braid, Sen blain,1986, Adventure,6.2,80
+1275,tt0398388,When Ruoma Was Seventeen, Ruoma de shi qi sui,2002, Drama&Romance,6.8,102
+1277,tt0399048,Beauty Remains, Mei ren yi jiu,2005, Drama,5.3,110
+1279,tt0399650,Cell Phone, Shou ji,2003, Comedy&Drama,7.0,1284
+1281,tt0400888,Daybreak, Tianming,1933, Drama,6.7,132
+1285,tt0402600,South of the Clouds, Yun de nan fang,2004, Drama,7.3,68
+1291,tt0404808,Bamboo Shoot, Zi yu zi le,2004, Comedy,6.4,81
+1292,tt0405023,Dazzling, Hua yan,2002, Drama&Fantasy&Romance,7.1,53
+1294,tt0405497,Taking Tiger Mountain by Strategy, Zhi qu wei hu shan,1970, Musical&War,6.2,38
+1296,tt0406002,The Story of Ermei, Jing zhe,2004, Drama,7.4,20
+1300,tt0407876,The Red Detachment of Women, Hong se niang zi jun,1970, Music,7.9,85
+1302,tt0409519,Unexpected Passion, Zaoyu jiqing,1991, N/A,7.7,9
+1305,tt0410921,Xiao Yao Valley in the Song Mountains, Gaoshan xiao yao gu,2001, Action&Drama,6.0,8
+1310,tt0415116,Baober in Love, Lian ai zhong de Bao Bei,2004, Drama&Fantasy&Mystery,4.9,199
+1315,tt0415948,Passages, Lü cheng,2004, Drama,7.0,65
+1319,tt0416634,Tea-Horse Road Series: Delamu, Cha ma gu dao xi lie,2004, Documentary,7.4,166
+1321,tt0416943,Green Hat, Lu mao zi,2004, Drama,6.8,247
+1323,tt0417279,Qi xia si 1937, Qi xia si 1937,2004, War,7.7,9
+1325,tt0417976,The Promise, Wu ji,2005, Action&Drama&Fantasy,5.6,8968
+1330,tt0422532,Jing Gaier, Jing Gaier,2004, Comedy&Crime,7.6,41
+1331,tt0422738,Shanghai Story, Meili Shanghai,2004, Drama,7.1,67
+1332,tt0423176,The World, Shijie,2004, Drama,7.1,3117
+1336,tt0424133,Two Great Sheep, Hao da yi dui yang,2004, Drama,6.1,60
+1337,tt0424234,Letter from an Unknown Woman, Yi ge mo sheng nu ren de lai xin,2004, Drama,6.8,673
+1338,tt0424273,Electric Shadows, Meng ying tong nian,2004, Drama,7.5,990
+1340,tt0425637,Red Cliff, Chi bi,2008, Action&Adventure&Drama,7.4,44084
+1343,tt0428076,Ôsama no kampô, Ôsama no kampô,2004, Drama,6.5,22
+1349,tt0431729,The East is Red, Dongfang hong,1965, Musical,7.0,102
+1351,tt0431940,My Crazy Mother, Ngor ah ma fat jai won,2005, Comedy,4.5,27
+1353,tt0433929,Maiden Work, Chunü zuo,1997, Drama,7.2,5
+1357,tt0434936,Feuille, Feuille,2004, Drama,4.9,32
+1358,tt0435096,Juvenile Chen Zhen, Shao nian Chen Zhen,2004, Action,5.8,13
+1361,tt0436721,Night and Day, Ri ri ye ye,2004, Drama,6.0,118
+1363,tt0437447,Riding Alone for Thousands of Miles, Qian li zou dan qi,2005, Drama,7.3,4904
+1365,tt0438500,Queen of Sports, Ti yu huang hou,1934, Drama,6.0,65
+1366,tt0439630,Initial D, Tau man ji D,2005, Action&Comedy&Drama,6.4,7744
+1368,tt0439884,A World Without Thieves, Tian xia wu zei,2004, Action&Crime&Drama,7.2,4711
+1382,tt0441912,My 1919, Wo de 1919,1999, Drama,6.8,121
+1384,tt0443290,Wellspring, Wellspring,2003, Documentary,6.0,6
+1388,tt0445506,Peacock, Kong que,2005, Drama,7.6,978
+1391,tt0445853,Hands in the Hair, Zuo tou,2006, Drama,5.3,98
+1392,tt0446059,Fearless, Huo Yuan Jia,2006, Action&Biography&Drama,7.6,73288
+1393,tt0446403,Milk and Fashion, Milk and Fashion,2007, Drama&Romance,3.5,49
+1395,tt0446755,The Painted Veil, The Painted Veil,2006, Drama&Romance,7.5,89550
+1402,tt0450044,The Foliage, Mei ren cao,2004, Drama,6.1,146
+1403,tt0450099,A Time to Love, Qing ren jie,2005, Drama&Romance,6.8,366
+1411,tt0453204,38 Degrees, San shi ba du,2003, Comedy&Romance,6.4,5
+1412,tt0453223,Taekwondo, Tai quan dao,2004, Drama,7.4,19
+1413,tt0453313,Far from Home, Wo de mei li xiang chou,2002, Drama&War,4.9,21
+1414,tt0453317,Fidelity, Xiong di,2004, Drama,5.8,10
+1415,tt0453319,A Pinwheel Without Wind, Ting che zan jie wen,2002, Romance,4.1,30
+1416,tt0453323,A West Lake Moment, Yuan yang hu die,2004, Drama&Romance,5.8,119
+1417,tt0453795,Oxhide, Niu pi,2005, Documentary&Drama,7.0,187
+1418,tt0453979,Before the Flood, Yan mo,2005, Documentary,7.3,46
+1420,tt0454914,Perhaps Love, Ru guo · Ai,2005, Drama&Musical&Romance,6.8,2369
+1426,tt0456658,Shanghai Dreams, Qing hong,2005, Drama,7.0,1082
+1428,tt0456911,Rice, Da hong mi dian,1995, Drama,6.7,76
+1432,tt0457211,Wu zhai, Wu zhai,1994, Horror,6.2,12
+1433,tt0457472,Stolen Life, Sheng si jie,2005, Drama,6.5,322
+1434,tt0457630,The Life of Wu Xun, Wu Xun zhuan,1951, Drama,6.8,45
+1438,tt0459399,Roaring Across the Horizon, Heng kong chu shi,1999, Drama,7.4,89
+1441,tt0461329,Rhapsody of Spring, Chun tian de kuang xiang,1998, Drama,5.5,8
+1442,tt0461539,Pirated Copy, Man yan,2004, Comedy&Crime&Drama,6.4,81
+1444,tt0461804,Mongolian Ping Pong, Lü cao di,2005, Comedy&Drama,6.6,764
+1445,tt0463390,Rainbow, Wo xin fei xiang,2005, Drama,6.4,45
+1446,tt0464660,Huayao Bride in Shangrila, Hua yao xin niang,2005, Romance,6.3,68
+1447,tt0464763,Yin shi, Yin shi,2005, Drama,5.7,29
+1449,tt0465676,The Banquet, Ye yan,2006, Action&Drama&Fantasy,6.4,6660
+1453,tt0468659,Ba bai zhuang shi, Ba bai zhuang shi,1938, War,6.7,6
+1455,tt0470084,The Winter of Three Hairs, San Mao liu lang ji,1949, Comedy&Drama,6.8,139
+1456,tt0470128,The Letter with Feathers, Ji mao xin,1954, War,5.2,53
+1458,tt0470302,The Road, Fang xiang zhi lu,2006, Drama,7.0,276
+1459,tt0470385,Jiao Yulu, Jiao Yulu,1990, Biography,5.9,64
+1460,tt0470386,My Sisters Dictionary, Jiejie cidian,2005, Drama,7.3,15
+1461,tt0470390,The Law of Romance, Jing cha you yue,2003, Comedy&Romance,6.5,30
+1462,tt0470423,The Lin Family Shop, Lin jia pu zi,1959, Drama,7.2,108
+1463,tt0470532,The Story of Xiao-Yan, Shang xue lu shang,2004, Family,7.3,78
+1464,tt0470549,Unforgettable Life, Te bie shou shu shi,1988, Drama,5.0,24
+1466,tt0470610,Eat Hot Tofu Slowly, Xin ji chi bu liao re dou fu,2005, Comedy,6.3,139
+1467,tt0470617,The Making of Steel, Zhang da cheng ren,1997, Drama,7.3,57
+1468,tt0470621,Suffocation, Zhixi,2005, Thriller,5.6,138
+1470,tt0470935,My Bitter Sweet Taiwan, Taiwan wang shi,2004, Drama,7.5,17
+1472,tt0471087,Eight Thousand Li of Cloud and Moon, Ba qian li lu yun he yue,1947, Drama,6.8,34
+1473,tt0471381,Conned Once, Shang yi dang,1992, Comedy,6.4,29
+1474,tt0471437,The Vanished Woman, Xiao shi de nu ren,1993, Drama,6.5,8
+1475,tt0471945,Princess Iron Fan, Tie shan gong zhu,1941, Animation&Fantasy,6.5,232
+1477,tt0472622,The Red Detachment of Women, Hong se niang zi jun,1961, War,6.8,274
+1479,tt0473444,Curse of the Golden Flower, Man cheng jin dai huang jin jia,2006, Action&Drama&History,7.0,42547
+1485,tt0477719,Dam Street, Hong yan,2005, Drama,6.8,271
+1486,tt0477890,Tai tai wan sui, Tai tai wan sui,1947, Comedy&Drama&Romance,7.3,99
+1487,tt0477927,Wu qiong dong, Wu qiong dong,2005, Drama,5.7,59
+1488,tt0477928,New Women, Xin nu xing,1935, Drama,6.9,173
+1490,tt0478434,No More Applause, Wu ren he cai,1993, Drama,7.1,7
+1496,tt0480720,Seven Nights, Qi ye,2005, Horror,4.6,25
+1497,tt0481870,Li Shizhen, Li Shizhen,1956, Drama,6.8,16
+1498,tt0482051,One Foot Off the Ground, Ji quan bu ning,2006, Comedy&Drama,6.2,167
+1501,tt0483468,The White-haired Girl, Bai mao nu,1951, Drama&Music,6.4,79
+1504,tt0483922,Red Crag, Lie huo zhong yong sheng,1965, Drama,6.2,27
+1505,tt0483951,Shang shi, Shang shi,1981, Drama,6.8,6
+1506,tt0483957,All About Love, Tsoi suet yuk chi ngo oi nei,2005, Drama&Romance,5.9,378
+1507,tt0483960,Spring Is Splended Color, Wan zi qian hong zong shi chun,1959, Drama,7.0,5
+1509,tt0484051,Kochankowie roku tygrysa, Kochankowie roku tygrysa,2005, Adventure&Drama&Romance,5.2,114
+1513,tt0485441,Wild Rose, Ye mei gui,1932, Drama&Romance,6.8,85
+1514,tt0485442,Yichuan zhenzhu, Yichuan zhenzhu,1926, Drama,6.1,19
+1515,tt0485444,Zhifen shichang, Zhifen shichang,1933, Drama,5.8,9
+1516,tt0485669,Lin shi ba ba, Lin shi ba ba,1993, Drama,5.4,8
+1517,tt0485863,Battle of the Warriors, Mo gong,2006, Action&Drama&War,6.7,3977
+1520,tt0487102,Hui min zhi dui, Hui min zhi dui,1959, War,5.9,8
+1523,tt0487423,Dance with Farm Workers, He min gong tiao wu,2002, Documentary,7.2,13
+1526,tt0488103,Curse of Lola, Zu zhou,2005, Horror,5.0,165
+1527,tt0488572,Legend of the Dragon, Long wei fu zi,2005, Action&Drama,5.2,39
+1535,tt0490961,So Much Rice, Hao duo da mi,2005, Drama,5.6,23
+1537,tt0491029,The Silent Holy Stones, Lhing vjags kyi ma ni rdo vbum,2005, Drama,7.0,64
+1540,tt0492473,Little Red Flowers, Kan shang qu hen mei,2006, Comedy&Drama,6.7,1434
+1544,tt0493655,The Chinas Next Top Princess, Fei zi xiao,2005, Comedy,5.0,30
+1545,tt0494474,Bamboo in Winter, Bamboo in Winter,1991, Drama,6.6,58
+1546,tt0495135,Walking on the Wild Side, Lai xiao zi,2006, Drama,6.6,100
+1547,tt0496386,The Secret of the Magic Gourd, Bao hu lu de mi mi,2007, Drama&Family,5.2,612
+1548,tt0497083,The Parking Attendant in July, Kan che ren de qi yue,2004, Drama,7.2,67
+1556,tt0499224,Season of the Horse, Ji feng zhon de ma,2005, Drama,7.3,19
+1563,tt0757376,You and Me, Wo men lia,2005, Drama,7.3,435
+1568,tt0765120,My Blueberry Nights, My Blueberry Nights,2007, Drama&Romance,6.6,52387
+1569,tt0769507,The Sun Also Rises, Tai yang zhao chang sheng qi,2007, Drama&Fantasy,7.2,1901
+1572,tt0776792,Night Scene, Night Scene,2004, Drama,4.4,30
+1573,tt0777723,Love Message, Ai qin duan xun,2005, Romance,5.2,20
+1574,tt0777768,Before Born, Jieguo,2006, Drama,5.9,34
+1575,tt0777809,Chun dao ren jian, Chun dao ren jian,1937, Drama,3.9,7
+1576,tt0778051,Shanghai Lunba, Shanghai Lunba,2006, Drama&Romance,5.8,25
+1582,tt0781421,Grain in Ear, Mang zhong,2005, Drama,7.1,98
+1585,tt0783475,Getting Home, Luo ye gui gen,2007, Comedy&Drama,7.4,1602
+1586,tt0788135,Mini, Mini,2007, Romance,5.0,36
+1587,tt0788212,Agreed Not to Separate, Shuo hao bu fen shou,1999, Drama,5.0,7
+1588,tt0788249,Xin tian you, Xin tian you,2004, Drama,4.2,6
+1590,tt0788253,The Ghost Inside, Yi shen yi gui,2005, Horror,5.5,35
+1591,tt0788256,Contract, Zu qi,2006, Drama,7.0,33
+1595,tt0791066,Beijing or Bust, Beijing or Bust,2005, Documentary,6.3,9
+1596,tt0791313,How Is Your Fish Today?, Jin tian de yu zen me yang?,2006, Drama,6.2,120
+1597,tt0794374,Summer Palace, Yi He Yuan,2006, Drama&Romance,7.1,3058
+1602,tt0798443,The Longest Night in Shanghai, Yoru no Shanghai,2007, Drama&Romance,6.9,624
+1603,tt0798841,The Door, Men,2007, Thriller,5.3,73
+1609,tt0801351,Woman Soccer Player #9, Nü zu 9 hao,2001, Drama,4.6,9
+1611,tt0801844,A Young Prisoners Revenge, Fa guan ma ma,2001, N/A,8.2,6
+1612,tt0803096,Warcraft, Warcraft,2016, Action&Adventure&Fantasy,6.8,243943
+1613,tt0804438,An American in China, An American in China,2008, Comedy&Drama&Romance,4.8,214
+1615,tt0805513,Curiosity Kills the Cat, Hao qi hai si mao,2006, Drama&Mystery,6.3,358
+1617,tt0806105,The Sunflowers, Kuihua duoduo,2005, Drama,9.3,6
+1618,tt0806106,Lang tao sha, Lang tao sha,1936, Crime,6.8,30
+1627,tt0816250,Lethal Ninja, Chung gik yan je,2006, Action,6.0,70
+1632,tt0819785,The Matrimony, Xin zhong you gui,2007, Drama&Horror&Thriller,5.5,322
+1635,tt0821473,Karmic Mahjong, Xue zhan dao di,2006, Comedy,5.6,96
+1636,tt0821477,The Music Box, Li fa shi,2006, Drama&Romance&War,5.7,52
+1637,tt0821478,Loach Is Fish Too, Ni qiu ye shi yu,2005, Drama&Romance,6.4,34
+1638,tt0829114,Bliss, Fu sheng,2006, Drama,6.9,88
+1640,tt0830838,The Forest Ranger, Tiangou,2006, Crime&Drama,7.2,132
+1644,tt0833461,National Anthem, Guoge,1999, Drama&War,6.1,19
+1645,tt0833481,Family Ties, Kao shi yi jia qin,2001, Comedy,6.0,15
+1646,tt0833496,Samsara, Lun hui,1988, Drama,7.0,25
+1647,tt0833500,The House, Meng huan tian yuan,1999, Drama,5.7,41
+1648,tt0833547,The Game of Killing, Tian hei qing bi yan,2004, Horror,5.1,31
+1650,tt0833563,One Hundred, Yibai ge,2001, Comedy&Drama,6.0,6
+1651,tt0834597,Yu wangshi ganbei, Yu wangshi ganbei,1995, Drama,7.4,5
+1659,tt0843270,Crazy Stone, Feng kuang de shi tou,2006, Comedy&Crime&Drama,7.6,3371
+1660,tt0843282,Dreams May Come, Meng xiang zhao jin xian shi,2006, Drama&Romance,5.9,81
+1664,tt0847899,Tai Hang shan shang, Tai Hang shan shang,2005, History&War,5.3,115
+1665,tt0848538,Kung Fu Dunk, Gong fu guan lan,2008, Comedy&Sport,4.9,3306
+1666,tt0851515,Silver Medalist, Feng kuang de sai che,2009, Action&Adventure&Comedy,7.3,2073
+1667,tt0851532,Forever Enthralled, Mei Lanfang,2008, Biography&Drama&History,6.6,1443
+1668,tt0856057,Midnight, Ziye,1981, Drama,6.3,18
+1669,tt0856070,Ding Jun Shan, Ding Jun Shan,2006, N/A,5.2,6
+1670,tt0856113,Snow in the Wind, Snow in the Wind,2006, N/A,6.4,5
+1673,tt0859765,Still Life, San xia hao ren,2006, Drama&Family,7.3,6063
+1678,tt0865448,The 601st Phone Call, Di liu ling yi ge dian hua,2006, Drama,4.0,120
+1684,tt0881200,Assembly, Ji jie hao,2007, Action&Biography&Drama,7.3,6607
+1686,tt0882978,Three Kingdoms, San guo zhi jian long xie jia,2008, Action&Drama&History,6.2,6124
+1691,tt0884868,The Tokyo Trial, Dong Jing shen pan,2006, Crime&Drama&History,6.5,420
+1692,tt0885472,Love in Memory, Ai de shi ni,2006, Romance,4.9,9
+1695,tt0891361,Unfinished Comedy, Meiyou wancheng de xiju,1957, Comedy,7.4,8
+1700,tt0893307,Taking Father Home, Bei yazi de nanhai,2005, Drama,6.5,100
+1702,tt0896815,Missing, Sam hoi tsam yan,2008, Drama&Fantasy&Horror,4.8,468
+1709,tt0902249,Call for Love, Ai qing hu jiao zhuan yi,2007, Comedy&Romance,5.8,490
+1712,tt0905360,Prince of the Himalayas, Prince of the Himalayas,2006, Drama,6.7,91
+1719,tt0923923,Happy Birthday, Sang yat fai lok,2007, Romance,6.4,359
+1720,tt0924003,The Knot, Yun shui yao,2006, Drama&Romance&War,6.2,447
+1721,tt0926106,The Magic Legs, The Magic Legs,1989, Action,5.4,20
+1722,tt0926131,Purple Mountain, Purple Mountain,2008, Drama&History,7.0,44
+1723,tt0926298,Hong xiang, Hong xiang,1982, Family,6.5,12
+1729,tt0944223,Love in the City, Nan cai nu mao,2007, Romance,5.5,84
+1733,tt0949489,Lost in Beijing, Ping guo,2007, Drama,6.7,2127
+1734,tt0949564,Tuyas Marriage, Tuya de hun shi,2006, Drama&Romance,7.2,2223
+1737,tt0951302,Tang Poetry, Tang shi,2003, N/A,5.9,10
+1743,tt0969298,Mona Lisa, Meng na li sha,2007, Documentary,8.1,12
+1746,tt0970498,The Exam, Kaoshi,2006, N/A,6.5,6
+1753,tt0984126,Iron Lion, Tie shi,2003, Action,6.0,7
+1757,tt0989868,Thirteen Princess Trees, Shi san ke pao tong,2006, Drama,6.8,149
+1758,tt0989890,The Obscure, Xiao shuo,2007, Drama,8.1,31
+1770,tt1000775,Shuang shi ji, Shuang shi ji,2008, Drama&Mystery&Thriller,6.2,293
+1771,tt1002767,Li ren xing, Li ren xing,1949, Drama,6.9,15
+1772,tt1002784,Yu guang qu, Yu guang qu,1934, Drama,6.3,107
+1774,tt1003071,Waiting in Beijing, Waiting in Beijing,2008, Drama&Romance,4.2,33
+1775,tt1003135,Bu liao qing, Bu liao qing,1947, N/A,6.2,17
+1776,tt1003140,Dushi fengguang, Dushi fengguang,1935, Comedy&Drama,6.9,47
+1777,tt1003142,Scenes of City Life, Fengyun ernu,1935, Comedy&Drama&Musical,5.8,33
+1778,tt1003171,Modern Woman, Mo deng nü xing,1945, Drama,4.4,5
+1779,tt1003174,Nan guo zhi chun, Nan guo zhi chun,1932, Drama&Romance,4.2,15
+1780,tt1003189,Remorse at Death, Sheng si hen,1948, Drama&Musical&Romance,7.6,8
+1781,tt1003211,The Empress Wu Tse-Tien, Wu Ze Tian,1939, N/A,6.5,21
+1782,tt1003215,Yu jia nu, Yu jia nu,1943, Drama,5.8,9
+1783,tt1006881,Sweet Revenge, Gei sun yan,2007, Thriller,4.6,63
+1784,tt1006964,Clay Fear, Tao qi ren xing,2006, Horror,5.4,9
+1792,tt1018102,In Love We Trust, Zuo you,2008, Drama,6.8,706
+1798,tt1020972,Blind Mountain, Mang shan,2007, Crime&Drama,7.5,1694
+1800,tt1021003,In-Laws, Xi ying men,1981, Drama&Family,7.5,24
+1801,tt1021085,The Days Without Lei Feng, Li kai Lei Feng de ri zi,1996, Biography&Drama,6.4,146
+1803,tt1023143,To Be with You Forever, Xiang ban yong yuan,2000, Biography&Drama,7.3,6
+1804,tt1025100,Gemini Man, Gemini Man,2019, Action&Drama&Sci-Fi,5.7,92590
+1808,tt1032763,Inseparable, Xing ying bu li,2011, Drama&Mystery,5.4,2032
+1810,tt1032941,Night Train, Ye che,2007, Drama,6.5,435
+1832,tt1054024,Warm Spring, Nuan chun,2003, Drama,6.6,169
+1833,tt1054062,Xiaoshan Going Home, Xiaoshan huijia,1995, Drama,5.9,127
+1836,tt1055300,Painted Skin, Hua pi,2008, Action&Drama&Fantasy,6.3,4550
+1844,tt1064221,Marriage Trap, Hun li,2008, Drama,5.7,42
+1845,tt1064775,Courthouse on Horseback, Ma bei shang de fa ting,2006, Drama,6.6,223
+1851,tt1065330,The One Man Olympics, The One Man Olympics,2008, Comedy&Drama&Sport,6.6,33
+1855,tt1071291,The Park, Gongyuan,2007, Drama,7.3,30
+1856,tt1071304,Raised from Dust, Ju zi chen tu,2007, Drama,4.7,19
+1857,tt1071355,Road to Dawn, Ye ming,2007, Biography,5.6,18
+1859,tt1073548,Yasukuni, Yasukuni,2007, Documentary,6.1,139
+1863,tt1080877,The Case, Xiang zi,2007, Drama,7.0,23
+1869,tt1087834,Betelnut, Binglang,2006, Drama,6.4,34
+1871,tt1090662,Hutong Days, Hutong Days,2008, Drama,7.3,10
+1874,tt1092634,Shanghai, Shanghai,2010, Crime&Drama&Mystery,6.4,9311
+1875,tt1094286,Wuyong, Wuyong,2007, Documentary,6.6,276
+1878,tt1094655,San, San,2007, Documentary,7.5,34
+1880,tt1097256,Please Vote for Me, Please Vote for Me,2007, Documentary,7.9,1302
+1882,tt1102265,The Other Half, Ling yi ban,2006, Comedy&Drama,7.0,65
+1883,tt1102364,The Undaunted Wudang, Wudang,1983, Action,5.8,114
+1884,tt1103963,24 City, Er shi si cheng ji,2008, Drama,7.1,1783
+1889,tt1109591,Last House Standing, Fang dong jiang xian sheng,2004, Documentary,7.6,14
+1890,tt1110246,Di dao zhan, Di dao zhan,1965, War,6.6,275
+1896,tt1119166,Two Stupid Eggs, Da dian ying 2.0: Zhi liang ge sha gua de huang tang shi,2007, Comedy,4.4,86
+1898,tt1119661,Yin yang jie, Yin yang jie,1988, Drama,7.2,6
+1899,tt1123373,Detective Dee: The Mystery of the Phantom Flame, Di renjie: Tong tian di guo,2010, Action&Adventure&Drama,6.6,10666
+1900,tt1124052,City of Life and Death, Nanjing! Nanjing!,2009, Drama&History&War,7.7,10449
+1903,tt1128062,Fenhongse de meng, Fenhongse de meng,1932, Drama&Romance,5.5,8
+1912,tt1135971,Fujian Blue, Jin bi hui huang,2007, Drama,6.8,51
+1917,tt1144050,Neo-Lounge, Neo-Lounge,2007, Documentary,8.0,9
+1927,tt1156506,Connected, Bo chi tung wah,2008, Action&Adventure&Crime,6.6,1988
+1928,tt1157710,Seven Intellectuals in Bamboo Forest Part 4, Zhu lin qi xian 4,2008, N/A,6.3,18
+1929,tt1160619,Ti tou jiang, Ti tou jiang,2006, Drama,8.1,67
+1931,tt1170380,Urban Games, Cheng shi you xi,2014, Action&Crime&Sport,6.0,29
+1934,tt1173568,Slam, Slam,2008, Action&Drama&Family,5.9,289
+1935,tt1175523,Little Moth, Xue chan,2007, Drama,6.3,127
+1937,tt1180323,Im Liu Yuejin, Wo jiao Liu Yue Jin,2008, Drama,6.3,145
+1952,tt1201637,Lost Indulgence, Mi guo,2008, Drama,6.5,194
+1956,tt1205476,Distance Runners, Distance Runners,2009, Drama&Family&Romance,1.5,12
+1963,tt1210803,Unfinished Girl, Di san ge ren,2007, Thriller,5.1,31
+1965,tt1214973,And the Spring Comes, Lichun,2007, Drama&Music,7.4,514
+1969,tt1220564,The Birth of New China, Kai Guo Da Dian,1989, Drama&History,5.2,46
+1976,tt1221199,Sing gum zhook kao, Sing gum zhook kao,2004, Comedy&Sport,3.5,45
+1979,tt1226305,Knitting, Niu lang zhi nu,2008, Drama,7.5,48
+1980,tt1230424,Dance Subaru, Dance Subaru,2009, Drama,6.1,157
+2001,tt1239402,Deng Xiaoping, Deng Xiaoping,2002, Biography,4.8,12
+2002,tt1239466,Killing Two Birds with One Stone, Yi shi er niao,2005, Action&Adventure&Comedy,3.5,141
+2010,tt1245719,Red River, Hong he,2009, Drama,6.3,169
+2015,tt1247700,Trail of the Panda, Xiong mao hui jia lu,2009, Adventure&Family,6.5,166
+2021,tt1252571,Young and Clueless, Qing chun qi,2006, Drama,5.0,7
+2025,tt1258181,The Love Winner, Lian ai da ying jia,2004, Drama&Romance,4.6,45
+2027,tt1258226,Dream Team, Meng zhi dui,2008, Drama,6.9,14
+2028,tt1258240,Two Million Minutes: A Global Examination, Two Million Minutes: A Global Examination,2008, Documentary,7.9,62
+2029,tt1258623,Teeth of Love, Ai qing de ya chi,2007, Drama,6.9,140
+2031,tt1260508,Soul Carriage, Soul Carriage,2006, Drama,7.0,17
+2032,tt1260684,Sailfish, Qi yu,2008, Drama,3.1,46
+2042,tt1267272,Endless Way, Gui qu lai,2004, Drama,6.7,26
+2048,tt1270797,Venom, Venom,2018, Action&Adventure&Sci-Fi,6.7,370726
+2049,tt1271985,Seventeen, Shi qi,2008, Drama&Family,6.3,10
+2058,tt1281955,The Red Awn, Hongse kanbaiyin,2007, Drama,7.1,32
+2072,tt1293847,xXx: Return of Xander Cage, xXx: Return of Xander Cage,2017, Action&Adventure&Thriller,5.2,86536
+2077,tt1299370,The Equation of Love and Death, Li Mi De Cai Xiang,2008, Crime&Drama&Romance,6.9,1077
+2078,tt1300169,The Warrior and the Wolf, Lang zai ji,2009, Action&Drama&History,3.9,457
+2080,tt1301262,Lalas Gun, Gun Lala de qiang,2008, Drama,7.2,45
+2082,tt1303703,The Shaft, Dixia de tiankong,2008, Drama,6.5,68
+2086,tt1305049,Sweet Food City, Mei shi cun,2008, Drama,5.5,6
+2088,tt1305814,Dadas Dance, Dada,2008, Drama,7.3,41
+2090,tt1307001,The Rain of the Rainbow Flower, The Rain of the Rainbow Flower,2008, Drama,5.4,7
+2091,tt1307008,Set Off, Ji ri qi cheng,2008, Action&Comedy&Crime,6.5,233
+2095,tt1308138,Mulan: Rise of a Warrior, Hua Mulan,2009, Adventure&Drama&Romance,6.8,6113
+2100,tt1313153,Super Typhoon, Chao qiang tai feng,2008, Action&Drama,3.2,160
+2101,tt1313243,Routine Holiday, Huangjin zhou,2008, Drama,6.7,40
+2102,tt1313270,Dream Weavers: Beijing 2008, Zhu meng,2008, Documentary&Sport,6.1,28
+2103,tt1314247,Desires of the Heart, Tao hua yun,2008, Comedy&Drama&Romance,5.1,206
+2106,tt1315903,Yue Yue, Yue Yue,1986, Drama,8.4,5
+2108,tt1319718,Little Big Soldier, Da bing xiao jiang,2010, Action&Adventure&Comedy,6.9,14654
+2112,tt1324911,Ticket, Che piao,2008, Drama,6.4,52
+2116,tt1326208,Dancing in Amdo, Dancing in Amdo,2008, Documentary,7.2,8
+2118,tt1326972,Red Cliff II, Chi bi: Jue zhan tian xia,2009, Action&Adventure&Drama,7.6,23147
+2124,tt1330607,If You Are the One, Fei cheng wu rao,2008, Comedy&Romance,6.8,3183
+2129,tt1339145,Park Shanghai, Shanghai gongyuan,2008, Drama&Romance,7.1,16
+2131,tt1340761,Fit Lover, Ai qing hu jiao zhuan yi II: Ai qing zuo you,2008, Comedy&Romance,4.4,232
+2136,tt1343341,The Savage Land, Yuan Ye,1981, Drama,6.5,25
+2138,tt1343717,Qi chuan xu xu, Qi chuan xu xu,2009, Comedy&Drama,3.5,156
+2150,tt1356735,Crude Oil, Caiyou riji,2008, Documentary,7.1,45
+2154,tt1362045,Empire of Silver, Bai yin di guo,2009, Biography&Drama&Family,6.0,744
+2159,tt1371725,Woman-Taxi-Woman, Woman-Taxi-Woman,1991, Drama,6.6,17
+2163,tt1378195,A Big Road, A Big Road,2009, Drama,3.2,5
+2171,tt1387278,Storm Under the Sun, Storm Under the Sun,2007, Documentary,8.0,21
+2173,tt1388901,Wheat, Mai tian,2009, Action&Drama&History,5.7,330
+2174,tt1389082,Jalainur, Zha lai nuo er,2008, Drama,6.8,45
+2177,tt1391891,Ma wu jia, Ma wu jia,2007, Drama,7.2,6
+2179,tt1392743,Evening of Roses, Ya mei gui,2009, Comedy&Drama&Romance,7.3,71
+2181,tt1393746,Aftershock, Tang shan da di zhen,2010, Drama&History,7.5,8715
+2182,tt1395030,Teahouse, Cha guan,1982, Drama,7.9,187
+2183,tt1397498,Confucius, Kong Zi,2010, Biography&Drama&History,6.2,3618
+2184,tt1403130,Bodyguards and Assassins, Shi yue wei cheng,2009, Action&Drama&History,6.8,7609
+2185,tt1407073,River People, River People,2008, Drama,5.4,14
+2187,tt1408298,Li Tong, Li Tong,2009, Drama,7.9,23
+2189,tt1410063,The Flowers of War, Jin ling shi san chai,2011, Drama&History&Romance,7.6,50195
+2190,tt1410270,Cinderella Moon, Little Sister,2010, N/A,6.3,28
+2193,tt1422119,Spring Fever, Chun feng chen zui de ye wan,2009, Drama,6.5,1109
+2197,tt1425257,True Legend, Su Qi-er,2010, Action&Drama&History,6.4,8495
+2198,tt1426380,Oxhide II, Niupi er,2009, Documentary&Drama,7.3,86
+2199,tt1426381,Petition, Petition,2009, Documentary,7.9,228
+2203,tt1430641,Wild Horse from Shangri-La, Wild Horse from Shangri-La,2009, Drama,7.9,18
+2204,tt1433221,The Red Race, The Red Race,2008, Documentary,8.1,31
+2205,tt1434423,The Message, Feng sheng,2009, Crime&Drama&Thriller,7.4,3310
+2207,tt1438461,The Founding of a Republic, Jian guo da ye,2009, Drama&History&War,4.9,3346
+2208,tt1440385,Xin er lu ying xiong zhuan, Xin er lu ying xiong zhuan,1951, Drama&War,5.0,5
+2215,tt1448625,The Old Summer Palace, Yuan Ming Yuan,2006, Documentary,7.7,66
+2221,tt1454020,The Magic Aster, Ma lan hua,2009, Animation,3.3,11
+2222,tt1456660,No Mans Land, Wu ren qu,2013, Adventure&Crime&Drama,7.3,2143
+2224,tt1457738,Building 173, Building 173,2009, Animation&Documentary&History,7.9,31
+2225,tt1458902,2050, 2050,2020, Drama&Fantasy&Sci-Fi,3.7,671
+2226,tt1459248,Tie ren, Tie ren,2009, Drama,5.4,10
+2227,tt1459832,Ba bai bang, Ba bai bang,2008, Drama,7.2,11
+2228,tt1459871,Er Dong, Er Dong,2008, Drama,6.4,16
+2229,tt1459986,A Tale of Two Donkeys, Zou zhu qiao,2008, Drama,6.5,45
+2230,tt1460743,Reign of Assassins, Jian yu,2010, Action&Adventure,6.8,7621
+2236,tt1474180,Caipiao ye fengkuang, Caipiao ye fengkuang,2007, Comedy,4.8,5
+2239,tt1478291,Looking for Jackie, Xun zhao Cheng Long,2009, Action&Comedy&Family,4.0,1143
+2241,tt1479241,Gao xing, Gao xing,2009, Comedy&Drama,5.7,88
+2242,tt1479277,Lao Wus Oscar, Lao Wu de Aosika,2009, Comedy&Romance,5.5,8
+2246,tt1483811,The Search, Xunzhao zhimei gengdeng,2009, Drama,6.9,49
+2247,tt1485046,Once Upon a Time Proletarian, Women ceng jing de wuchanzhe,2009, Documentary,7.4,35
+2248,tt1487861,Eternal Beloved, Ai you lai sheng,2009, Drama&Fantasy&Romance,6.9,205
+2252,tt1491616,The Everlasting Flame, The Everlasting Flame: Beijing 2008,2009, Documentary&Sport,6.5,54
+2253,tt1494775,Metallic Attraction: Kungfu Cyborg, Ji qi xia,2009, Action&Comedy&Romance,4.4,447
+2254,tt1497623,Death Dowry, Mi Xiang,2009, Drama,5.8,14
+2255,tt1498858,Ocean Heaven, Hai yang tian tang,2010, Drama,7.6,2397
+2256,tt1499698,Judge, Touxi,2009, Drama,7.6,53
+2257,tt1500268,Wild Beast, Wild Beast,2008, Biography&Documentary&Family,8.3,15
+2258,tt1500679,1428, 1428,2009, Documentary,6.8,84
+2259,tt1500703,Cow, Dou niu,2009, Drama,7.2,770
+2260,tt1501292,Charging Out Amazon, Chong chu ya ma xun,2002, Action,5.3,158
+2261,tt1501299,Li Shuangshuang, Li Shuangshuang,1962, Comedy,6.3,31
+2263,tt1510811,Timber Gang, Mu bang,2006, N/A,6.7,21
+2264,tt1510861,Seasons in the Sun, Wo de tang,2009, Drama,4.0,11
+2265,tt1511528,Tracing Shadow, Zhui ying,2009, Action&Comedy,4.7,281
+2266,tt1511542,Twilight Dancing, Twilight Dancing,2009, Drama,5.7,6
+2269,tt1514426,One Night in Supermarket, Ye dian,2009, Comedy,6.2,367
+2271,tt1514450,Weaving Girl, Fang zhi gu niang,2009, Drama,6.9,95
+2272,tt1515202,Lan, Lan,2009, Drama,7.2,181
+2273,tt1516595,Trippin, Trippin,2011, Comedy&Horror,4.5,65
+2276,tt1518828,The Robbers, Wo de tangchao xiongdi,2009, Action&Comedy,5.6,217
+2278,tt1519635,Disorder, Xianshi shi guoqu de weilai,2009, Documentary&News,7.6,156
+2281,tt1522813,Aspirin, A si pi lin,2006, Romance,6.5,11
+2282,tt1525581,Youth, Qingnian,2009, Drama,6.4,5
+2284,tt1527815,Da Ming Palace, Da Ming Gong,2009, Documentary&Drama,8.2,29
+2285,tt1527823,Last Kung Fu Monk, Last Kung Fu Monk,2010, Action&Adventure&Comedy,4.1,698
+2286,tt1528077,Kun 1: Action, Kun 1: Action,2009, Drama,5.6,9
+2287,tt1528106,Mid-Afternoon Barks, Xiawu gou jiao,2007, Drama,6.2,5
+2288,tt1532533,Feast of Villains, Liu mang de sheng yan,2008, Drama,6.9,8
+2289,tt1533117,Let the Bullets Fly, Rang zi dan fei,2010, Action&Comedy&Drama,7.3,9645
+2291,tt1534449,Kung Fu Hero, Kung Fu Man,2012, Action,5.1,115
+2292,tt1538399,Snowfall in Taipei, Tai bei piao xue,2009, Drama,5.3,71
+2294,tt1541995,Snow Flower and the Secret Fan, Snow Flower and the Secret Fan,2011, Drama&History,6.1,3593
+2300,tt1554523,Under the Hawthorn Tree, Shan zha shu zhi lian,2010, Drama&Romance,7.1,2848
+2301,tt1555983,An Estranged Paradise, Mosheng tiantang,2002, Drama,6.9,9
+2302,tt1556143,Disney High School Musical: China, Ge wu qing chun,2010, Musical,5.3,92
+2304,tt1560136,Dangerous Games, Bangzi laohu ji,2007, Comedy,4.5,26
+2307,tt1562900,Turning Point 1977, Gao Kao 1977,2009, Drama,6.5,59
+2310,tt1566405,Summer Pasture, Summer Pasture,2010, Biography&Documentary&Drama,7.9,72
+2314,tt1572178,The Star and the Sea, Xinghai,2009, Biography,7.0,21
+2315,tt1573843,Invisible Wings, Yin xing de chi bang,2007, Family,6.6,24
+2317,tt1580409,Sorrows and Joys of a Middle-Aged Man, Ai le zhongnian,1949, Drama,8.2,73
+2318,tt1584849,A Singing Fairy, Xun zhao liu san jie,2009, Comedy&Drama&Music,6.6,13
+2319,tt1587878,Apart Together, Tuan yuan,2010, Drama,7.1,311
+2321,tt1590110,Floating in Memory, Liu li,2009, Drama,5.0,12
+2322,tt1592233,The Annunciation, The Annunciation,2010, Drama,4.9,8
+2329,tt1602480,Here Comes Fortune, Cai shen dao,2010, Comedy,4.6,66
+2335,tt1606322,Help, Jiu wo,2008, Horror&Thriller,5.4,52
+2337,tt1608787,My Fair Gentleman, Yao tiao shen shi,2009, Comedy&Romance,5.9,81
+2345,tt1613084,Ghost Town, Fei cheng,2008, Documentary,7.7,38
+2347,tt1616538,Confucius, Kong Fuzi,1940, Biography&Drama&History,6.5,57
+2348,tt1619890,Monkey King vs. Er Lang Shen, Wu Kong da zhan Er Lang shen,2007, Animation,4.6,12
+2349,tt1619892,Cherries, Yingtao,2007, Drama,7.2,19
+2351,tt1621780,Go Lala Go!, Du Lala sheng zhi ji,2010, Comedy&Drama&Romance,5.1,641
+2352,tt1623759,Mr. and Mrs. Incredible, San kei hap lui,2011, Action&Comedy&Romance,5.4,493
+2353,tt1624402,The Four Cupids, Si ge qiu bi te,2010, Comedy&Romance,6.0,17
+2361,tt1639822,Color Me Love, Ai chu se,2010, Comedy&Romance,5.2,80
+2362,tt1641398,Little Gobie, Little Gobie,2010, Animation&Family,3.1,48
+2364,tt1646103,I Wish I Knew, Hai shang chuan qi,2010, Documentary&History,6.9,618
+2365,tt1646123,Chongqing Blues, Rizhao Chongqing,2010, Drama,6.3,244
+2366,tt1646214,Love in Disguise, Lian ai tong gao,2010, Comedy&Romance,5.7,642
+2367,tt1648093,The Lost Bladesman, Guan yun chang,2011, Action&Biography&Drama,6.0,4072
+2369,tt1650831,Flower, Love and Bruises,2011, Drama,5.6,494
+2370,tt1652352,Single Man, Guangguner,2010, Comedy,7.2,151
+2372,tt1664629,Side A Side B, A mian B mian,2010, Comedy&Drama,4.9,33
+2373,tt1664635,Crime and Punishment, Zui yu fa,2007, Documentary,7.4,45
+2374,tt1664641,East Wind Rain, Dong feng yu,2010, Drama&War,4.8,107
+2375,tt1664704,Love for Life, Mo shu wai zhuan,2011, Drama&Romance,6.4,545
+2376,tt1666661,Driverless, Wu Ren Jia Shi,2010, Drama&Family&Romance,5.9,181
+2377,tt1666814,Though I Am Gone, Wo sui si qu,2006, Documentary,7.7,42
+2378,tt1667150,Wo zhi nv ren xin, Wo zhi nv ren xin,2011, Comedy&Romance&Sci-Fi,5.5,1204
+2380,tt1669709,Invisible Killer, Wu xing sha,2009, Crime,4.6,17
+2381,tt1669799,Old Fish, Qian jun yi fa,2008, Thriller,7.2,15
+2383,tt1674766,101 Proposals, 101 ci qiu hun,2013, Romance,5.3,422
+2385,tt1677711,Using, Long ge,2008, Documentary,8.0,41
+2386,tt1677723,Street Life, Street Life,2006, Documentary,7.1,25
+2387,tt1679593,Ikkyû san, Ikkyû san,2014, Animation,4.6,7
+2388,tt1680052,Diago, Ao ge,2010, Drama,5.6,11
+2391,tt1686784,Flying Swords of Dragon Gate, Long men fei jia,2011, Action&Adventure,6.0,7745
+2394,tt1698654,Catching the Sun, Catching the Sun,2015, Documentary&Drama&History,6.8,544
+2395,tt1699513,Beginning of the Great Revival, Jian dang wei ye,2011, Drama&History,2.9,5953
+2397,tt1700492,Deng zhu ni hui lai, Deng zhu ni hui lai,2010, Horror,5.2,36
+2398,tt1701993,Winter Vacation, Han jia,2010, Drama,6.3,297
+2400,tt1704161,33 Postcards, 33 Postcards,2011, Crime&Drama&Music,6.2,1027
+2403,tt1708427,Curse of the Deserted, Huang cun gong yu,2010, Horror,4.3,121
+2405,tt1713439,Addicted to Love, Addicted to Love,2010, Comedy&Drama&Romance,6.0,9
+2406,tt1715758,Crossing the Mountain, Fan shan,2010, Documentary,6.6,12
+2407,tt1717715,The Monkey King Havoc in Heavens Palace, Xi you ji: Da nao tian gong,2014, Action&Adventure&Family,4.9,4734
+2409,tt1720130,Karamay, Karamay,2010, Documentary,8.4,76
+2410,tt1720267,The Legend of Silk Boy, The Legend of Silk Boy,2010, Adventure&Animation&Family,3.4,193
+2411,tt1720297,Showtime, Yong xin tiao,2010, Drama&Fantasy&Musical,4.5,20
+2412,tt1721131,Wangliangs Ideal, Wangliang de lixiang,2011, Drama,6.4,13
+2414,tt1723118,The Piano in a Factory, Gang de qin,2010, Comedy&Drama,7.4,1213
+2417,tt1726738,Sacrifice, Zhao shi gu er,2010, Drama&History,6.2,2189
+2418,tt1727396,White Deer Plain, Bai lu yuan,2011, Drama&History,6.3,374
+2420,tt1730720,Empire of Assassins, Empire of Assassins,2011, Action,3.5,396
+2423,tt1733271,Return Ticket, Dao fu yang liu bai li,2011, Drama,6.7,158
+2427,tt1737237,Lost on Journey, Ren zai jiong tu,2010, Comedy,6.7,1839
+2429,tt1740100,Deep in the Clouds, Bi luo xue shan,2010, Drama,3.1,54
+2430,tt1740697,The Dark Forest, The Dark Forest,2014, Action&Drama&Thriller,7.1,17
+2432,tt1744790,Better Life, Better Life,2010, Drama,7.5,47
+2433,tt1745713,Buddha Mountain, Guan yin shan,2010, Drama,6.7,762
+2436,tt1753976,Eternal Moment, Jiang Ai,2011, Drama&Romance,5.5,282
+2437,tt1754001,A Tibetan Love Song, Kang ding qing ge,2010, Drama,5.7,26
+2439,tt1754484,The Way of the Spur, The Way of the Spur,2012, Action&Thriller&Western,7.6,17
+2440,tt1754743,Thomas Mao, Thomas Mao,2010, Comedy&Fantasy&Sci-Fi,5.7,13
+2442,tt1756773,Flirting Scholar 2, Tang Bohu dian Qiuxiang 2 zhi Si Da Caizi,2010, Comedy,3.6,125
+2443,tt1757770,International Rescue, Guo ji da ying jiu,1990, Action&Drama&War,5.3,6
+2445,tt1764492,Lost in Panic Room, Mi shi zi bu ke gao ren,2010, Mystery&Thriller,5.5,45
+2448,tt1772230,1911, Xin hai ge ming,2011, Drama&History&War,5.8,5908
+2451,tt1773370,Death and Glory in Changde, Die xue gu cheng,2010, Action&Drama&History,5.9,230
+2452,tt1774514,Once Upon a Time in Tibet, Once Upon a Time in Tibet,2010, Drama&Romance,6.7,81
+2454,tt1777620,The Dreams of Jinsha, Meng hui jin sha cheng,2010, Animation,5.1,21
+2456,tt1778384,My Own Private Deutchland, Wo zi ji de de yi zhi,2007, N/A,5.8,5
+2458,tt1780954,The I-go King and His Son, Qi wang he ta de er zi,2008, N/A,6.4,8
+2459,tt1784443,Ganglamedo, Ganglamedo,2006, Drama&Music&Romance,7.0,17
+2460,tt1790669,My Kingdom, Da wu sheng,2011, Action&Drama&Romance,5.1,422
+2461,tt1795051,The High Life, Xun huan zuo le,2010, Drama,5.2,12
+2466,tt1802198,Man with No Name, Wu ming zhe,2010, Documentary,7.6,92
+2467,tt1805334,Distant Thunder, Mi cheng,2010, Drama,5.7,37
+2468,tt1809343,Sparkling Red Star, Shan shan de hong xing,1974, Drama&War,6.2,91
+2469,tt1810602,If You Are the One 2, Fei cheng wu rao 2,2010, Comedy&Romance,5.9,1415
+2471,tt1810858,Wind Blast, Xi Feng Lie,2010, Action,5.1,355
+2472,tt1811303,Bad Romance, Hua wei mei,2011, Drama&Romance,4.9,76
+2474,tt1814830,Piercing I, Piercing I,2010, Animation&Crime&Drama,6.8,119
+2475,tt1815638,A Woman for Two, Chun Tao,1988, Drama,7.4,30
+2477,tt1819766,Who Do I Think I Am?, Who Do I Think I Am?,2011, Biography&Documentary&Music,7.3,9
+2478,tt1819769,My Fair Son, Wo ruhua si yu de erzi,2005, Drama,4.5,77
+2479,tt1825731,Da Xiao Jiang Hu, Da Xiao Jiang Hu,2010, Comedy,4.0,299
+2480,tt1825732,Da wei wang, Da wei wang,2009, N/A,2.3,9
+2482,tt1830913,Night Inn, Ye dian,1947, Drama,7.3,10
+2483,tt1831832,Star Appeal, Xingxing xiangxi xi,2004, Drama&Sci-Fi,3.6,23
+2484,tt1832439,Qinghai chongwen, Qinghai chongwen,1929, Drama,5.4,11
+2486,tt1838515,Joyful Reunion, Yin shi nan nü - Hao yuan you hao jin,2012, Comedy&Romance,4.5,117
+2490,tt1841701,Foreigner, Lao Wai,2010, Comedy&Drama&Music,6.0,24
+2493,tt1847591,Fortune Teller, Fortune Teller,2010, Documentary,7.9,94
+2494,tt1847646,Meishi Street, Meishi Street,2006, Documentary,7.9,8
+2495,tt1847683,San Yuan Li, San Yuan Li,2003, Documentary,6.7,16
+2496,tt1847713,The Guillotines, Xue di zi,2012, Action&Drama,4.7,1267
+2497,tt1847747,We are the ... of Communism, We are the ... of Communism,2007, Documentary,6.6,9
+2499,tt1849786,Jing tian dong di, Jing tian dong di,2009, Action,2.2,5
+2500,tt1851871,Choyleefut: Speed of Light, Cai li fu,2011, Action&Comedy&Drama,4.2,479
+2504,tt1856038,Love in Space, Quan qiu re lian,2011, Comedy&Romance,5.5,325
+2506,tt1857913,The Sorcerer and the White Snake, Bai she chuan shuo,2011, Action&Fantasy&Romance,5.8,8116
+2507,tt1859619,The Transition Period, The Transition Period,2010, Documentary&History,7.5,66
+2508,tt1860308,Shanshan de hongxin haizi de tiankong, Shanshan de hongxin haizi de tiankong,2007, Animation,6.0,14
+2509,tt1861297,Boatmans Daughter, Chuan jia nu,1935, Drama,3.8,5
+2510,tt1861421,Sien lui yau wan, Sien lui yau wan,2011, Fantasy&Horror,5.6,1270
+2511,tt1864411,Mayday 3DNA, Wu yue tian zhui meng 3DNA,2011, Documentary&Drama&Music,5.7,127
+2513,tt1865516,Tape, Tape,2011, Biography&Documentary&Drama,7.0,5
+2515,tt1871360,Restoring the Light, Restoring the Light,2011, Documentary&Drama,8.5,19
+2517,tt1874412,AniMen: Triton Force, AniMen: Triton Force,2010, Adventure&Animation&Sci-Fi,4.3,228
+2518,tt1874516,Gu Nainai, Gu Nainai,2010, Documentary&History,8.5,19
+2519,tt1876441,The Man Behind the Courtyard House, Shou Wang Zhe,2011, Crime&Drama&Mystery,5.9,112
+2520,tt1876517,Legend of Kung Fu Rabbit, Tu xia chuan qi,2011, Action&Adventure&Animation,3.1,534
+2521,tt1878842,A Jewish Girl in Shanghai, A Jewish Girl in Shanghai,2010, Animation&Drama&War,5.9,27
+2522,tt1880203,Freedom Hills, Freedom Hills,2010, Drama&Music&Romance,8.6,8
+2524,tt1883187,Fen Dou, Fen Dou,2011, Drama&Romance,3.7,24
+2525,tt1883397,Underdog Knight 2, Ying han 2: Feng pei dao di,2011, Action&Crime,6.0,158
+2526,tt1883399,Mr. Zhai, Zhai Nan Zong Dong Yuan,2011, Comedy&Romance,3.1,24
+2527,tt1883400,The Purple House, Zi Zhai,2011, Horror&Mystery&Romance,5.4,34
+2528,tt1884331,Jiong Tan Jia Ren, Jiong Tan Jia Ren,2011, Comedy&Horror,5.6,9
+2529,tt1885448,The Warring States, Zhan guo,2011, Drama&War,4.5,481
+2530,tt1886763,Ye Jing Hun, Ye Jing Hun,2011, Horror,3.4,18
+2531,tt1887945,The Law of Attraction, Wan You Yin Li,2011, Drama,5.6,143
+2532,tt1887955,Yin hun nan nu, Yin hun nan nu,2011, Drama,5.1,122
+2534,tt1896767,Lock Destination, Jian shi chu ji,2011, Action&Drama,4.0,43
+2535,tt1899193,Gen Zong Kong Ling Xue, Gen Zong Kong Ling Xue,2011, Comedy&Mystery,6.5,23
+2536,tt1900886,Kung Fu Wing Chun, Gong fu yong chun,2010, Action&Comedy&Romance,6.6,371
+2538,tt1907717,Adventure of the King, Long feng dian,2010, Comedy&Romance,5.0,121
+2541,tt1915545,Min Gan Shi Jian, Min Gan Shi Jian,2010, Drama&Mystery&Romance,6.1,17
+2542,tt1918883,The Old Testament, Jiu yue,2001, Drama,5.7,19
+2543,tt1919137,The Last Supper, Wang de Shengyan,2012, Action&History,5.7,729
+2544,tt1920885,Big Fish & Begonia, Da yu hai tang,2016, Adventure&Animation&Drama,7.1,4977
+2545,tt1920928,Forbidden Kiss, Gu bao zhi wen,2012, Romance,6.9,16
+2546,tt1922566,Sauna on Moon, Change,2011, Drama,5.4,30
+2548,tt1924440,Walking to School, Walking to School,2009, Drama,8.0,14
+2549,tt1929278,Welcome to Shamatown, Jue zhan cha ma zhen,2010, Adventure&Comedy&Western,5.6,141
+2551,tt1934335,A Beautiful Life, Mei li ren sheng,2011, Drama&Romance,6.7,805
+2554,tt1941536,Romancing in Thin Air, Gao hai ba zhi lian II,2012, Drama&Romance,6.2,447
+2557,tt1943048,My Own Swordsman, Wu lin wai zhuan,2011, Action&Comedy,5.3,331
+2558,tt1946502,UglyDolls, UglyDolls,2019, Adventure&Animation&Comedy,5.0,5962
+2560,tt1961203,Black Blood, Black Blood,2011, Drama,5.5,32
+2561,tt1967478,Coming Back, Hui ma qiang,2011, Comedy&Crime&Drama,3.8,29
+2565,tt1978472,Lucky Dog, Erduo da you fu,2008, Drama,7.3,56
+2566,tt1980046,Beijing Besieged by Waste, Beijing Besieged by Waste,2012, Documentary&News,7.7,54
+2567,tt1980198,Mysterious Island, Gu dao jing hun,2011, Horror,3.0,287
+2569,tt1980971,Ghosts of Old Shanghai, Ghosts of Old Shanghai,2011, Horror&Thriller,7.3,7
+2570,tt1981080,Tai ji 1: Cong ling kai shi, Tai ji 1: Cong ling kai shi,2012, Action&Adventure&Drama,6.1,4854
+2571,tt1982693,Guangrongde Fennu, Guangrongde Fennu,2006, Drama,7.3,69
+2573,tt1985176,Perfect Baby, Ba li bao bei,2011, Drama,5.4,53
+2574,tt1990211,The Devil Inside Me, Duo ming xin tiao,2011, Horror&Thriller,5.6,63
+2575,tt1990255,The Pretending Lovers, Jia Zhuang Qing Lv,2011, Comedy&Romance,5.5,79
+2576,tt1990256,Rest on Your Shoulder, Jian Shang Die,2011, Drama&Fantasy&Romance,4.9,82
+2578,tt1997605,My Sassy Girl 2, Wo De Ye Man Nu You 2,2010, Comedy&Romance,4.8,82
+2579,tt1997606,Midnight Beating, Wu ye xin tiao,2010, Horror&Thriller,4.2,24
+2580,tt1997607,Pleasant Goat and Big Big Wolf 3, Xi Yang Yang Yu Hui Tai Lang Zhi Tu Nian Ding Gua Gua,2011, Adventure&Animation&Comedy,4.8,54
+2581,tt2004211,Dear Enemy, Qin Mi Di Ren,2011, Comedy&Romance,4.6,144
+2582,tt2007521,Xiang Xiao Qiang Yi Yang Huo Zhe, Xiang Xiao Qiang Yi Yang Huo Zhe,2011, Comedy,4.9,7
+2584,tt2009551,Guerrillas on the Plain, Ping yuan you ji dui,1955, War,7.0,16
+2586,tt2011366,Waking the Green Tiger, Waking the Green Tiger,2011, Documentary&History&News,7.7,18
+2588,tt2016857,Ba xian de chuan shuo, Ba xian de chuan shuo,1985, Drama&Fantasy,6.2,13
+2589,tt2016992,Son of the Stars, Xing xing de hai zi,2011, Drama,7.0,6
+2590,tt2017049,Zan men de niu bai sui, Zan men de niu bai sui,1983, Drama,6.7,13
+2591,tt2017561,Journey to the West, Xi you: Xiang mo pian,2013, Action&Adventure&Comedy,6.8,11733
+2592,tt2023449,Dead Men Talking, Dead Men Talking,2011, Documentary,6.4,42
+2593,tt2027098,Space Dream, Fei tian,2011, Drama,4.9,16
+2594,tt2027211,Seer, Sai er hao,2011, Adventure&Animation&Family,3.3,12
+2595,tt2027223,Don Quixote, Tang Ji Ke De,2010, Action&Adventure&Drama,5.4,29
+2597,tt2027279,Yang Shan Zhou, Yang Shan Zhou,2011, Drama,6.0,6
+2598,tt2034747,Serfs, Nong nu,1963, Drama,6.6,14
+2600,tt2040434,Legend of the Moles: The Frozen Horror, Mo er zhuang yuan bing shi ji,2011, Adventure&Animation&Fantasy,4.8,6
+2601,tt2042432,11 Flowers, Wo 11,2011, Crime&Drama&History,7.0,633
+2602,tt2043878,Mr. Tree, Hello! Shu xian sheng,2011, Comedy&Drama,6.7,299
+2603,tt2044077,The Sword Identity, Wo kou de zong ji,2011, Action,5.4,544
+2604,tt2044847,Seven Arhat, Qi Xiao Luo Han,2010, Action&Comedy,5.3,33
+2605,tt2046152,The Locked Door, Nu ren ru hua,2012, Drama,6.6,34
+2607,tt2047732,Storm Rider Clash of the Evils, Feng Yun Jue,2008, Action&Adventure&Animation,5.7,178
+2608,tt2049598,Hee Travels, Xi You Ji,2010, Comedy&Fantasy,2.0,47
+2609,tt2049599,Illusion Apartment, Yi du gong yu,2010, Horror&Thriller,4.2,11
+2610,tt2050604,People Mountain People Sea, Ren shan ren hai,2011, Crime&Drama&Thriller,6.1,199
+2612,tt2058673,Point Break, Point Break,2015, Action&Adventure&Crime,5.4,59264
+2613,tt2061621,Cool Young, Cool Young,2011, Drama,4.3,15
+2615,tt2062596,Mural, Hua bi,2011, Fantasy,5.3,524
+2616,tt2062659,The Sun Beaten Path, Dbus lam gyi nyi ma,2011, Drama,6.8,28
+2617,tt2062978,Lost in Panic Cruise, Mi shi zi bu ke kao an,2011, Mystery,5.1,52
+2619,tt2063013,The Assassins, Tong que tai,2012, Drama&History,5.5,1870
+2624,tt2071441,Dangerous Liaisons, Wi-heom-han gyan-gye,2012, Drama&Mystery&Romance,5.9,1804
+2625,tt2071628,The Resistance, Fankang zhe,2011, Action&Adventure&Drama,5.3,1110
+2629,tt2072257,The Floating Shadow, The Floating Shadow,2011, Drama&Thriller,7.0,6
+2631,tt2075232,One Mile Above, Kora,2011, Adventure&Drama,6.7,247
+2633,tt2075261,Bu pa zei dian ji, Bu pa zei dian ji,2011, Drama,3.1,10
+2635,tt2076396,Zhong Guo Men (China Gate), Zhong Guo Men (China Gate),2011, Documentary,6.9,19
+2640,tt2080418,Lady of the Dynasty, Wang chao de nu ren: Yang Gui Fei,2015, Drama&History&Romance,4.1,534
+2643,tt2082510,Survival Song, Xiao li zi,2008, Documentary,7.7,7
+2644,tt2084012,The Dragon Knight, Luoke Wangguo! Sheng Long Qishi,2011, Animation,3.2,6
+2646,tt2085850,Lost in the Mountains, Kong shanyi,2011, Drama,6.2,6
+2647,tt2088024,Yulu, Yulu,2011, Documentary,4.9,14
+2648,tt2089720,Old Dog, Khyi rgan,2011, Drama,6.7,79
+2650,tt2095602,Who is Undercover, Chuang Xia You Ren,2011, Horror&Thriller,3.9,17
+2651,tt2095832,Love on Credit, Xing fu e du,2011, Comedy&Romance,4.6,126
+2653,tt2097954,Zhui yu, Zhui yu,1959, Drama,8.0,9
+2654,tt2098878,The Western Trunk Line, Xi gan dao,2007, Drama,6.7,11
+2656,tt2101352,Fallen City, Fallen City,2011, Documentary&Drama,6.6,38
+2657,tt2101518,Da lang tao sha, Da lang tao sha,1964, Drama,6.5,6
+2658,tt2102472,White Vengeance, Hong men yan chuan qi,2011, Action&Drama&History,6.2,1742
+2659,tt2102502,My Lucky Star, Fei chang xing yun,2013, Action&Adventure&Comedy,5.1,464
+2660,tt2105070,Night of an Era, Zai jian wu tuo bang,2009, Documentary,6.4,19
+2662,tt2106514,Legendary Amazons, Yang men nu jiang zhi jun ling ru shan,2011, Action,4.4,672
+2663,tt2106741,The Bullet Vanishes, Xiao shi de zi dan,2012, Action&Adventure&Drama,6.6,1972
+2664,tt2106763,Yu shi shang tong ju, Yu shi shang tong ju,2011, Drama,5.1,60
+2665,tt2108511,My Mongolian Mother, E ji,2010, Drama,7.0,8
+2666,tt2111347,The Old Donkey, Lao lu tóu,2010, Drama,6.2,6
+2667,tt2111368,My Spectacular Theatre, Mang ren dian ying yuan,2010, Drama,6.8,9
+2668,tt2111407,The Shaolin Brothers, Shao Lin Si di zi,1983, Action&Adventure,5.4,11
+2669,tt2113822,Back to 1942, Yi jiu si er,2012, Drama,6.9,3160
+2670,tt2114503,Our Farmland, Wo men de tian ye,1983, Drama,6.8,20
+2671,tt2115388,Love is Not Blind, Shi lian 33 tian,2011, Comedy&Drama&Romance,6.5,1526
+2672,tt2118727,Speed Angels, Ji su tian shi,2011, Action,4.4,180
+2673,tt2118775,Special ID, Te shu shen fen,2013, Action&Crime,5.6,3966
+2675,tt2124832,Shattered, Lao tang tou,2011, Documentary,7.6,31
+2678,tt2136916,Falling from the Sky, Falling from the Sky,2011, Documentary,8.2,55
+2679,tt2137956,City Without Nights, Bu ye cheng,1957, Drama,6.8,6
+2682,tt2139953,Graupel Poetry, Graupel Poetry,2013, Drama,6.0,14
+2685,tt2150371,The Crossing, The Crossing,2014, Drama&History&Romance,6.1,1528
+2686,tt2150394,Kung-Fu Master, Kung-Fu Master,2010, Action,5.5,80
+2687,tt2154334,Biao, Biao,1949, Drama,6.6,8
+2690,tt2158511,Xiong zhai you ling, Xiong zhai you ling,2002, Horror,4.6,12
+2692,tt2165735,Drug War, Du zhan,2012, Action&Crime&Drama,7.0,9502
+2693,tt2165907,Lang zai dui men chang shan ge, Lang zai dui men chang shan ge,2011, Drama,6.8,12
+2694,tt2167781,Egg and Stone, Jidan he shitou,2012, Drama,6.0,55
+2695,tt2168000,Gone with the Bullets, Yi bu zhi yao,2014, Action&Comedy&Drama,5.8,1389
+2696,tt2169322,Finding Mr. Right, Bei Jing yu shang Xi Ya Tu,2013, Comedy&Romance,6.4,2343
+2697,tt2170536,Repeat I Love You, Ying zi ai ren,2012, Drama&Romance,4.6,98
+2698,tt2170573,The Allure of Tears, Qing Cheng Zhi Lei,2011, Drama,5.0,99
+2701,tt2176668,Double Xposure, Er ci pu guang,2012, Crime&Drama&Mystery,5.5,402
+2703,tt2181220,Bachelor Mountain, Guanggun,2011, Documentary,6.6,12
+2710,tt2187209,Wing Chun Xiao Long, Yong chun xiao long,2013, Action&Family,4.3,13
+2711,tt2190193,Back to the Sea, Back to the Sea,2012, Animation&Comedy&Family,4.2,196
+2712,tt2190280,Any Other Side, Yedian gui tan,2012, Thriller,4.2,67
+2713,tt2192624,Lift to Hell, Lift to Hell,2013, Drama&Horror&Mystery,4.7,69
+2714,tt2193269,Pleasant Goat and Big Big Wolf 2, Xi Yang Yang Yu Hui Tai Lang Zhi Hu Hu Sheng Wei,2010, Animation,4.9,64
+2715,tt2193271,Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian, Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian,2012, Adventure&Animation&Comedy,4.8,51
+2716,tt2193273,Pleasant Goat and Big Big Wolf, Xi Yang Yang Yu Hui Tai Lang Zhi Niu Qi Chong Tian,2009, Animation,4.8,86
+2720,tt2204340,The Four, Si da ming bu,2012, Action&Crime&Fantasy,5.8,2174
+2722,tt2210607,The Break-Up Artist, Fen Shou Da Ren,2014, Comedy,3.6,12
+2724,tt2215604,My Airhostess Roommate, My Airhostess Roommate,2009, Comedy&Romance,4.8,32
+2726,tt2223140,The Poseidon Project, The Poseidon Project,2013, Adventure&Documentary&History,7.0,17
+2727,tt2224445,Lucky Dog, Shi qi shi dai,2012, Comedy&Crime,3.8,11
+2728,tt2226377,Sentimental Animal, Gan qing dong wu,2011, Drama,4.6,8
+2732,tt2231617,The Next Miracle, Xia yi ge qi ji,2011, Biography&Drama,5.5,12
+2735,tt2238032,Skiptrace, Jue di tao wang,2016, Action&Adventure&Comedy,5.7,19537
+2738,tt2238995,Blood Stained Shoes, Xiu hua xie,2012, Horror,4.9,122
+2740,tt2244098,Ci chu yu bi chu, Ci chu yu bi chu,2012, Drama,6.2,94
+2742,tt2248789,Crazy Dinner Party, Fan Ju Ye Feng Kuang,2012, Comedy&Drama,4.7,88
+2744,tt2249207,I Do, Wo Yuan Yi,2012, Comedy&Romance,5.6,218
+2745,tt2258443,Lees Adventure, Lees Adventure,2011, Drama&Fantasy&Romance,6.0,130
+2746,tt2259360,Caught in the Web, Sou suo,2012, Drama,6.5,960
+2751,tt2271555,The Second Woman, Qing mi,2012, Drama&Romance&Thriller,5.2,211
+2752,tt2273470,Beijing Blues, Beijing Blues,2012, Action&Crime,6.5,262
+2754,tt2275080,McDull: Pork of Music, Mak Dau dong dong poon ngo sum,2012, Animation&Comedy,6.6,244
+2755,tt2278392,American Dreams in China, Zhong Guo he huo ren,2013, Drama,7.0,2167
+2756,tt2283336,Men in Black: International, Men in Black: International,2019, Action&Adventure&Comedy,5.6,112900
+2758,tt2290567,Once Upon a Time in Shanghai, E zhan,2014, Action&Crime,6.8,1884
+2759,tt2290645,Design of Death, Sha sheng,2012, Drama&Mystery,6.5,481
+2764,tt2296404,Tai Chi 2: The Hero Rises, Tai ji 2: Ying xiong jue qi,2012, Action&Adventure,6.2,3337
+2765,tt2296692,First Time, Di yi ci,2012, Drama&Romance,6.5,431
+2766,tt2300438,Fly with the Crane, Fly with the Crane,2012, Drama,6.2,78
+2769,tt2304741,Lei yu, Lei yu,1984, Drama,7.0,31
+2771,tt2319805,Cold Steel, Bian di lang yan,2011, Action,6.5,95
+2773,tt2321299,Crazy Foolish Thieves, Feng Kuang De Chun Zei,2012, Comedy&Crime,3.4,10
+2774,tt2321373,Marry a Perfect Man, Jia ge 100 fen nan ren,2012, Comedy&Romance,4.4,70
+2775,tt2321661,Truth or Dare, Zhen Xin Hua Da Mao Xian,2012, Comedy&Romance,4.8,12
+2776,tt2321663,Chong zhen jing wu men, Chong zhen jing wu men,1998, Action,5.7,6
+2778,tt2332516,Memories Look at Me, Ji yi wang zhe wo,2012, Drama,6.3,59
+2779,tt2332754,Mama Rainbow, Mama Rainbow,2012, Documentary&Family,7.6,17
+2780,tt2334350,The Incredible Truth, Ren jian zheng fa,2013, Horror,3.4,104
+2782,tt2335766,The Cockfighters, The Cockfighters,2012, Drama,6.1,7
+2785,tt2343633,The Camels Dance, Luo tuo xian wu,1935, Animation,5.2,6
+2786,tt2346354,Yugo and Lala, Yugo and Lala,2012, Adventure&Animation&Fantasy,6.2,23
+2787,tt2347782,Animen: The Galactic Battle, Animen: The Galactic Battle,2012, Adventure&Animation&Sci-Fi,3.7,51
+2788,tt2351128,Ever Loving Ocean of Blues, Lan diao hai zhi lian,2012, Drama&Romance,5.3,6
+2790,tt2354196,Croczilla, Bai wan ju e,2012, Action&Adventure&Comedy,4.2,717
+2791,tt2355497,Beijing 2003, Beijing 2003,2004, Documentary,7.7,20
+2792,tt2355551,Ordos 100, Eerduosi 100,2012, Documentary,6.3,6
+2793,tt2355571,So Sorry, Fei chang yi han,2012, Documentary,6.7,16
+2794,tt2355695,Disturbing the Peace, Lao ma ti hua,2009, Documentary,7.9,30
+2795,tt2355935,Fairytale, Tong hua,2008, Documentary,7.5,8
+2796,tt2357023,The Unfortunate Car, Che Zai Jiong Tu,2012, Comedy,3.2,36
+2797,tt2361586,The Lion Roars 2, He dong shi hou 2,2012, Comedy,3.7,108
+2798,tt2363421,The Chrysalis, Nü yong,2012, Drama&Horror&Mystery,5.6,130
+2799,tt2365970,Xiong mao da xia, Xiong mao da xia,2009, Comedy,3.1,29
+2800,tt2367704,Tian jin xian ren, Tian jin xian ren,2012, Drama,8.0,17
+2801,tt2369127,Mystery, Fu cheng mi shi,2012, Crime&Drama,6.5,1010
+2802,tt2370394,Beijing Flickers, You-Zhong,2012, Drama,6.3,86
+2804,tt2371411,Painted Skin: The Resurrection, Hua pi 2,2012, Fantasy&Mystery&Romance,6.2,3201
+2806,tt2374914,You Deserve to Be Single, Huo gai ni dan shen,2010, Comedy&Drama&Romance,7.2,67
+2808,tt2378467,Song of Silence, Yang mei zhou,2012, Drama,6.7,50
+2809,tt2379356,Fen Shi Ren, Fen Shi Ren,2012, Drama,5.7,12
+2811,tt2381300,Latitude 52, Lao shao qia,2012, Drama,7.3,6
+2812,tt2385033,Close Encounter of Mahjong, Ju zhong ju,2011, Crime,6.0,7
+2813,tt2385138,Lethal Hostage, Bian jing feng yun,2012, Crime&Drama&Thriller,6.9,378
+2817,tt2393829,Guns and Roses, Huang jin da jie an,2012, Drama,5.9,583
+2819,tt2400407,Eastern Bandits, Pi fu,2012, Drama&History,5.3,183
+2820,tt2401013,Full Circle, Fei yue lao ren yuan,2012, Drama,6.6,174
+2821,tt2401825,Forever Young, Wu wen xi dong,2018, Drama,6.4,940
+2823,tt2407364,Dr. Mas Country Clinic, Ma dai fu de zhen suo,2008, Documentary,7.0,6
+2824,tt2415536,Great Rescue, Fei chang ying jiu,2012, Drama&Thriller,4.7,9
+2825,tt2419990,Lotus, Xiao he,2012, Drama,6.2,26
+2827,tt2425294,All Apologies, Ai de ti shen,2012, Drama,6.2,18
+2828,tt2431406,Emperor Visits the Hell, Tang huang you difu,2012, Drama,5.2,64
+2829,tt2435870,Scheme with Me, Shuang cheng ji zhong ji,2012, Comedy&Western,6.7,52
+2834,tt2452990,Paper Airplanes, Zhi fei ji,2001, Documentary,6.7,21
+2838,tt2455762,Flying with You, Yi qi fei,2012, Romance,4.7,21
+2839,tt2456494,Good-for-Nothing Heros, Hai dao le yuan,2012, Comedy,5.3,16
+2840,tt2456524,Happiness Me Too, Xing fu mi tu,2012, Romance,5.0,13
+2841,tt2457170,Happy Hotel, Le fan tian,2012, Comedy,4.5,13
+2842,tt2457206,Holding Love, Holding Love,2012, Romance,4.3,65
+2843,tt2457228,If I Were You, Bian shen nan nv,2012, Comedy&Drama&Fantasy,5.8,36
+2844,tt2457980,In-Laws New Year, In-Laws New Year,2012, Comedy,4.4,21
+2845,tt2458022,Jack of All Trades, Jack of All Trades,2012, Comedy,4.2,8
+2847,tt2458194,Just for Fun, Just for Fun,2012, Comedy,6.1,12
+2848,tt2458216,Just Try Me, Guan yu ai qing he na xie mo gui,2012, Romance,6.6,8
+2849,tt2458256,Lacuna, Zui hou yi ye,2012, Drama&Romance,5.8,97
+2851,tt2458444,Laugh and Cry Forbidden, Laugh and Cry Forbidden,2012, Comedy,4.7,7
+2853,tt2458968,China Concerto, China Concerto,2012, Documentary&History,7.3,7
+2854,tt2459022,Lost in Thailand, Ren zai jiong tu: Tai jiong,2012, Adventure&Comedy&Drama,6.2,3079
+2855,tt2459224,Love on That Day, Love on That Day,2012, Romance,6.1,43
+2856,tt2459266,Matters of Life and Death, Matters of Life and Death,2012, Documentary,7.2,6
+2857,tt2459282,Meet the In-Laws, Gao ding yue fu da ren,2012, Comedy,5.6,129
+2858,tt2459364,Midnight Microblog, Wu ye wei bo,2012, Horror,4.4,11
+2859,tt2459484,Rhapsody of Marriage, Rhapsody of Marriage,2012, Romance,4.4,5
+2861,tt2460394,Sad Fairy Tale, Shang xin tong hua,2012, Romance,5.9,39
+2863,tt2460488,Switch, Tian ji: Fu chun shan ju tu,2013, Action&Adventure&Crime,2.3,1735
+2864,tt2460590,Threads of Time, Threads of Time,2012, Drama,6.9,55
+2865,tt2460612,Time Flies Soundlessly, Time Flies Soundlessly,2012, Drama,5.7,7
+2866,tt2460634,To Forgive, Cha wu ci ren,2012, Mystery,4.3,9
+2867,tt2460656,Ultra Reinforcement, Chao shi kong jiu bing,2012, Fantasy,5.7,34
+2869,tt2460762,Who in the Mirror, Ban ye bu yao zhao jing zi,2012, Horror&Thriller,4.8,20
+2870,tt2460768,Whoever, Ai shei shei,2012, Romance,6.8,11
+2871,tt2460860,The Zodiac Mystery, Shi er xing zuo li qi shi jian,2012, Horror,4.5,32
+2872,tt2461124,The Road to Fame, The Road to Fame,2013, Documentary&Music&Musical,7.5,44
+2875,tt2471264,Big Big Man, Big Big Man,2011, Comedy,4.0,5
+2876,tt2471282,A Big Deal, Ju e jiao yi,2011, Comedy,2.9,16
+2877,tt2471946,Follow Follow, Follow Follow,2012, Drama,5.9,12
+2878,tt2472668,Cai li fu quan, Cai li fu quan,2011, Action&Comedy,4.4,26
+2879,tt2473462,Love Shock, Love Shock,2011, Comedy,4.5,6
+2880,tt2473516,Nightmare, Wu ye xiong meng,2011, Horror,5.6,12
+2881,tt2473574,Racer Legend, Racer Legend,2011, Action,5.1,10
+2882,tt2473598,Hei dian, Hei dian,2011, Comedy,3.7,12
+2883,tt2473706,To Love or Not, To Love or Not,2011, Drama,5.0,11
+2884,tt2473710,Together, Xing cun ri,2011, Drama,6.9,7
+2885,tt2473754,Under the Influence, Jie yan bu jie jiu,2011, Comedy,5.5,28
+2888,tt2492168,The White-Haired Girl, Bái máo nu,1972, Drama&Music,5.8,6
+2891,tt2498272,Flood, Da Shui,2008, Documentary,5.6,5
+2893,tt2505376,All Eyes and Ears, All Eyes and Ears,2015, Comedy&Documentary&History,7.3,19
+2894,tt2507472,Education Education, Education Education,2012, Documentary,7.5,53
+2897,tt2513344,Feng Shui, Wan jian chuan xin,2012, Drama,7.6,481
+2899,tt2517852,The Other Bank, Bi an,1995, Documentary,6.7,10
+2902,tt2530008,Zao an dong ri hai, Zao an dong ri hai,2012, Drama,6.7,7
+2903,tt2543698,Judge Archer, Jian shi liu bai yuan,2012, Action&Drama,6.2,532
+2908,tt2557256,Iceman, Gap tung kei hap,2014, Action&Comedy&History,4.8,3352
+2909,tt2557868,Kuiba, Kuiba,2011, Adventure&Animation&Drama,6.5,152
+2910,tt2566924,Hsue-shen Tsien, Qian Xuesen,2012, Drama,5.8,75
+2911,tt2572208,The Monkey King Conquers the Demon, Jin hou xiang yao,1985, Adventure&Animation&Fantasy,7.6,87
+2912,tt2572226,Monkey King and Fruit of Immortality, Ren shen guo,1981, Animation,7.2,37
+2913,tt2574088,Run, Jue Lu Qiu Sheng,2012, Horror,6.7,6
+2917,tt2599716,Police Story: Lockdown, Jing cha gu shi 2013,2013, Action&Crime&Drama,6.1,9145
+2920,tt2626660,Da Qi Ceng Xiao Shi, Da Qi Ceng Xiao Shi,1990, Sci-Fi,6.4,33
+2921,tt2626746,The Meridian of War, Zhan zheng zi wu xian,1990, Drama&War,7.6,10
+2922,tt2644714,Badges of Fury, Bu er shen tan,2013, Action&Comedy&Crime,4.6,2702
+2923,tt2651020,Bull Brothers, Niu xiong niu di,2015, Adventure&Animation&Comedy,6.4,8
+2924,tt2664074,Longing for the Rain, Chunmeng,2013, Biography&Drama&Mystery,6.4,79
+2925,tt2664822,Four Ways to Die in My Hometown, Wo guxiang siwang de si zhong fangshi,2012, Drama,6.4,9
+2928,tt2671614,Ba bi lun shao nian, Ba bi lun shao nian,2013, N/A,4.8,6
+2930,tt2674496,City Monkey, Wan ku qing chun,2010, Drama&Sport,6.9,8
+2935,tt2720742,The End of the World, The End of the World,2010, Drama,2.5,6
+2936,tt2720826,Birth of the Dragon, Birth of the Dragon,2016, Action&Biography&Drama,5.6,7300
+2938,tt2728286,This Is Sanlitun, This Is Sanlitun,2013, Comedy,6.6,50
+2942,tt2749036,Parkour: Beat Your Fear, Parkour: Beat Your Fear,2011, Action&Adventure,5.0,24
+2944,tt2750294,The Mosuo Sisters, The Mosuo Sisters,2012, Biography&Documentary&Family,7.5,12
+2945,tt2752028,The Story of David, The Story of David,2011, Comedy,5.5,57
+2946,tt2753940,Mid-Night Train, Wu ye huo che,2013, Horror,3.6,16
+2947,tt2759302,Grandson from America, Sun zi cong Mei Guo lai,2012, Comedy&Drama&Family,7.2,114
+2948,tt2764834,Bring Happiness Home, Bring Happiness Home,2013, Adventure&Comedy&Family,3.1,34
+2949,tt2765340,So Young, Zhi wo men zhong jiang shi qu de qing chun,2013, Drama&Romance,6.4,2022
+2951,tt2770484,Forgetting to Know You, Mo sheng,2013, Drama,6.6,38
+2953,tt2771986,Better and Better, Yue lai yue hao: Cun wan,2013, Comedy&Romance,4.4,108
+2954,tt2772570,Xi Yang Yang Yu Hui Tai Lang Zhi Xi Qi Yang Yang Guo She Nian, Xi Yang Yang Yu Hui Tai Lang Zhi Xi Qi Yang Yang Guo She Nian,2013, Action&Animation&Comedy,5.0,25
+2955,tt2779050,Falling Flowers, Xiao Hong,2012, Drama,6.2,51
+2956,tt2781010,The Falling Feather, Piao luo de yu mao,2013, Drama,6.5,13
+2960,tt2800448,Zombies Reborn, Wu jian zui,2012, Horror&Sci-Fi,5.0,17
+2961,tt2802196,Witness, Mu ji zhe,2012, Action&Crime&Drama,5.3,14
+2963,tt2822672,Rock Dog, Rock Dog,2016, Adventure&Animation&Comedy,6.0,4734
+2965,tt2835556,Fallen City, Qing Cheng,2011, Action&Drama&Family,6.9,74
+2966,tt2842698,Vegetate, Vegetate,2010, Drama,6.2,18
+2968,tt2852400,A Touch of Sin, Tian zhu ding,2013, Action&Drama,7.1,10596
+2971,tt2857342,Bang Jia Bing Ji Ling, Bang Jia Bing Ji Ling,2010, Comedy,5.2,8
+2972,tt2861550,Kunta, Kunta,2013, Adventure&Animation&Comedy,3.4,7
+2973,tt2871776,Jungle Master, Shou Hu Zhe Sen Lin,2013, Adventure&Animation&Comedy,4.6,129
+2977,tt2876446,Roco Kingdom: The Desire of Dragon, Luoke Wangguo 2: Sheng Long De Xin Yuan,2013, Animation&Drama,4.7,7
+2979,tt2888046,Ip Man 3, Yip Man 3,2015, Action&Biography&Drama,7.1,50353
+2980,tt2893194,Mothers, Mothers,2012, Documentary&Drama&Family,6.6,23
+2981,tt2897368,I Love Wolffy 2, Wo ai Hui Tai Lang 2,2013, Animation&Comedy&Drama,3.9,10
+2984,tt2909116,Wolf Totem, Le dernier loup,2015, Adventure&Drama,6.7,5592
+2986,tt2910520,A Wedding Invitation, Fen shou he yue,2013, Drama&Romance,6.1,442
+2987,tt2911342,Dragon Nest: Warriors Dawn, Dragon Nest: Warriors Dawn,2014, Adventure&Animation&Family,6.3,3002
+2988,tt2914872,Xiang xi shi wang, Xiang xi shi wang,1993, Action&Adventure&Horror,4.8,23
+2993,tt2929068,Hushed Roar, Pao xiao wu sheng,2012, War,4.3,6
+2994,tt2930988,The Love Songs of Tiedan, Mei jie,2012, Comedy&Drama,7.2,114
+2997,tt2935510,Ad Astra, Ad Astra,2019, Adventure&Drama&Mystery,6.5,204236
+2998,tt2936212,Pk.com.cn, Pk.com.cn,2008, Drama,7.8,25
+3001,tt2945592,Naughty Girls, Naughty Girls,2013, Romance,2.9,15
+3004,tt2948782,Lucky 13, Li ti Shi san mei,1986, Adventure,6.8,8
+3005,tt2952602,Kung Fu Jungle, Yi ge ren de wu lin,2014, Action&Crime&Thriller,6.5,10219
+3007,tt2957680,Out of Inferno, Tao chu sheng tian,2013, Action&Adventure&Drama,5.7,794
+3008,tt2957774,The White Storm, So duk,2013, Action&Crime&Thriller,6.6,2289
+3011,tt2963484,Dating Fever, Dating Fever,2013, Comedy&Romance,5.4,5
+3012,tt2976864,The Nightingale, Ye Ying - Le promeneur doiseau,2013, Drama&Family,6.9,562
+3014,tt2988148,Let Panda Fly, Rang xiong miao fei,2013, Animation&Documentary&Drama,7.8,8
+3015,tt2992146,Young Detective Dee: Rise of the Sea Dragon, Di Renjie: Shen du long wang,2013, Action&Adventure&Drama,6.4,4480
+3016,tt2992152,Personal Tailor, Si ren ding zhi,2013, Comedy&Drama,5.1,1124
+3017,tt2993556,Bunshinsaba, Bi Xian,2012, Horror&Mystery&Thriller,4.0,62
+3018,tt2993580,Bunshinsaba 2, Bi Xian 2,2013, Mystery&Thriller,5.1,73
+3019,tt2993848,Iceman: The Time Traveller, Bing feng: Yong heng zhi men,2018, Action&Adventure&Comedy,3.9,768
+3021,tt3003668,Unbeatable, Ji zhan,2013, Action&Drama&Sport,7.2,2629
+3024,tt3006960,The Last Moose of Aoluguya, Han da han,2013, Biography&Documentary,7.3,27
+3025,tt3007240,Shaolin Warrior, Kungfu Kid,2013, Action,3.9,72
+3026,tt3007826,Bloody Doll, Yuan ling ren ou,2014, Horror,4.1,8
+3027,tt3013126,One Night Surprise, One Night Surprise,2013, Comedy&Romance,5.4,373
+3028,tt3017902,Sweet Eighteen, Tian mi 18 sui,2012, Drama&Family&Romance,6.4,8
+3031,tt3041360,Chinas 60th Anniversary Chinese Military Celebration, Chinas 60th Anniversary Chinese Military Celebration,2010, Documentary,7.1,9
+3032,tt3043630,Tiny Times, Xiao shi dai,2013, Drama&Romance,3.1,2144
+3035,tt3046080,The Palace, Gong suo Chenxiang,2013, History&Romance,5.9,268
+3036,tt3051900,Today and Tomorrow, Jintian mingtian,2013, Drama&Romance,6.6,17
+3038,tt3056688,Da dian ying, Da dian ying,2006, Comedy,4.5,44
+3039,tt3064998,Jing cha ri ji, Jing cha ri ji,2013, Biography&Crime&Drama,5.9,36
+3041,tt3086582,Tiny Times 2.0, Xiao shi dai 2: Qing mu shi dai,2013, Comedy&Drama&Romance,3.3,1009
+3043,tt3103370,Distant, Yuan fang,2013, Documentary&Drama,6.6,16
+3044,tt3104228,Redemption, Sha jie,2013, Family&Horror&Romance,4.6,32
+3047,tt3107418,The Deathday Party, The Deathday Party,2014, Horror&Sci-Fi&Thriller,4.9,23
+3048,tt3116902,Anaconda Frightened, Kuang mang jing hun,2008, Action&Drama&Horror,6.8,9
+3049,tt3119152,Ci Ye, Ci Ye,2013, Action,5.1,7
+3050,tt3121442,Overheard 3, Sit ting fung wan 3,2014, Crime&Thriller,6.0,1046
+3052,tt3125472,Coming Home, Gui lai,2014, Drama&Romance,7.2,5539
+3054,tt3129252,Fuck Cinema, Fuck Cinema,2005, Documentary,7.8,27
+3056,tt3136490,Crimes of Passion, Yi Chang Feng Hua Xue Yue De Shi,2013, Action&Crime&Drama,5.0,74
+3057,tt3138596,Trap Street, Shuiyin jie,2013, Drama,6.3,205
+3063,tt3175936,The Stolen Years, Bei tou zou de na wu nian,2013, Romance,6.2,1165
+3064,tt3176304,Kingdom of Conquerors, Zhi sha,2013, Action&Drama&History,5.7,179
+3067,tt3197766,Kill Zone 2, Saat po long 2,2015, Action&Adventure&Crime,6.7,6130
+3069,tt3202890,Reclaim, Reclaim,2014, Action&Crime&Drama,5.2,5967
+3070,tt3204696,Silent Witness, Quan min mu ji,2013, Drama&Mystery,7.0,689
+3071,tt3208960,Feed Me, Bu ru qi de nu ren,2013, Drama,5.8,18
+3072,tt3208990,The Ferry, The Ferry,2013, Drama,7.4,12
+3073,tt3209682,Love Speaks, Yi wai de lian ai shi guang,2013, Romance,6.4,65
+3074,tt3214392,Song of the Phoenix, Bai niao chao feng,2013, Drama&History&Music,7.0,520
+3075,tt3219546,The Cosplayers, Bai wan ai qing bao bei,2013, Comedy&Drama&Romance,4.2,5
+3076,tt3221936,Yi lu shun feng, Yi lu shun feng,2013, Comedy,4.4,17
+3077,tt3224458,A Beautiful Day in the Neighborhood, A Beautiful Day in the Neighborhood,2019, Biography&Drama,7.3,64987
+3079,tt3234906,Who Is Undercover, Yi hao mu biao,2013, History,6.4,25
+3080,tt3243302,The Legend of the Red Lantern, The Legend of the Red Lantern,1970, Musical,7.3,9
+3081,tt3243410,The Azalea Mountain, The Azalea Mountain,1974, Drama,5.2,5
+3082,tt3243446,Haixia, Haixia,1975, Drama&War,6.6,5
+3085,tt3259320,Flight from Hell, Jue min hang ban,2014, Action&Horror&Thriller,3.1,225
+3086,tt3259968,The Wrath of Vajra, Jin Gang Wang: Si wang jiu shu,2013, Action&Fantasy,5.8,1610
+3092,tt3279464,Kuiba 2, Kuiba 2,2013, Animation,6.8,74
+3096,tt3285802,Young Style, Qing chun pai,2013, Comedy&Drama&Romance,6.4,296
+3097,tt3289322,Bike and Old Electronic Piano, Bike and Old Electronic Piano,2015, Documentary,8.1,14
+3098,tt3292554,Jinjì youxi zhi mi zang, Jinjì youxi zhi mi zang,2013, Horror&Thriller,3.6,10
+3099,tt3293714,Love Retake, Ai Qing Bu NG,2013, Comedy&Drama&Romance,4.0,7
+3100,tt3293724,Fake Fiction, Mo deng nian dai,2013, Comedy&Drama,5.0,61
+3101,tt3296588,Lips and Soul, Chun Chun Yu Dong,2013, Comedy&Romance,6.2,5
+3103,tt3299316,Parallel Maze, Yì cì yuan mí gong,2013, Adventure&Thriller,4.2,9
+3104,tt3302850,Chrysanthemum to the Beast, Gei ye shou xian hua,2012, Action&Comedy&Romance,5.8,14
+3106,tt3308358,Wished, Fan zhuan ren sheng,2017, Comedy&Fantasy,5.7,115
+3107,tt3310600,Love Will Tear Us Apart, Wo xiang he ni hao hao de,2013, Drama&Romance,5.6,126
+3108,tt3311014,Mark of Youth, Quan cheng gao kao,2013, Drama,3.9,35
+3110,tt3313360,Dead Sign, Gu zhen xiong ling zhi wu zhou chan shen,2013, Horror&Thriller,6.1,87
+3111,tt3313908,Women Who Flirt, Sa jiao nu ren zui hao ming,2014, Comedy,5.9,778
+3112,tt3316020,Kidnapping of a Big Star, Bang Jia Da Ming Xing,2013, Comedy&Drama,2.8,6
+3113,tt3330856,Incense, Xiang huo,2003, Drama,7.0,42
+3114,tt3336934,Fall of Ming, Da Ming jie,2013, Drama&History,7.2,352
+3115,tt3338036,Ghost of a Model, Mo te mei ying,2013, Drama&Horror&Thriller,2.1,7
+3116,tt3338480,Kun Fu Fighter, Gong Fu Zhan Dou Ji,2013, Action&Drama,5.3,54
+3118,tt3341084,The Four 2, Si da ming bu 2,2013, Action&Adventure,5.8,1100
+3119,tt3341088,A Chilling Cosplay, A Chilling Cosplay,2013, Crime&Thriller,4.3,60
+3120,tt3342430,Blue Sky Bones, Lanse gotou,2013, Drama,5.8,80
+3122,tt3355612,Pan si dong, Pan si dong,1927, Fantasy,6.9,57
+3123,tt3374864,Cold Pupil, Leng Tong,2013, Horror,5.1,9
+3125,tt3391866,Lake August, Na pian hu shui,2014, Drama,6.8,25
+3126,tt3393786,Jack Reacher: Never Go Back, Jack Reacher: Never Go Back,2016, Action&Thriller,6.1,141493
+3128,tt3401962,Einstein and Einstein, Einstein and Einstein,2013, Drama,7.5,777
+3130,tt3408808,Little Tigers, Xiao xiao fei hu dui,2013, Action&Comedy&War,2.7,7
+3132,tt3411398,The Supernatural Events on Campus, Xiao Hua Gui Yi Shi Jian,2013, Horror,3.6,29
+3137,tt3415846,High Kickers, She Shen Ji,2013, Action&Drama&Sport,5.1,24
+3138,tt3416008,Balala the Fairies: The Magic Trial, Balala the Fairies: The Magic Trial,2014, Action&Adventure&Family,6.3,7
+3139,tt3421246,Black & White: The Dawn of Justice, Pi Zi Ying Xiong 2,2014, Action,5.7,579
+3141,tt3421854,Beloved, Qin ai,2012, Drama,6.3,17
+3143,tt3425640,The Mask of Love, Mei zhuang,2012, Horror,4.0,7
+3144,tt3428458,Bu Ken Qu Guan Yin aka Avalokiteshvara, Bu Ken Qu Guan Yin aka Avalokiteshvara,2013, Drama,6.1,33
+3146,tt3431598,12 Citizens, Shier gongmin,2014, Crime&Drama,7.1,745
+3147,tt3433170,The King of the Streets, The King of the Streets,2012, Action,5.0,412
+3154,tt3457380,Amazing, Shen qi,2013, Drama&Romance&Sport,4.2,31
+3156,tt3465456,The White Haired Witch of Lunar Kingdom, Bai fa mo nu zhuan zhi ming yue tian guo,2014, Fantasy,5.4,1576
+3157,tt3467440,Up in the Wind, Up in the Wind,2013, Comedy,5.1,166
+3158,tt3468298,Axel: The Biggest Little Hero, Bonta 3D,2013, Adventure&Animation&Comedy,4.7,126
+3162,tt3469964,Blind Massage, Tui na,2014, Drama,7.3,1164
+3165,tt3489094,Interviews Before Execution: A Chinese Talk Show, Interviews Before Execution: A Chinese Talk Show,2012, Documentary,5.0,5
+3166,tt3495926,She and She, She and She,2013, Horror&Romance,4.4,7
+3169,tt3502318,Gui ri zi, Gui ri zi,2014, Drama,6.5,39
+3170,tt3505298,Hatched, Farm House 81,2013, Animation,4.7,46
+3171,tt3505950,Beijing Love Story, Bei Jing ai qing gu shi,2014, Drama&Romance,5.7,364
+3173,tt3508268,Romance on Lushan Mountain, Romance on Lushan Mountain,1980, Drama&Romance,7.6,43
+3175,tt3511164,The Night, Ye,2014, Drama,6.1,64
+3182,tt3540136,Wolf Warrior, Zhan lang,2015, Action&Crime&Thriller,5.4,4538
+3183,tt3541704,Norjmaa, Norjmaa,2014, Drama&History&War,7.5,26
+3186,tt3553670,Bai long jian, Bai long jian,1986, Adventure,5.9,8
+3190,tt3574822,Hedgehogs, Bobby the Hedgehog,2016, Animation,4.2,261
+3191,tt3579688,EX-Files, Qian ren gong lue,2014, Comedy,5.7,247
+3192,tt3581276,Warrior Assassin, Warrior Assassin,2013, Action,2.9,119
+3194,tt3585004,Zhongkui: Snow Girl and the Dark Crystal, Zhong Kui fu mo: Xue yao mo ling,2015, Action&Fantasy&Romance,5.4,1221
+3195,tt3591950,Fantasia, Huan xiang qu,2014, Drama,5.5,46
+3197,tt3594826,Monk Comes Down the Mountain, Dao shi xia shan,2015, Action,5.5,1490
+3198,tt3606496,Jen che chien lung, Jen che chien lung,1984, Action,5.8,9
+3200,tt3614244,The Interceptor from My Hometown, You yi zhong jing jiao zhuang yan,2012, Documentary,8.4,8
+3207,tt3655928,The Valley of the Heroes, The Valley of the Heroes,2013, Documentary&News,7.2,5
+3208,tt3656810,Tian xian pei, Tian xian pei,1955, Musical&Romance,7.8,12
+3209,tt3657672,Yuchi Gong: The Door God, Yu Chigong,2012, Action&Adventure&Drama,4.9,8
+3212,tt3664510,Ting jian xia yu de sheng yin, Ting jian xia yu de sheng yin,2013, Drama&Romance,5.9,73
+3214,tt3667798,The Breakup Guru, Fen shou da shi,2014, Comedy,4.2,476
+3215,tt3671922,I Am Here, I Am Here,2014, Documentary&Music,5.2,31
+3216,tt3672840,Dragon Blade, Tian jiang xiong shi,2015, Action&Drama&Fantasy,6.0,18687
+3218,tt3682770,A Tale of Three Cities, San cheng ji,2015, Drama,6.0,223
+3219,tt3689142,Mountain Ava, Sen Lin Gu Ying,2014, Action&Adventure&Drama,6.1,7
+3220,tt3696086,The Golden Era, Huang jin shi dai,2014, Biography&Drama&Romance,6.4,1004
+3221,tt3699104,Wine Wars, Qiang hóng,2017, Action&Crime&Thriller,3.9,93
+3223,tt3717186,Ameera, Te gong Aimila,2014, Action,4.2,84
+3224,tt3719100,The Gleaners, The Gleaners,2014, Documentary&Drama,8.7,9
+3225,tt3720058,The Great Hypnotist, Cui mian da shi,2014, Drama&Mystery&Thriller,7.0,2466
+3227,tt3728556,Timeless Love, Shi guang lian ren,2013, Romance,6.2,8
+3228,tt3729818,Angel Warriors, Tie xue jiao wa,2013, Action&Adventure&Crime,4.9,88
+3229,tt3729832,No Limit, Wu ji xian,2011, Action&Comedy&Romance,7.1,15
+3232,tt3740778,Mountains May Depart, Shan he gu ren,2015, Drama&Romance,6.9,5180
+3234,tt3744264,Pali Road, Pali Road,2015, Drama&Fantasy&Mystery,7.2,4525
+3237,tt3752930,Dearest, Qin ai de,2014, Drama,7.6,2055
+3242,tt3781476,Monster Hunt, Zhuo yao ji,2015, Adventure&Comedy&Fantasy,6.1,4714
+3244,tt3793116,Five Minutes to Tomorrow, Five Minutes to Tomorrow,2014, Romance,5.8,128
+3247,tt3816526,The House That Never Dies, Jing Cheng 81 hao,2014, Drama&Horror&Mystery,4.5,294
+3250,tt3828092,Keelung, Keelung,2014, Drama&Romance,7.2,6
+3252,tt3833460,Bride Wars, Xin niang da zuo zhan,2015, Comedy,4.3,182
+3254,tt3835880,Wo de ying zi zai ben pao, Wo de ying zi zai ben pao,2013, Drama,6.8,22
+3255,tt3837362,Road to the Sky, Qing bi shan gao,2015, Drama&History&War,8.1,7
+3257,tt3839966,Rickis Promise, Rickis Promise,2014, Documentary&Drama&Family,7.7,6
+3259,tt3843282,Twenty Two, Twenty Two,2015, Crime&Documentary&History,7.4,420
+3261,tt3856504,A Fool, Yi ge shao zi,2014, Comedy&Drama,7.1,565
+3262,tt3861006,Tiny Times 3.0, Xiao shi dai 3: Ci jin shi dai,2014, Drama&Romance,2.8,705
+3264,tt3864722,A Song for Autumn, Qiu yu,2014, Drama,7.4,28
+3265,tt3872008,Old Boys: The Way of the Dragon, Lao nan hai zhi Meng long guo jiang,2014, Comedy,5.2,183
+3266,tt3890264,Breakup Buddies, Xin hua lu fang,2014, Comedy&Drama&Romance,6.4,1442
+3267,tt3890278,Red Amnesia, Chuang ru zhe,2014, Crime&Drama&Thriller,6.8,567
+3268,tt3896016,The Continent, Hou hui wu qi,2014, Comedy&Drama,6.3,1547
+3269,tt3897080,Agent F.O.X., Tu zi zhon de huo hu li,2014, Adventure&Animation&Comedy,3.1,201
+3271,tt3902570,The Dossier, Dang An,2014, Documentary&History,5.3,6
+3272,tt3906444,But Always, Yi sheng yi shi,2014, Drama&Romance,5.2,412
+3274,tt3911248,The Deadly Strands, Zhou si,2013, Drama&Horror&Thriller,4.6,7
+3277,tt3919278,The Four 3, Si da ming bu 3,2014, Action,5.6,835
+3278,tt3920828,Camel Caravan, Luo tuo ke,2012, Action&Adventure,6.3,11
+3279,tt3924826,My Belle Beauty, My Belle Beauty,2010, Comedy&Drama,3.9,23
+3280,tt3950078,The Taking of Tiger Mountain, Zhi qu wei hu shan,2014, Action&Adventure&Biography,6.4,2789
+3281,tt3956312,My Old Classmate, Tong zhuo de ni,2014, Comedy&Romance,5.6,411
+3285,tt3973682,Bai Xue Gong Zhu Zhi Ai Ren Li Liang, Bai Xue Gong Zhu Zhi Ai Ren Li Liang,2014, Animation,4.2,5
+3286,tt3976070,The Unbearable Lightness of Inspector Fan, Bao zou shen tan,2015, Crime,5.1,43
+3287,tt3989298,Factory Boss, Da gong lao ban,2014, Drama,7.3,23
+3291,tt4019426,Brotherhood of Blades, Xiu chun dao,2014, Action,6.6,2864
+3293,tt4024368,Meet Miss Anxiety, Wo de zao geng nv you,2014, Comedy&Romance,4.5,168
+3295,tt4027270,The Crossing 2, The Crossing 2,2015, Drama&History&Romance,6.0,1036
+3296,tt4038736,Old Cinderella, Tuo Gui Shi Dai,2014, Comedy&Romance,5.4,29
+3297,tt4041844,Caught in Trap, Caught in Trap,2014, Action,4.5,6
+3298,tt4051858,One Day, You yi tian,2014, Family,6.2,19
+3299,tt4053842,The September of Mine, Wo de jiu yue,1990, Comedy&Drama,7.5,25
+3300,tt4054604,Her Smile Through Candlelight, Zhu guang li de wei xiao,1991, Drama,5.3,7
+3301,tt4054762,The Young Couple Apartment, Yuan yang lou,1987, Drama,7.6,8
+3302,tt4056808,The Chinese Mayor, Datong,2015, Documentary&Drama&News,7.7,579
+3304,tt4060544,Step Up China, Step Up China,2019, Music,3.7,411
+3305,tt4074114,Girls, Gui mi,2014, Comedy&Romance,5.1,346
+3306,tt4074958,Somewhere Only We Know, You yi ge di fang zhi you wo men zhi dao,2015, Drama&Romance,5.3,689
+3309,tt4076856,Hermits, Hermits,2015, Biography&Documentary&History,7.4,14
+3310,tt4076934,My Beloved Bodyguard, Wo de te gong ye ye,2016, Action&Crime&Drama,5.9,1949
+3311,tt4078856,Deep in the Heart, Xin mi gong,2014, Drama&Mystery,7.7,1454
+3312,tt4079152,The Dead End, Lie ri zhuo xin,2015, Crime&Drama,7.2,1325
+3313,tt4079552,Look Love, Look Love,2015, Documentary&Family,7.8,13
+3314,tt4079902,Hooligan Sparrow, Hooligan Sparrow,2016, Crime&Documentary&Drama,7.3,398
+3317,tt4105564,A Corner of Heaven, Tiantang jiaoluo,2014, Adventure&Drama&Family,5.8,26
+3319,tt4108872,Nezha, Nezha,2014, Drama&Family,4.5,60
+3321,tt4117310,Death Is Here 3, Bi xian jing hun 3,2014, Horror,4.9,22
+3324,tt4131150,River Road, Jia zai shui cao feng mao di di fang,2014, Drama,6.8,94
+3326,tt4131508,North by Northeast, Dong bei pian bei,2014, Drama,6.3,66
+3331,tt4141314,Spark, Xing huo,2013, Documentary,6.7,10
+3334,tt4152230,Love Motel, Kong bu lu guan,2012, Horror,4.6,13
+3336,tt4155534,Animal Crackers, Animal Crackers,2017, Adventure&Animation&Comedy,5.8,2643
+3337,tt4157940,The Magic Brush, The Magic Brush,2014, Adventure&Animation&Comedy,5.1,46
+3338,tt4162910,Frog Kingdom, Frog Kingdom,2013, Adventure&Animation&Comedy,3.6,351
+3341,tt4170472,Mountain Cry, Han shan,2015, Action&Drama&Romance,7.3,351
+3342,tt4171876,Sweet Sixteen, Xia You Qiao Mu,2016, Drama&Romance,5.1,229
+3345,tt4177288,Mysterious Island 2, Gu dao jing hun 2,2013, Drama&Fantasy&Horror,2.5,13
+3347,tt4181726,Princess Show, Gong zhu de you huo,2013, Comedy&Drama&Musical,3.8,8
+3349,tt4191680,The Empire Symbol, The Empire Symbol,2013, Action&Adventure,4.4,8
+3353,tt4209788,Mollys Game, Mollys Game,2017, Biography&Crime&Drama,7.4,149228
+3355,tt4217392,Kung Fu Yoga, Gong fu yu jia,2017, Action&Adventure&Comedy,5.2,9204
+3357,tt4220960,Sky Ghosts, Sky Ghosts,2011, N/A,8.1,8
+3358,tt4226386,A Murder Beside Yan He River, Huang ke gong an jian,2014, History,7.2,41
+3359,tt4228850,Bugs, Shi ren chong,2014, Comedy&Horror,3.3,71
+3360,tt4235252,Father and Sons, Fu yu zi,2014, Documentary,6.3,23
+3361,tt4242158,Lost in Hong Kong, Gang jiong,2015, Action&Adventure&Comedy,5.4,1460
+3363,tt4242844,Love on the Cloud, Wei ai zhi jian ru jia jing,2014, Comedy,3.9,159
+3365,tt4253132,Xi He, Xi He,2015, Drama&Family&News,7.0,20
+3366,tt4253170,The Apostles, Gui zhen,2013, Fantasy&Horror&Sci-Fi,2.4,72
+3367,tt4253190,Dragon Force, Dragon Force,2014, Action&Adventure&Animation,6.6,8
+3368,tt4253212,Saier Hao Da Dinying 3: Zhanshen Lianmeng, Saier Hao Da Dinying 3: Zhanshen Lianmeng,2013, Adventure&Animation&Family,3.5,14
+3369,tt4255554,Ever Since We Love, Wan wu sheng zhang,2015, Drama&Romance,5.1,393
+3370,tt4258716,Pleasant Goat and Big Big Wolf: Meet the Pegasus, Xi Yang Yang Yu Hui Tai Liang Zhi Fei Ma Qi Yu Ji,2014, Animation,4.3,16
+3372,tt4263056,Mortician, Mortician,2013, Comedy&Drama,5.6,42
+3374,tt4273106,The Master, The Master,2014, Action&History,5.0,72
+3375,tt4276752,Mojin: The Lost Legend, Xun long jue,2015, Action&Adventure&Drama,6.0,3513
+3377,tt4276994,Senior Year, Gaosan,2005, Documentary,7.6,69
+3378,tt4284020,Fleet of Time, Cong cong na nian,2014, Drama&Romance,5.6,478
+3383,tt4310356,Ye kong que, Ye kong que,2015, Drama&Romance,4.1,136
+3384,tt4310772,From Vegas to Macau II, Du cheng feng yun II,2015, Action&Adventure&Comedy,4.6,968
+3385,tt4311466,For Love or Money, Lushui Hongyan,2014, Romance,5.4,197
+3387,tt4320236,One Hundred Thousand Bad Jokes, Shiwan Ge Lengxiaohua,2014, Animation&Comedy,5.6,216
+3392,tt4330400,Magic Train, Magic Train,2014, Animation&Biography&Fantasy,5.6,7
+3393,tt4339118,On the Road, On the Road,2014, Drama,6.6,7
+3394,tt4344878,Miss Granny, Zhong fan 20 sui,2015, Comedy&Fantasy&Music,6.6,1082
+3395,tt4355820,Ma mi, Ma mi,2013, Drama,4.7,11
+3396,tt4363250,Lost in the Pacific, Lost in the Pacific,2016, Adventure&Sci-Fi&Thriller,4.1,1665
+3397,tt4365336,Lotus Code, Die: Lianhua,2015, Drama&Mystery,5.8,9
+3398,tt4365342,Flowers Curse, Hua zhou,2014, Horror,3.4,5
+3399,tt4365388,Death Trip, Huanhun Zhi Mishi Mangu,2014, Horror&Thriller,3.8,12
+3400,tt4366196,The True Love, Bu ai bu san,2014, Romance,1.8,24
+3401,tt4370220,Summary of Crimes, Zuixing Zhaiyao,2014, Documentary,8.4,5
+3402,tt4370650,I Have Graduated, Wo Biye Le,1992, Documentary,6.6,5
+3403,tt4370770,Buried, Yanmai,2009, Documentary,7.4,11
+3408,tt4392726,The Office, Hua li shang ban zu,2015, Comedy&Musical&Romance,6.1,839
+3415,tt4412098,Tomb Robber, Midao Zhuizong Zhi Yinbing Hufu,2014, Action&Adventure&Mystery,4.9,22
+3416,tt4412118,Taste of China, Weidao Zhongguo,2015, Documentary,6.1,8
+3417,tt4412218,Running Man, Benpao Ba! Xiongdi,2015, Action&Comedy&Documentary,2.6,97
+3418,tt4412240,Boonie Bears Winter, Xiong chu mo zhi xue ling xiong feng,2015, Animation&Comedy,6.5,95
+3421,tt4418070,The Land of Many Palaces, The Land of Many Palaces,2015, Documentary,8.0,27
+3422,tt4434172,River, Gtsangbo,2015, Drama,7.2,32
+3425,tt4440036,Lost and Love, Shi gu,2015, Drama,6.4,594
+3427,tt4455880,Uncle Victory, Shengli,2014, Drama,6.8,9
+3428,tt4468650,Yugo and Lala 2, Yugo and Lala 2,2014, Animation,7.1,14
+3429,tt4469396,Ju ji shi ke, Ju ji shi ke,2014, Action&Crime,7.5,13
+3431,tt4478128,Li Wen at East Lake, Li Wen man you Dong Hu,2015, Documentary,6.9,31
+3432,tt4481934,Crazy New Years Eve, Yi lu jing xi,2015, Drama,4.6,60
+3434,tt4483422,The Queens, Wo shi nv wang,2015, Comedy&Romance,4.3,68
+3436,tt4495750,Under the Dome, Qiong ding zhi xia,2015, Documentary,8.0,367
+3437,tt4500166,Wheat Harvest, Mai shou,2009, Documentary,7.1,34
+3440,tt4514606,The Boundary, Quan cheng tong qi,2014, Action&Crime&Drama,5.1,49
+3441,tt4519450,Another Me in the World, Another Me in the World,2015, Documentary,6.9,8
+3445,tt4526842,Home Run, Home Run,2008, Comedy,6.2,9
+3447,tt4537986,Manhunt, Zhui bu,2017, Action&Crime&Thriller,5.2,2781
+3448,tt4539442,Next Station I Love You, Xia yi zhan zai ai ni,2014, Romance,7.1,7
+3450,tt4539628,Pleasant Goat and Big Big Wolf: Amazing Pleasant Goat, Xi yang yang yu hui tai lang zhi yang nian xi yang yang,2015, Animation,3.9,19
+3451,tt4543674,The End of Year, Yi Nian Dao Tou,2008, Comedy,7.6,14
+3452,tt4545806,The Left Ear, Zuo er,2015, Drama,5.3,383
+3453,tt4550652,Mr. Deng Goes to Washington, Xuan feng jiu ri,2015, Adventure&Biography&Documentary,6.9,29
+3456,tt4561398,One Night Stud, You zhong ni ai wo,2015, Comedy,5.1,94
+3460,tt4572856,Lets Get Married, Zan men jie hun ba,2015, Comedy&Romance,5.6,166
+3462,tt4591230,A Moment of Love, Hui dao ai kai shi de di fang,2013, Romance,6.7,42
+3463,tt4591310,The Monkey King 2, Xi you ji zhi: Sun Wukong san da Baigu Jing,2016, Action&Adventure&Fantasy,5.9,2882
+3464,tt4595054,Dao shi chu shan, Dao shi chu shan,2015, Drama,6.8,5
+3466,tt4602422,Ata, Zhao jian,2014, Drama,6.1,19
+3467,tt4613272,Kaili Blues, Lu Bian Ye Can,2015, Drama&Mystery,7.3,3224
+3468,tt4614920,Xiao xi tian di dao chuan qi, Xiao xi tian di dao chuan qi,2015, History,6.0,7
+3469,tt4618818,3 Little Pigs and the Magic Lamp, The Three Pigs and the Lamp,2015, Family,5.6,22
+3470,tt4623812,The Wasted Times, Luo man di ke xiao wang shi,2016, Drama,7.0,1402
+3473,tt4630562,The Fate of the Furious, The Fate of the Furious,2017, Action&Adventure&Crime,6.6,208412
+3475,tt4644382,Monkey King: Hero Is Back, Xi you ji zhi da sheng gui lai,2015, Action&Adventure&Animation,6.8,3864
+3476,tt4648786,Harriet, Harriet,2019, Action&Biography&Drama,6.6,21116
+3478,tt4653836,Poet on a Business Trip, Shi ren chu chai le,2015, Documentary,7.0,65
+3479,tt4655294,Run for Love, Zai shi jie de zhong xin hu huan ai,2016, Drama&Romance,4.6,140
+3480,tt4657324,The Crazy School, Xiaoyuan Fengsao Shi Zhi Wudong Qingchun,2015, Comedy,5.2,6
+3481,tt4657400,10000 Years Later, Yi wan nian yi hou,2015, Animation&Fantasy,5.0,196
+3482,tt4657764,You Are My Sunshine, He yi sheng xiao mo,2015, Romance,3.8,276
+3483,tt4658478,The Kungfu Master, Ba gua zhong shi,2012, Action,6.0,15
+3485,tt4662708,Another Shot, My Other Home,2017, Biography&Drama&Sport,6.5,97
+3486,tt4662922,Haze and Fog, Haze and Fog,2013, N/A,7.2,12
+3487,tt4665926,Cut Out the Eyes, Cut Out the Eyes,2014, Documentary,7.7,6
+3489,tt4674500,The Wonderful Wedding, Da xi lin men,2015, Comedy&Romance,5.3,128
+3490,tt4674506,The Right Mistake, Jiang cuo jiu cuo,2015, Comedy&Drama&Romance,3.3,16
+3493,tt4687848,Railroad Tigers, Tie dao fei hu,2016, Action&Adventure&Comedy,5.8,3906
+3496,tt4694440,Papa, Luo shan ji dao dan ji hua,2016, Comedy&Drama&Family,6.7,52
+3498,tt4701182,Bumblebee, Bumblebee,2018, Action&Adventure&Sci-Fi,6.8,142989
+3499,tt4701660,Mei ren yu, Mei ren yu,2016, Comedy&Drama&Fantasy,6.2,8365
+3500,tt4701702,Mr. Six, Lao pao er,2015, Action&Drama,7.0,3446
+3501,tt4706886,The Rise of King Modu, The Rise of King Modu,2013, Drama,4.4,8
+3502,tt4714896,On Wings of Eagles, On Wings of Eagles,2016, Biography&Drama&History,5.6,821
+3504,tt4722674,I Am Sun Mu, I Am Sun Mu,2015, Animation&Biography&Documentary,7.2,194
+3505,tt4727756,The Ark of Mr Chow, Shao nian ban,2015, Comedy,5.4,168
+3508,tt4743226,Air Strike, Da hong zha,2018, Action&Adventure&Drama,3.2,3825
+3511,tt4757664,Jiu xiang, Jiu xiang,1994, Drama,8.0,7
+3512,tt4769500,Balala the Fairies: Princess Camellia, Balala the Fairies: Princess Camellia,2015, Action&Adventure&Family,3.8,9
+3514,tt4776994,Lotus Lantern, Lotus Lantern,2005, Animation,5.8,19
+3518,tt4786802,I Am Somebody, Wo shi lu ren jia,2015, Comedy&Drama,6.6,462
+3519,tt4786830,Ballet in the Flames of War, Zhan huo zhong de ba lei,2015, War,6.4,37
+3521,tt4788934,The Guardian Brothers, Xiao men shen,2016, Animation&Comedy&Family,5.5,1836
+3522,tt4799538,Night of Adventure, Feng kuang 72 xiao shi,2014, Comedy,2.8,11
+3527,tt4814354,Tiny Times 4.0, Xiao shi dai 4: Ling hun jin tou,2015, Drama&Romance,2.8,404
+3529,tt4814476,Rock Hero, Yao gun ying xiong,2015, Music,4.6,9
+3530,tt4818250,Jian Bing Man, Jian bing xia,2015, Comedy,5.6,1062
+3531,tt4819470,Forever Young, Zhi zi hua kai,2015, Romance,2.7,133
+3532,tt4819498,Chronicles of the Ghostly Tribe, Jiu ceng yao ta,2015, Action&Adventure&Drama,5.1,1504
+3533,tt4819514,Go Away Mr. Tumor, Gun dan ba! Zhong liu jun,2015, Comedy&Romance,6.6,1018
+3534,tt4819544,Only You, Ming zhong zhu ding,2015, Comedy&Romance,5.3,129
+3535,tt4819560,Saving Mr. Wu, Jie jiu Wu xian sheng,2015, Action&Crime&Drama,6.7,2182
+3536,tt4819576,L.O.R.D: Legend of Ravaging Dynasties, Jue ji,2016, Adventure&Animation&Fantasy,5.1,1058
+3537,tt4819586,Detective Gui, Zhai nu zhen tan Gui Xiang,2015, Comedy,3.4,58
+3538,tt4819604,Cities in Love, Lian ai zhong de cheng shi,2015, Romance,4.9,72
+3539,tt4823122,The Missing, Bang jia zhe,2017, Action&Crime&Thriller,5.1,146
+3540,tt4828680,Inside or Outside, Zhen xiang jin qu,2016, Crime&Thriller,6.1,73
+3542,tt4838194,Chang Chen Ghost Stories: Be Possessed by Ghosts, Zhang zhen jiang gu shi zhi gui mi xin qiao,2015, Horror,3.1,24
+3543,tt4838290,Love Without Distance, Tu hao 520,2015, Comedy&Romance,3.4,19
+3544,tt4838316,Legend of a Rabbit: The Martial of Fire, Tu xia zhi qing li chuan shuo,2015, Animation,5.7,120
+3545,tt4838340,The Beloved, Chong sheng ai ren,2015, Romance,5.2,16
+3546,tt4838364,Lovers & Movies, Ai wo jiu pei wo kan dian ying,2015, Comedy,3.0,16
+3547,tt4838422,Jackie Chan Presents: Amnesia, Wo shi shei 2015,2015, Action&Adventure&Comedy,4.5,119
+3550,tt4838502,War on a String, Xuan zhan,2015, Mystery,3.8,11
+3551,tt4839424,The Autobots, Qi che ren zong dong yuan,2015, Adventure&Animation&Family,1.1,140
+3552,tt4839842,Game of Assassins, Game of Assassins,2013, Action,2.5,10
+3554,tt4845078,The Mysterious Family, Shen mi jia zu,2017, Drama,5.2,94
+3556,tt4846834,Man zhou li lai de ren, Man zhou li lai de ren,2015, Crime&Drama&Thriller,2.4,7
+3557,tt4847452,Da pian, Da pian,2013, Comedy,3.3,6
+3558,tt4851640,The Final Master, Shi fu,2015, Action&Drama,6.9,2171
+3560,tt4855062,One Mind, One Mind,2019, Documentary,7.2,18
+3562,tt4862468,A Chinese Odyssey: Part Three, Da hua xi you 3,2016, Fantasy,3.6,383
+3566,tt4881302,The Strange House, Tong ling zhi liu shi gu zhai,2015, Horror,4.8,106
+3568,tt4885238,Seer Movie 5: Rise of Thunder, Sai er hao da dian ying 5: lei shen jue qi,2015, Animation,4.0,8
+3569,tt4885752,The Hero Chiyou, Zhanshen Chiyou,2017, Action,9.0,9
+3570,tt4885784,Paris Holiday, Ba li jia qi,2015, Comedy&Romance,5.6,148
+3571,tt4885814,Who in the Pool, Kong bu you yong guan,2015, Horror,3.4,35
+3572,tt4885916,The Little Mermaid: Attack of the Pirates, Mei ren yu zhi hai dao lai xi,2015, Adventure&Animation&Family,4.3,88
+3573,tt4885924,Mr Black: Green Star, Hei mao jing zhang zhi fei cui zhi xing,2015, Animation,4.4,31
+3574,tt4885958,Kwai Boo, Gui bao zhi bao xiao chuang yu zhou,2015, Adventure&Animation&Comedy,5.0,14
+3575,tt4886016,Love in the Office, Yi lu xiang qian,2015, Comedy,3.6,20
+3576,tt4886030,Time to Love, Xin bu bu jing xin,2015, Romance,4.9,98
+3577,tt4886042,Where Are All the Time, Shi jian dou qu na le,2015, Drama&Romance,3.4,10
+3578,tt4892556,Easy Life, Xi le chang an,2016, Comedy,3.7,24
+3579,tt4892682,A Journey Through Time with Antony, Pei an dong ni du guo man chang sui yue,2015, Drama&Romance,5.3,117
+3580,tt4892714,Fall in Love Like a Star, Peng ran xing dong,2015, Romance,5.2,192
+3581,tt4898598,Ulterior Motive, Bie you dong ji,2015, Thriller,4.1,36
+3582,tt4899056,Snow White: The Mysterious Father, Bai xue gong zhu zhi shen mi ba ba,2015, Animation&Family,5.4,66
+3583,tt4901304,Behemoth, Bei xi mo shou,2015, Documentary,7.6,931
+3584,tt4902266,Reborn, Reborn,2018, Action&Comedy&Crime,4.7,698
+3585,tt4903518,The Rise of a Tomboy, The Rise of a Tomboy,2016, Romance,5.1,144
+3586,tt4909864,Mr. Yin-Yang, Yin yang xian sheng,2015, Horror,3.4,5
+3588,tt4912418,Kuiba: the Dragon Spirit Iii, Kuiba: the Dragon Spirit Iii,2014, Adventure&Animation&Family,6.6,37
+3589,tt4915672,7 Guardians of the Tomb, 7 Guardians of the Tomb,2018, Action&Adventure&Horror,4.5,3328
+3590,tt4920272,Cotton, Mian hua,2014, Documentary,6.9,14
+3591,tt4923042,Tharlo, Tharlo,2015, Drama,6.9,320
+3592,tt4925042,Chat sup yee ga fong hak, Chat sup yee ga fong hak,1963, Comedy,6.9,8
+3593,tt4938830,Seven Days, Dong,2015, Drama,6.3,38
+3594,tt4940416,Duck Duck Goose, Duck Duck Goose,2018, Adventure&Animation&Comedy,5.8,3224
+3595,tt4940612,The Promised Land, Hui dao bei ai de mei yi tian,2015, Drama,6.4,24
+3597,tt4950362,The Honey Enemy, Qing di mi yue,2015, Comedy&Romance,6.0,40
+3601,tt4957446,Paths of the Soul, Kang rinpoche,2015, Drama,7.5,759
+3603,tt4960242,Book of Love, Bei Jing yu shang Xi Ya Tu 2,2016, Comedy&Romance,6.2,797
+3604,tt4960930,The Fox Lover, The Fox Lover,2013, Action,5.7,75
+3605,tt4961016,The Lady in the Portrait, Le portrait interdit,2017, Drama&Romance,6.4,71
+3607,tt4970038,Iron Protector, Chao ji bao biao,2016, Action,5.6,626
+3609,tt4976086,The Hundred Regiments Offensive, Bai tuan da zhan,2015, War,4.0,88
+3611,tt4979652,The Witness, Wo shi zheng ren,2015, Action&Crime&Drama,6.0,626
+3612,tt4986830,Chun jie xin ling: Zhu meng yan yi quan, Chun jie xin ling: Zhu meng yan yi quan,2015, Comedy&Drama,1.0,552
+3615,tt5004890,Upheaval of Jiawu, Da bian ju zhi meng hui Jia Wu,2015, Drama,2.4,5
+3616,tt5004908,The Calligraphy Master, Qi Gong,2015, Biography,5.9,30
+3617,tt5004918,Love in the 1980s, 1980 nian dai de ai qing,2015, Romance,6.4,43
+3618,tt5008220,Fly Me to Venus, Xing yu xin yuan zhi zai ai,2015, Romance,6.2,25
+3619,tt5011290,Never Gone, Zhi qing chun 2: Yuan lai ni hai zai zhe li,2016, Drama&Romance,5.2,806
+3625,tt5032452,Mr. Zhang Believes, Chi,2015, Documentary&Drama,7.7,18
+3626,tt5033038,Youth Never Returns, Ji ran qing chun liu bu zhu,2015, Romance,5.4,95
+3629,tt5036516,Inside the Girls, Nu sheng su she,2014, Horror&Mystery&Thriller,5.5,25
+3631,tt5040430,Bunshinsaba 3, Bunshinsaba 3,2014, Horror,6.1,30
+3633,tt5051224,The Story of Zhou Enlai, Zhou En Lai De Si Ge Zhou Ye,2013, History,4.1,11
+3634,tt5057982,Di san zhong ai qing, Di san zhong ai qing,2015, Drama&Romance,5.1,373
+3635,tt5061814,Goodbye Mr. Loser, Xia Luo te fan nao,2015, Comedy,6.7,2296
+3636,tt5069450,A Beautiful Mistake, A Beautiful Mistake,2010, Drama,5.8,29
+3639,tt5080208,The Death Is Here, The Death Is Here,2012, Horror&Thriller,5.2,6
+3641,tt5086506,A Horse with Hope, Shan de na bian you pi ma,2016, Drama&Family,7.0,8
+3644,tt5093098,The Guardsman, Yu Qian Shi Wei,2011, Action,5.7,41
+3646,tt5102396,De Lan, De Lan,2015, Drama,6.9,26
+3648,tt5105296,Please Remember Me, Please Remember Me,2015, Documentary,7.9,27
+3650,tt5109290,Taxi Stories, Taxi Stories,2017, Drama,6.7,26
+3651,tt5111844,My Original Dream, Wo de qing chun qi,2015, Drama,5.7,37
+3653,tt5112314,A Simple Goodbye, Gaobie,2015, Drama,7.5,17
+3654,tt5112400,Young Love Lost, Shaonian Babilun,2015, Comedy&Romance,6.2,73
+3656,tt5114564,Impossible, Bu ke si yi,2015, Sci-Fi,4.4,109
+3658,tt5116944,Of Shadows, Of Shadows,2016, Documentary,6.2,5
+3659,tt5119546,Oh My God, Cong tian er jiang,2015, Comedy,4.6,120
+3660,tt5119598,Wheres the Dragon?, Long zai na li,2015, Animation,5.6,72
+3661,tt5128334,Na xie wu ji liu shou de ri zi, Na xie wu ji liu shou de ri zi,2013, Comedy&Fantasy,5.2,6
+3663,tt5128810,Chasing Shadows, Chasing Shadows,2017, Documentary,8.2,6
+3665,tt5131124,Whats in the Darkness, Hei chu you shen me,2015, Crime&Drama,6.3,241
+3667,tt5140556,Wo de shi pian, Wo de shi pian,2015, Documentary,7.1,16
+3668,tt5142610,The Road, Dalu chaotian,2015, Documentary,7.8,90
+3669,tt5144140,Back to the North, Xiang bei fang,2015, Drama&Romance,6.8,6
+3671,tt5152460,Find Me, Find Me,2014, Documentary,6.9,17
+3672,tt5157018,Bad Guys Always Die, Huai dan bi xu si,2015, Action&Comedy,5.8,260
+3675,tt5165012,The Scientist Jiang Zhuying, Jiang Zhu Ying,1992, Biography,7.7,6
+3676,tt5172624,Himalaya: Ladder to Paradise, Ximalaya tianti,2015, Documentary,6.7,36
+3680,tt5187548,The Precipice Game, Mo lun,2016, Horror,4.7,556
+3681,tt5187816,Super Express, Super Express,2016, Action&Comedy&Crime,5.4,121
+3682,tt5190872,MBA Partners, Meng xiang he huo ren,2016, Comedy&Romance,4.6,103
+3684,tt5191028,Romance Out of the Blue, Lang man tian jiang,2015, Comedy,4.5,37
+3688,tt5219050,Scent, Xiang qi,2014, Drama&Romance,7.5,12
+3689,tt5219310,Fate Express, Ming yun su di,2015, Comedy,5.9,38
+3692,tt5224270,The Mahjong Box, San que yi,2016, Drama&Family,5.5,10
+3695,tt5234016,Bad Sister, Huai jie jie zhi chai hun lian meng,2014, Comedy&Romance,5.6,37
+3696,tt5237980,From Vegas to Macau III, Du cheng feng yun III,2016, Comedy&Drama,2.3,2955
+3698,tt5243900,Bounty Hunters, Shang jin lie ren,2016, Action&Comedy&Romance,5.4,806
+3700,tt5246410,Wild Desert, Wild Desert,2015, Action&Adventure,4.2,16
+3702,tt5253186,Monsters, Yi zhong,2015, Horror,3.6,7
+3703,tt5257730,The Last Women Standing, Sheng zhe wei wang,2015, Romance,5.3,307
+3705,tt5266678,Surprise, Wan wan mei xiang dao,2015, Adventure&Comedy&Fantasy,5.1,347
+3706,tt5269396,Sword Master, San shao ye de jian,2016, Action&Drama,6.1,2166
+3708,tt5273624,Journey to the West: The Demons Strike Back, Journey to the West: Demon Chapter,2017, Adventure&Comedy&Family,5.4,2759
+3709,tt5275314,My Best Friends Wedding, Wo zui hao peng you de hun li,2016, Comedy&Romance,5.1,179
+3710,tt5278850,Pleasure. Love., Huan. Ai.,2016, Drama,6.2,10
+3713,tt5290882,Detective Chinatown, Tang ren jie tan an,2015, Action&Comedy&Mystery,6.6,2059
+3714,tt5291226,Betelnut Girls, Bin lang xi shi,2015, Drama,6.9,16
+3719,tt5296686,Fruit Rockers, Yao gun shui guo,2015, Comedy,4.3,9
+3720,tt5297596,Ex-Files 2: The Backup Strikes Back, Qian ren 2: Bei tai fan ji zhan,2015, Comedy,4.5,139
+3721,tt5297654,Devil and Angel, E gun tian shi,2015, Comedy,4.2,216
+3723,tt5298946,Impetuous Love in Action, Yuan lai shi you xi,2014, Comedy,6.4,20
+3726,tt5312054,Blind Spot, Tan ling dang an,2015, Thriller,6.5,71
+3729,tt5328352,Everybodys Fine, Everybodys Fine,2016, Drama,6.0,76
+3730,tt5336634,Approach to Love II, Approach to Love II,2016, Comedy&Drama&Romance,6.8,6
+3731,tt5337492,Enclave, Enclave,2015, Documentary,7.8,5
+3735,tt5342650,Reset, Reset,2017, Action&Sci-Fi&Thriller,5.3,1050
+3738,tt5344990,Withered in a Blooming Season, Shao nian hua cao huang,2005, Drama,4.8,8
+3740,tt5354664,Time Raiders, Time Raiders,2016, Adventure&Fantasy,4.8,761
+3741,tt5356308,A Bite of China: Celebrating the Chinese New Year, She Jian Shang De Xin Nian,2016, Documentary,7.7,107
+3742,tt5357114,Life After Life, Zhi fan ye mao,2016, Drama,6.4,122
+3743,tt5358658,Wu Tu: My land, Wu Tu: My land,2015, Documentary,7.7,21
+3744,tt5364390,My Boy Boy Boy Boyfriend, Wo de nan nan nan nan peng you,2013, Romance,2.0,5
+3745,tt5364694,My Beautiful Kingdom, Wo de mei li wang guo,2013, Romance,4.5,6
+3746,tt5364756,Broadcasting Girl, Broadcasting Girl,2014, Romance,5.5,10
+3748,tt5370104,Mystery, Mystery,2014, Mystery&Thriller,2.1,7
+3749,tt5370376,Anniversary, Fen shou zai shuo wo ai ni,2015, Romance,6.2,119
+3750,tt5371612,The Sino-Japanese War at Sea 1894, The Sino-Japanese War at Sea 1894,2012, History&War,4.2,23
+3753,tt5396872,Heart for Heaven, Yi nian tian tang,2015, Comedy,5.1,96
+3754,tt5396888,Chasing Hemingway, Zao yu hai ming wei,2015, Romance,6.8,9
+3755,tt5396926,Tomb Mystery, Mu xue mi cheng,2015, Drama&Mystery&Thriller,3.4,14
+3756,tt5396942,A Tiger Wife, Jia you hu qi,2015, Drama&Romance,3.0,5
+3759,tt5425264,Throne of Elves, Throne of Elves,2017, Adventure&Animation&Fantasy,6.1,1181
+3761,tt5449374,Where Are You Going, Where Are You Going,2016, Documentary,6.2,18
+3763,tt5460888,My Neighbours and Their Japanese Ghosts, My Neighbours and Their Japanese Ghosts,2008, Documentary,6.3,14
+3765,tt5465334,Dog Days, San fu tian,2016, Drama,7.4,65
+3767,tt5465996,Go Fighting: Royal Treasure, Ji Xian Tiao Zhan Zhi Huang Jia Bao Zang,2016, Drama,3.6,58
+3769,tt5470448,Crosscurrent, Chang jiang tu,2016, Drama,6.6,509
+3770,tt5471154,Boonie Bears: The Big Top Secret, Xiong chu mo zhi xiong xin gui lai,2016, Animation,5.0,126
+3771,tt5472146,Papa Rainbow, Papa Rainbow,2016, Documentary&Family,7.1,8
+3772,tt5473330,Lip sau ze, Lip sau ze,2013, Action,5.0,22
+3773,tt5473906,One Step Away, One Step Away,2014, Romance&War,5.4,46
+3774,tt5474302,Bad Cop, Buliang Nujing,2016, Comedy,6.2,18
+3776,tt5476908,Chasing the Girl, Jin ji guan xi,2015, Thriller,3.8,6
+3777,tt5477002,Super Eunuch, Chao neng tai jian,2016, Drama,3.9,26
+3778,tt5477228,Savage Land, Jian jin feng bao,2016, Crime,5.8,15
+3780,tt5482570,Lord of Shanghai, Shanghai Wang,2016, Drama,6.9,250
+3784,tt5504474,Midnight Whisper, Midnight Whisper,2015, Horror,2.2,8
+3787,tt5515022,The New Years Eve of Old Lee, Guo nian hao,2016, Drama,4.5,48
+3794,tt5541542,Kill Time, Mou sha si shui nian hua,2016, Drama,4.8,65
+3795,tt5545866,The Legend of Qin, The Legend of Qin,2014, Adventure,6.8,29
+3796,tt5559338,Bleeding Mountain, Bleeding Mountain,2012, Horror,5.9,10
+3799,tt5562070,Wish Dragon, Wish Dragon,2021, Adventure&Animation&Comedy,6.9,140
+3800,tt5564566,Something in Blue, Something in Blue,2016, Comedy&Drama&Mystery,6.0,38
+3801,tt5567494,Out of Control, Out of Control,2017, Action,6.9,133
+3804,tt5576776,Mr. High Heels, Gao gen xie xian sheng,2016, Comedy&Romance,4.4,37
+3807,tt5593632,Story of Han Dynasty, Po fu chen zhou,2005, Action,5.5,6
+3808,tt5594236,Tales of Mystery, Guai tan,2015, Drama&Horror&Romance,5.4,10
+3809,tt5596352,Huo guo ying xiong, Huo guo ying xiong,2016, Comedy&Crime&Thriller,6.6,1202
+3810,tt5596528,On Fallen Wings, Hu Die Gong Mu,2016, Fantasy&Horror&Mystery,5.2,17
+3812,tt5599016,Shui zhai wo shang pu de xiong di, Shui zhai wo shang pu de xiong di,2016, Drama&Romance,5.3,53
+3814,tt5603412,Kung Fu Style, Kung Fu Style,2015, Animation,5.5,8
+3815,tt5606614,Wang Mao, Wo bu shi Wang Mao,2014, Drama,6.8,120
+3821,tt5619304,Midnight Hair, Midnight Hair,2014, Horror&Mystery&Thriller,5.1,55
+3824,tt5636668,Battle of Memories, Ji yi da shi,2017, Fantasy&Mystery&Sci-Fi,6.5,932
+3825,tt5638160,Peking Duck Restaurant, Peking Duck Restaurant,1990, Drama,6.5,13
+3826,tt5639650,Phantom of the Theatre, Mo gong mei ying,2016, Drama&Mystery&Romance,5.3,343
+3828,tt5644126,A Shanghai Bride, Una novia de Shanghai,2016, Comedy,5.7,23
+3829,tt5644394,End of Summer, End of Summer,2017, Drama&Family,6.5,70
+3830,tt5645602,The Scope of Separation, The Scope of Separation,2017, Drama,5.4,17
+3831,tt5648036,S.M.A.R.T. Chase, Ji zhi zhui ji,2017, Action&Thriller,4.7,2557
+3832,tt5649362,When We Were Young, Bu xiu de shi guang,2016, Drama,6.5,28
+3833,tt5662662,Mang dao, Mang dao,2017, Crime&Family,5.9,48
+3834,tt5662906,Hide and Seek, Zhuo mi cang,2016, Mystery&Thriller,5.9,626
+3835,tt5663040,Xiao Jie, Xiao Jie,1981, Drama,7.8,25
+3836,tt5665040,Suddenly Seventeen, 28 Suì Wèi Chéngnián,2015, Drama&Fantasy&Romance,6.3,648
+3837,tt5670068,Mr. Zhus Summer, Mr. Zhus Summer,2017, Comedy,6.0,35
+3838,tt5671298,Asura, A Xiu Luo,2018, Action&Fantasy&Romance,3.5,164
+3839,tt5673218,Bumming in Beijing: The Last Dreamers, Bumming in Beijing: The Last Dreamers,1990, Documentary,7.5,39
+3840,tt5684550,Xuan Zang, Da Tang Xuan Zang,2016, Biography&History,6.2,379
+3842,tt5694916,Mr. Nian, Mr. Nian,2016, Animation,4.5,15
+3848,tt5712158,Bloody Destiny, Quan ba feng yun,2015, Action,5.9,36
+3849,tt5714554,Lost in White, Bing he zhui xiong,2016, Crime,5.6,118
+3853,tt5730336,The Song of Cotton, Cheng xiang sheng di hua er,2016, Drama&Family,5.6,18
+3855,tt5753182,Super Eunuch 2: Golden Right Hand, Chao neng tai jian 2 zhi huang jin you shou,2016, Comedy,5.0,12
+3856,tt5759434,In Harms Way, Feng huo fang fei,2017, History&Romance&War,6.1,1068
+3857,tt5763398,Fear Is Coming, Kong bu jiang ying,2016, Horror&Thriller,4.5,42
+3858,tt5769480,The Hammer and Sickle Are Sleeping, Chui zi lian dao dou xiu xi,2013, Comedy,6.7,19
+3859,tt5769516,Yesterday Once More, Shei de qing chun bu mi mang,2016, Drama&Romance,6.6,239
+3860,tt5769560,Insomnia Lover, Shi mian nan nu,2016, Drama,4.2,8
+3861,tt5775194,Kung Fu Traveler, Kung Fu Traveler,2017, Action&Sci-Fi&Thriller,5.5,816
+3862,tt5779650,The Adventures of Panda Warrior, The Adventures of Panda Warrior,2012, Action&Adventure&Animation,1.7,183
+3863,tt5781778,Sanmao Joins the Army, San mao cong jun ji,1994, Comedy&Drama&War,7.3,103
+3864,tt5782090,Dream Journey, Da meng xi you,2016, Adventure&Comedy&Fantasy,5.2,12
+3865,tt5784434,Enter the Forbidden City, Jin Huang Cheng,2018, History,6.7,20
+3870,tt5801026,Edge of Innocence, Xia tian 19 sui de Xiao xiang,2017, Mystery,5.8,131
+3874,tt5806792,Legend of the Ancient Sword, Gu jian qi tan zhi liu yue zhao ming,2018, Action&Fantasy,5.2,124
+3875,tt5813366,Bleeding Steel, Ji qi zhi xue,2017, Action&Sci-Fi&Thriller,5.2,8939
+3878,tt5816956,Fatal Invitation, Fatal Invitation,2011, Thriller,6.7,10
+3879,tt5819500,Sentence Me Guilty, Pan wo you zui,2015, Thriller,5.6,20
+3880,tt5820032,The Tears of Reed Catkins, The Tears of Reed Catkins,2010, War,5.2,8
+3881,tt5823524,Crocodile Fury, Crocodile Fury,1988, Action&Crime&Fantasy,5.2,50
+3886,tt5840762,Tiananmen, Tiananmen,2009, Drama&History,5.7,6
+3888,tt5843056,One Night Only, Tian liang zhi qian,2016, Drama&Romance,6.1,297
+3889,tt5843096,A Way Out, A Way Out,2017, Documentary,8.0,23
+3891,tt5846644,A Better Tomorrow 2018, Ying xiong ben se 2018,2018, Action&Crime&Drama,4.9,450
+3893,tt5848704,T Sheng De Ba Si Ba Wu Nian, T Sheng De Ba Si Ba Wu Nian,1986, Drama,8.2,33
+3895,tt5855500,Barber Takes a Wife, Jia feng xu huang,1947, Comedy,6.4,12
+3898,tt5862362,Yi Jian Qi Xia, Yi Jian Qi Xia,1992, Action,4.0,6
+3899,tt5862688,Jasper, Jasper,2017, Action&Drama&Fantasy,6.8,5
+3900,tt5866930,The Adventurers, Xia dao lian meng,2017, Action&Adventure&Crime,5.6,2719
+3901,tt5870806,Girl of the Big House, Bao bei dang jia,2016, Family,4.4,11
+3902,tt5871022,Environmental Protection Guardians, Environmental Protection Guardians,2011, Family,6.5,8
+3903,tt5871076,A Story Behind Mountain, A Story Behind Mountain,2012, Drama,5.8,10
+3904,tt5871098,The Angel of My Life, The Angel of My Life,2012, Thriller,5.2,8
+3905,tt5871166,Lost, Lost,2015, Thriller,7.1,8
+3906,tt5874548,I Love That Crazy Little Thing, I Love That Crazy Little Thing,2016, Comedy&Romance,5.0,59
+3907,tt5875622,Under the Bed 2, Chuang xia you ren 2,2014, Horror&Thriller,3.9,16
+3908,tt5882704,For a Few Bullets, Kuai shou qiang shou kuai qiang shou,2016, Action&Comedy,5.3,162
+3911,tt5886728,Another Year, You yi nian,2016, Documentary,7.1,44
+3915,tt5890556,Young Hero of Shaolin II, Xin Fang Shi Yu xu ji,1986, Adventure,4.8,8
+3917,tt5896962,Line Walker, Shi tu xing zhe,2016, Action&Crime&Mystery,6.1,1218
+3919,tt5903680,The Great Guys, The Great Guys,2016, Drama&Family&Sci-Fi,6.3,12
+3920,tt5904956,Momento Mori, Ji yi sui pian,2016, Comedy&Mystery,4.9,16
+3921,tt5906216,Forever Love, Bei jing shi jian,2015, Drama,7.4,11
+3922,tt5914618,Murder at Honeymoon Hotel, Mi yue jiu dian sha ren shi jian,2016, Comedy&Crime&Mystery,3.5,17
+3924,tt5918088,Night Awake, Night Awake,2016, N/A,7.1,32
+3925,tt5918090,I Am Not Madame Bovary, Wo bu shi Pan Jin Lian,2016, Comedy&Drama,6.9,2032
+3927,tt5929654,Think Like a Dog, Think Like a Dog,2020, Comedy&Drama&Family,5.1,1207
+3929,tt5934728,San ge wei hun ma ma, San ge wei hun ma ma,2012, Comedy&Drama&Romance,5.5,10
+3930,tt5936462,Scandal Maker, Wai gong fang ling 38,2016, Comedy&Family,4.5,56
+3931,tt5938816,The Possessed, Zhong xie,2016, Horror,6.6,196
+3932,tt5955834,The Guest, The Guest,2016, Crime&Thriller,4.7,27
+3933,tt5956006,Love Off the Cuff, Chun Kiu gau Chi Ming,2017, Romance,6.5,899
+3934,tt5962096,Candy Planet, Lu Lin Da Mao Xian Zhi Tang Guo Shi Jie,2016, Adventure&Animation,3.8,49
+3936,tt5966238,Couch Boy, Couch Boy,2017, Drama&Family,6.8,18
+3937,tt5974624,Soul on a String, Pi sheng shang de hun,2016, Drama,6.7,209
+3938,tt5987992,Uncontrolled Love, Uncontrolled Love,2016, Drama,6.7,314
+3939,tt5991440,The Spirit of the Swords, The Spirit of the Swords,2015, Action&Drama,5.8,25
+3940,tt5992138,The Game Changer, The Game Changer,2017, Action,5.4,195
+3942,tt6004290,Mo du xiong yin, Mo du xiong yin,2016, Horror,5.3,6
+3943,tt6009496,Zhong Ji Da Mao Xian, Zhong Ji Da Mao Xian,2013, Animation,1.6,14
+3945,tt6011710,Fatal Love, Fatal Love,2016, Romance,6.0,6
+3947,tt6013920,Chinas Van Goghs, Chinas Van Goghs,2016, Documentary,7.5,253
+3949,tt6015706,China Salesman, China Salesman,2017, Action&Drama,2.9,1280
+3951,tt6019738,The Lethal Weapon, The Lethal Weapon,2014, Action&Drama,7.9,9
+3952,tt6033150,Tik Tok, Jing tian da ni zhuan,2016, Crime&Mystery,5.5,542
+3954,tt6035092,Secrets of the Heavenly Book, Tian shu qi tan,1983, Animation,7.4,275
+3955,tt6039376,Iron Moon, Iron Moon,2016, Documentary,6.3,6
+3958,tt6044910,Operation Mekong, Mei Gong he xing dong,2016, Action&Adventure&Crime,6.6,4236
+3959,tt6047232,Hei lou gu hun, Hei lou gu hun,1989, Drama&Horror,6.5,37
+3961,tt6050658,A Idiot Lost in Xiangxi, Ji Fei Gou Tiao,2016, Action&Adventure&Comedy,5.0,8
+3963,tt6054290,Soulmate, Qi yue yu an sheng,2016, Drama&Romance,7.4,2150
+3964,tt6067136,Haunted Road, Yuàn líng,2014, Horror,4.5,20
+3965,tt6067462,Cock and Bull, Zhui xiong zhe ye,2016, Crime,6.8,667
+3966,tt6073576,Path to the Dream, Path to the Dream,2018, Action,6.4,15
+3967,tt6074202,I Belonged to You, I Belonged to You,2016, Drama&Romance,5.5,431
+3968,tt6075750,Summers Desire, Pao mo zhi xia,2016, Romance,3.9,15
+3971,tt6081412,Love Without Words, Love Without Words,2017, Drama&Family,7.2,45
+3972,tt6083388,God of War, Dang kou feng yun,2017, Action&Adventure&Drama,6.4,2081
+3973,tt6083394,Xunzhao Lin Zhao de linghun, Xunzhao Lin Zhao de linghun,2004, Biography&Documentary&History,8.8,19
+3974,tt6090264,Plastic China, Plastic China,2016, Documentary,7.7,507
+3976,tt6091936,Love O2O, Wei wei yi xiao hen qing cheng,2016, Drama&Romance,6.5,865
+3977,tt6094978,Weaving, Weaving,2017, Documentary&Drama&Family,8.0,5
+3980,tt6096894,Strangers, Ji Qiang,2017, Action&Crime&Drama,5.5,48
+3981,tt6097006,Life Imitation, Life Imitation,2017, Documentary,7.1,11
+3982,tt6099304,Freezing, Dong tian li,2016, Drama&Family,7.2,12
+3983,tt6099308,Meido, Meido,2017, Drama,7.9,7
+3988,tt6118258,The Summer Is Gone, Ba yue,2016, Drama,6.8,336
+3989,tt6128782,Mr. No Problem, Bu cheng wen ti de wen ti,2016, Drama,7.3,473
+3990,tt6128848,Someone to Talk To, Yi ju ding yi wan ju,2016, Drama,6.4,139
+3992,tt6135054,Shed Skin Papa, Tyut pei ba ba,2016, Comedy&Drama,6.1,70
+3995,tt6138688,Once Upon A Time, Once Upon a Time,2017, Drama&Fantasy&Romance,5.2,1246
+3998,tt6141382,Love Is the Last Word, Love Is the Last Word,2010, Romance,4.7,6
+4000,tt6144410,Time Is Up, Open Wound: The Über-Movie,2018, Crime&Drama&Mystery,4.6,33
+4001,tt6145072,Stonehead, Shi Tou,2017, Drama,7.3,21
+4002,tt6148782,King of Peking, King of Peking,2017, Comedy&Drama,6.4,315
+4003,tt6150988,Long quan xiao zi, Long quan xiao zi,2016, Action,4.2,130
+4004,tt6151414,The End of the Lonely Island, The End of the Lonely Island,2017, Drama&Sci-Fi,5.2,15
+4005,tt6152908,Buddies in India, Buddies in India,2017, Action&Comedy,3.7,283
+4007,tt6157600,Sky on fire, Chung tin foh,2016, Action&Crime&Thriller,4.6,309
+4008,tt6157626,Legend of the Demon Cat, Kûkai,2017, Adventure&Drama&Family,6.2,2320
+4009,tt6167014,Mr. Donkey, Lü de shui,2016, Comedy,7.4,1463
+4010,tt6167646,McDull: Rise of the Rice Cooker, McDull: Rise of the Rice Cooker,2016, Animation,5.1,53
+4011,tt6170484,Monster Hunt 2, Zhuo yao ji 2,2018, Adventure&Comedy&Fantasy,5.4,1430
+4012,tt6177592,My War, My War,2016, History&War,5.3,165
+4013,tt6183334,Inside: A Chinese Horror Story, Inside: A Chinese Horror Story,2017, Horror,4.9,43
+4014,tt6183380,The Scroll of Wing Chun White Crane, The Scroll of Wing Chun White Crane,2014, Action,5.7,15
+4015,tt6183384,70 80 90, 70 80 90,2016, Drama,7.1,22
+4016,tt6186248,Father and Son, Fu zi xiong bing,2017, Action&Comedy&Romance,5.1,66
+4021,tt6201972,San xian hao qing nian, San xian hao qing nian,2016, Drama,7.0,7
+4023,tt6223976,Dream Breaker, Dream Breaker,2018, Fantasy,4.7,24
+4025,tt6230014,Under the Bed 3, Chuang xia you ren 3,2016, Horror,4.0,8
+4026,tt6234666,Never Said Goodbye, Huang yan Xixili,2016, Romance,6.5,182
+4028,tt6242504,This Is Life, Sheng Men,2016, Documentary,8.3,60
+4029,tt6244730,Free and Easy, Free and Easy,2016, Comedy,6.3,356
+4032,tt6254446,Still Tomorrow, Still Tomorrow,2016, Biography&Documentary,7.1,99
+4033,tt6264928,Blood 13, Xue shi san,2018, Crime&Drama&Horror,5.6,159
+4037,tt6273198,Hard to Give Up, Hard to Give Up,2016, Romance,6.9,16
+4038,tt6286308,Qiu Xi, Qiu Xi,2009, Drama,6.8,5
+4039,tt6286730,Shen gai, Shen gai,1987, Action,5.0,7
+4040,tt6288650,Legend of the Naga Pearls, Jiao zhu zhuan,2017, Action&Adventure&Comedy,5.5,769
+4041,tt6289390,Journey to the West 2000, Journey to the West 2000,2000, Action,7.4,28
+4042,tt6303872,Maineland, Maineland,2017, Documentary,6.0,87
+4043,tt6312872,Knife in the Clear Water, Qingshui li de daozi,2016, Drama,6.6,127
+4051,tt6347078,Sentinel Under the Neon Lights, Ni Hong Deng Xia De Shao Bing,1964, Drama,6.8,8
+4052,tt6349844,What a Wonderful Family!, What a Wonderful Family!,2017, Comedy,4.5,54
+4055,tt6371906,Haunting Love, Gui ai,2012, Drama&Horror&Mystery,5.9,10
+4056,tt6371934,Twin Spirit, Twin Spirit,2015, Thriller,4.4,5
+4057,tt6380322,Shao nian wang shi, Shao nian wang shi,2003, Drama,6.3,9
+4059,tt6386600,One Hundred and Fifty Years of Life, Yi bai wu shi sui de sheng huo,2016, Drama,8.2,5
+4060,tt6389310,Making Family, Making Family,2016, Drama&Romance,7.0,113
+4061,tt6389316,Wrath of Silence, Bao lie wu sheng,2017, Crime&Drama&Mystery,7.1,1664
+4062,tt6392362,To Kill a Watermelon, To Kill a Watermelon,2017, Drama,6.5,41
+4066,tt6398666,Some Like It Hot, Qing sheng,2016, Comedy,6.2,367
+4070,tt6412268,Goodbye to Youth, Nu fang zhi qing chun zai jian,2014, Drama,6.8,6
+4071,tt6413312,Zero Point Five Love, Zero Point Five Love,2014, Romance,6.6,17
+4072,tt6416842,Bloody House, Bi xian gui ying,2016, Horror,4.7,13
+4073,tt6418542,Shangrao Concentration Camp, Shangrao ji zhong ying,1951, War,3.8,5
+4074,tt6418780,Intrepid Hero, Ying xiong hu dan,1958, Action&War,7.4,11
+4075,tt6419442,Blood of Youth, Shao nian,2016, N/A,5.9,42
+4076,tt6419698,Who Is Undercover, Wang pai,2015, Drama&Mystery,4.0,8
+4077,tt6421362,Top Funny Comedian: The Movie, Huan Le Xi Ju Ren,2017, Comedy&Family,3.1,100
+4078,tt6423420,A Tale from the Orient, Tian yan chuan qi,2015, Adventure&Animation,4.0,5
+4079,tt6423542,Spicy Hot in Love, Ai qing ma la tang,2016, Romance,4.4,5
+4082,tt6435124,The Door, Wan mei you duo mei,2017, Family,6.4,14
+4083,tt6439446,Liberation of Nanjing, Feng yu xia zhong shan,1982, Drama&War,6.2,5
+4084,tt6440586,Nanchang Uprising, Nanchang qi yi,1981, War,2.4,5
+4085,tt6441102,Complicit, Complicit,2017, Documentary,8.1,35
+4087,tt6444184,The Maples, Feng,1980, N/A,7.9,10
+4088,tt6446712,The Death Note, The Death Note,2016, Horror&Thriller,5.6,23
+4089,tt6446754,Love at Seventh Sight, Qi Tian Ai Shang Ni,2009, Drama&Romance,5.8,8
+4090,tt6446772,Min & Max, Min & Max,2016, Comedy&Romance,5.5,39
+4091,tt6447400,Brothers, Brothers,2017, Action&Drama&War,4.6,15
+4092,tt6447462,Angry Kid, Angry Kid,2013, Comedy,5.8,12
+4093,tt6447464,Perfect Imperfection, Perfect Imperfection,2016, Comedy&Romance,6.5,15
+4094,tt6447520,Magic Wonderland, Magic Wonderland,2014, Animation,6.4,18
+4095,tt6447600,The Great Emperor, Xuan yuan da di,2016, Adventure&History,6.9,17
+4096,tt6447610,The Mirror, Mo jing,2015, Horror,5.9,37
+4097,tt6447730,Fighting, Fighting,2014, Action&Drama&Romance,6.3,9
+4098,tt6447856,This Is Me, Nian shao qing kuang,2015, Comedy&Drama&Romance,5.3,11
+4099,tt6448084,The Frog Kingdom 2: Sub-Zero Mission, The Frog Kingdom 2: Sub-Zero Mission,2016, Animation,5.5,53
+4100,tt6448192,Masters in Forbidden City, Masters in Forbidden City,2016, Documentary,7.1,93
+4101,tt6448318,A Busy Night, A Busy Night,2016, Comedy,5.7,27
+4102,tt6448504,Ultimate Hero, Ultimate Hero,2016, Action,6.2,123
+4103,tt6448704,The Nursery, The Nursery,2016, Drama,5.1,16
+4104,tt6448740,A Big Potato, Bie na zi ji bu dang gan bu,2007, Comedy,6.3,21
+4105,tt6448922,Almost Perfect, Shi Quan Jiu Mei,2008, N/A,3.9,39
+4106,tt6448978,Mothers Revenge, Mothers Revenge,2016, Drama&Horror&Thriller,5.7,20
+4107,tt6449114,Days of Our Own, Days of Our Own,2016, Drama&Romance,6.2,14
+4108,tt6449270,Chu lian wei man, Chu lian wei man,2013, Drama&Romance,7.5,24
+4109,tt6449296,The King of Tibetan Antelope, The King of Tibetan Antelope,2015, Animation,7.0,12
+4110,tt6449898,Love Godfathers: Three Bad Guys, Lian ai jiao fu,2016, N/A,4.2,5
+4111,tt6450154,Calabash Brothers, Calabash Brothers,2008, Mystery,8.0,6
+4112,tt6450158,Funny Soccer, Funny Soccer,2016, Comedy&Sport,4.5,20
+4113,tt6450660,Ghost in the Mountains, Kong shan yi ke,2017, Drama,5.7,45
+4115,tt6451304,Have a Nice Day, Hao jile,2017, Animation&Comedy&Crime,6.5,1790
+4117,tt6455336,Yi Lu Ni Feng, Yi Lu Ni Feng,2017, Documentary,3.5,6
+4118,tt6461514,Duckweed, Cheng feng po lang,2017, Comedy&Drama&Fantasy,6.5,1227
+4120,tt6464252,Cherry Returns, Na nin ha tin nei qie liu na lei,2016, Drama&Mystery&Thriller,4.9,64
+4121,tt6466464,The Monkey King 3, Xi you ji zhi nü er guo,2018, Action&Adventure&Family,5.5,1232
+4122,tt6467214,Yugo & Lala 3, Yugo & Lala 3,2016, Animation&Family,4.5,17
+4125,tt6473340,Woman Barber, Nü li Fa Shi,1962, Comedy,6.4,9
+4127,tt6475918,The Taste of Betel Nut, Bing Lang Xue,2017, Drama,5.1,45
+4128,tt6476542,Landmine Warfare, Di lei zhan,1962, War,6.2,63
+4129,tt6478958,Reconnaissance Across the Yangtze, Du jiang zhen cha ji,1954, War,6.6,8
+4130,tt6483148,Rescued from Desperate Situation, Juejing feng sheng,1994, Comedy&War,5.8,9
+4132,tt6485574,Zhang Ga the Soldier Boy, Xiao bing zhang ga,1963, Drama&War,6.5,126
+4133,tt6498818,Ink & Rain, Ink & Rain,2018, Action&Drama&Fantasy,6.6,13
+4138,tt6513180,Once Upon a Time in the Northeast, Po ma zhang fei,2017, Action&Comedy,3.0,20
+4139,tt6513338,Soccer Killer, Xian qiu da zhan,2017, Comedy&Sport,4.0,88
+4140,tt6513406,The Tales of Wukong, Wu Kong,2017, Action&Adventure&Family,5.8,1481
+4141,tt6513656,Escape Plan 2: Hades, Escape Plan 2: Hades,2018, Action&Crime&Mystery,3.9,28861
+4142,tt6518634,Love Contractually, Hap joek nam nui,2017, Comedy&Drama&Romance,4.7,151
+4143,tt6533000,The Foolish Bird, Ben Niao,2017, Drama,3.7,78
+4144,tt6537200,The Twins Code, Luan sheng mi ma,2013, Action&Thriller,4.8,11
+4145,tt6541110,Tian Lai Meng Xiang, Tian Lai Meng Xiang,2017, Drama&Family,7.1,40
+4147,tt6547728,The Morning After, Duan pian zhi xian tu duo bao,2018, Comedy,2.5,28
+4148,tt6554184,Struggles in an Ancient City, Ye huo chun feng dou gu cheng,1963, Drama&History&War,6.6,12
+4149,tt6554484,The Story of Liubao, Liubao de gu shi,1957, Drama,6.2,8
+4151,tt6556486,The First Shot, The First Shot,2017, Documentary,7.1,7
+4152,tt6558076,Girl Students Dormitory, Nü da xue sheng su she,1983, Drama,6.9,13
+4153,tt6559408,Tracks in the Snowy Forest, Lin hai xue yuan,1960, Action&Adventure&Drama,6.2,13
+4154,tt6562468,A Sweet Life, Tian mi de shi ye,1979, Drama&Romance,7.3,6
+4156,tt6567022,Dong Cunrui, Dong Cunrui,1955, Biography&Drama&War,5.7,32
+4157,tt6570382,Juvenile Delinquents, Shao nian fan,1985, Drama,5.0,8
+4159,tt6576482,Dragonfly Eyes, Qing ting zhi yan,2017, Documentary&Mystery,6.5,172
+4161,tt6581480,Red Guards on Honghu Lake, Hong hu chi wei dui,1961, Drama&Musical&War,6.8,8
+4162,tt6584254,Gunshots in the CIB, Bao mi ju de qiang sheng,1979, Drama&Thriller,7.2,6
+4163,tt6584350,Secret Post in Canton, Yang cheng an shao,1958, Mystery&Thriller,6.7,7
+4164,tt6584388,A Hand Cuffed Passenger, Dai shou kao de lü ke,1980, Action&Drama&Mystery,7.0,7
+4166,tt6604536,A Story of a Singleton, Yi ge du sheng nü de gu shi,1994, Drama,5.9,142
+4169,tt6611820,Master Qiao Mounts the Sedan, Qiao lao ye shang jiao,1959, Comedy&Drama,7.2,5
+4170,tt6611906,Jin shang tian hua, Jin shang tian hua,1962, Comedy&Drama,7.0,8
+4171,tt6619606,Bao feng zhou yu, Bao feng zhou yu,1961, Drama,5.0,6
+4172,tt6622024,Flavour of Girlhood, Flavour of Girlhood,2004, Drama,7.7,20
+4174,tt6628322,Shanghai Fortress, Shang hai bao lei,2019, Action&Sci-Fi,4.3,2019
+4175,tt6629794,Guan lian zhang, Guan lian zhang,1951, War,7.8,9
+4176,tt6635034,Visitors on the Icy Mountain, Bing shan shang de lai ke,1963, Drama&Mystery&War,6.3,29
+4177,tt6635308,San jin shan cheng, San jin shan cheng,1965, Drama&War,7.3,7
+4180,tt6643810,Satisfied or Unsatisfied, Man yi bu man yi,1963, Comedy&Drama,6.1,7
+4182,tt6645780,A Symphony of Cooking Utensils, Guo wan piao pen jiao xiang qu,1983, Drama,5.6,7
+4183,tt6654316,Youth, Fang hua,2017, Drama&Romance&War,7.1,2689
+4184,tt6656572,Death Ouija 2, Die xian gui tan 2,2017, Horror,5.6,5
+4185,tt6660238,Crazy Alien, Feng kuang de wai xing ren,2019, Comedy&Sci-Fi,5.7,1105
+4186,tt6661732,Xiao xiao de yue lou, Xiao xiao de yue lou,1983, Comedy&Drama,6.3,7
+4187,tt6662276,Ninja Death II, Ninja Death II,1987, Action,3.7,39
+4189,tt6676134,Feng kuang de tu zi, Feng kuang de tu zi,1997, Horror&Sci-Fi,6.0,16
+4190,tt6686930,A Yangtze Landscape, A Yangtze Landscape,2017, Documentary,7.2,22
+4191,tt6689628,Zhang Heng, Zhang Heng,1983, Biography&Drama&History,5.2,5
+4192,tt6690310,Extraordinary Mission, Fei fan ren wu,2017, Action&Crime,6.2,710
+4193,tt6706420,Lei Feng, Lei Feng,1965, Biography&Drama,5.1,12
+4194,tt6713422,Mayor Chen Yi, Chen Yi shi zhang,1981, Biography&Drama&History,6.8,6
+4195,tt6721754,Kong Fan Sen, Kong Fan Sen,1996, Biography&Drama,6.0,9
+4197,tt6724502,Dong ling da dao, Dong ling da dao,1986, Drama&War,5.8,5
+4201,tt6758582,Mr. Wangs Burning Desire, Wang xian sheng zhi yu huo fen shen,1993, Comedy,7.1,7
+4202,tt6758640,San mao xue sheng yi, San mao xue sheng yi,1958, Comedy&Drama,7.2,5
+4203,tt6760836,Wang xiang zheng, Wang xiang zheng,2016, Horror&Thriller,5.2,19
+4205,tt6772360,Eternal Love, Haijiao Youge Wudian Shi,2017, Drama,8.3,18
+4208,tt6772874,This Is Not What I Expected, Xi huan ni,2017, Comedy&Drama&Romance,6.7,1407
+4209,tt6779054,Da zhuan zhe: Ao zhan lu xi nan, Da zhuan zhe: Ao zhan lu xi nan,1996, History&War,6.8,5
+4210,tt6791096,I Feel Pretty, I Feel Pretty,2018, Comedy&Romance,5.5,50200
+4215,tt6814080,The Thousand Faces of Dunjia, Qimen Dunjia,2017, Action&Adventure&Fantasy,5.4,1125
+4216,tt6821424,Da zhuan zhe: Ting jin da bie shan, Da zhuan zhe: Ting jin da bie shan,1996, History&War,6.3,7
+4217,tt6822788,A Loner, A Loner,2017, Drama,7.0,9
+4219,tt6838570,Walking Past the Future, Lu guo wei lai,2017, Drama,7.0,69
+4222,tt6857250,Fantastica: A Boonie Bears Adventure, Boonie Bears: Entangled Worlds,2017, Action&Adventure&Animation,5.5,100
+4223,tt6857260,Revenge for Love, Revenge for Love,2017, Comedy&Romance,3.3,20
+4224,tt6857276,Mr. Pride vs. Miss Prejudice, Ao jiao yu pian jian,2017, Comedy&Romance,5.8,245
+4225,tt6857280,What a Day!, You wan mei wan,2017, Comedy&Drama,4.9,56
+4226,tt6857308,Ghost in Barbers, Kong bu li fa dian,2017, Horror&Mystery&Thriller,4.7,10
+4227,tt6857312,Lighting Dindin, Lighting Dindin,2017, Action&Adventure&Animation,5.2,16
+4229,tt6857354,Haunted Sisters, Haunted Sisters,2017, Drama&Horror&Thriller,4.2,13
+4230,tt6860772,Saving Mother, Xi yue qi tong,1984, Animation&Fantasy,6.8,6
+4231,tt6863762,Guardians of Night: The Demon Hunting Academy, Wang pai yu shi,2016, Adventure&Comedy&Fantasy,7.6,5
+4232,tt6864046,Shadow, Ying,2018, Action&Adventure&Drama,7.0,13330
+4233,tt6869538,Detective Dee: The Four Heavenly Kings, Di Renjie zhi Sidatianwang,2018, Action&Adventure&Drama,6.4,2359
+4234,tt6871634,The Trough, Di ya cao,2018, Action&Crime&Drama,4.6,223
+4235,tt6878882,Operation Red Sea, Hong hai xing dong,2018, Action&Drama&Thriller,6.7,6293
+4236,tt6892250,Absurd Accident, Absurd Accident,2016, Comedy&Thriller,6.2,123
+4238,tt6900380,Dealer/Healer, Duk gai,2017, Action&Crime&Drama,5.5,215
+4241,tt6903084,Toys & Pets, Tea Pets,2017, Adventure&Animation,5.6,210
+4242,tt6908536,Sky Hunter, Kong tian lie,2017, Action&Drama&Romance,6.1,937
+4243,tt6924262,Yi jian zhong qing, Yi jian zhong qing,2002, Romance,6.2,5
+4249,tt6953274,Haunted Dormitory - Marionette Teacher, Yuan líng sùshè zhi Ren ou laoshi,2017, Horror,3.4,18
+4251,tt6964088,Forever Love, 201314,2013, N/A,6.3,11
+4253,tt6968118,Remain Silent, Bao chi chen mo,2019, Mystery&Thriller,5.7,81
+4254,tt6969912,CJ7: Super Q Team, CJ7: Super Q Team,2015, Animation,3.5,6
+4255,tt6982084,Stammering Ballad, Stammering Ballad,2018, Documentary&Music,7.0,12
+4256,tt6984304,Last Princess of Royal Blood: Tsetsenhangru, Last Princess of Royal Blood: Tsetsenhangru,2008, Drama,8.2,13
+4257,tt6998762,La Historia Du Un Amor, Lin shi yan yuan,2017, Romance,3.9,10
+4258,tt6999112,The Conformist, The Conformist,2017, Drama,4.6,22
+4259,tt7008774,Bridge in Clouds, Bai yun qiao,2016, Horror,3.7,7
+4260,tt7010144,Love Deposit, Ai qing yin hang,2013, Drama&Romance,6.5,20
+4262,tt7013194,Our Shining Days, Shan guang shao nu,2017, Drama&Music,6.8,594
+4263,tt7022720,The Taste of Rice Flower, Mi hua zhi wei,2017, Drama,6.9,106
+4264,tt7034918,Crying Out in Love, Zai shi jie zhong xin hu huan ai,2016, Romance,5.1,32
+4267,tt7043680,Diary of a Nurse, Hushi riji,1956, Drama,5.9,36
+4268,tt7055592,Brotherhood of Blades 2, Xiu chun dao II: xiu luo zhan chang,2017, Action&Adventure&Drama,6.7,1612
+4269,tt7068836,The Hidden Sword, Dao bei cang shen,2017, Action&Drama,6.7,39
+4271,tt7074258,Come Across Love: Bu Qi Er Yu, Come Across Love: Bu Qi Er Yu,2017, Comedy,4.4,22
+4272,tt7075594,Our Time Will Come, Ming yue ji shi you,2017, Drama&War,6.4,814
+4276,tt7084980,Yuan Shang, Yuan Shang,2017, Drama,6.5,27
+4278,tt7106154,Kill the Shadow, Kill the Shadow,2017, Drama,4.6,5
+4279,tt7121588,The One, Jue shi gao shou,2017, Comedy,5.4,171
+4280,tt7123244,A Stupid Journey, Jiang hu lun jian shi lu,2014, Adventure,5.8,15
+4281,tt7123882,The Blood Hound, The Blood Hound,2016, Drama&Family,5.3,24
+4282,tt7124742,Four Springs, Four Springs,2017, Documentary&Family&Music,7.4,270
+4285,tt7131870,Wolf Warrior 2, Zhan lang II,2017, Action&Adventure&Drama,6.0,7024
+4286,tt7133686,Next Gen, Next Gen,2018, Action&Adventure&Animation,6.6,14590
+4287,tt7135014,Country Far Away, Country Far Away,2017, Drama,5.3,6
+4290,tt7146054,The Guardian, Da Hu Fa,2017, Action&Animation&Fantasy,7.1,742
+4293,tt7149536,Love in Cosmo, Love in Cosmo,2010, Drama&Romance,4.6,5
+4294,tt7155262,Mrs. Fang, Mrs. Fang,2017, Documentary,6.9,263
+4296,tt7161346,Turtle Rock, Turtle Rock,2017, Documentary,6.2,8
+4297,tt7162356,Blade of Enforcer, Blade of Enforcer,2016, Action,8.9,8
+4300,tt7176170,Defenders, Defenders,2017, Action&Biography&Drama,6.9,113
+4301,tt7180392,Peace Breaker, Po.Ju,2017, Crime&Mystery,6.1,416
+4302,tt7181738,Home of Mephibosheth, Home of Mephibosheth,2017, Documentary&Drama&Family,8.3,9
+4303,tt7183578,Project Gutenberg, Mou seung,2018, Action&Crime&Mystery,6.9,3891
+4304,tt7185492,The Founding of an Army, Jian jun da ye,2017, Action&Drama&History,4.1,816
+4305,tt7188858,For Love, For Love,2016, Romance,2.6,5
+4306,tt7189248,From Where Weve Fallen, He ri jun zai lai,2017, Drama,6.1,26
+4307,tt7205208,Angels Wear White, Jia nian hua,2017, Drama,7.2,1956
+4309,tt7223050,The Brink, Kuang shou,2017, Action&Adventure&Crime,5.6,558
+4310,tt7224132,Puppy Love, Puppy Love,2017, Drama&Romance,6.5,10
+4311,tt7227928,Chinas Forgotten Daughters, Chinas Forgotten Daughters,2018, Documentary,6.2,5
+4313,tt7232860,Guilty of Mind, Xin li zui,2017, Action&Crime&Drama,4.8,128
+4314,tt7240562,Colour of the Game, Hei bai mi gong,2017, Action,5.6,141
+4315,tt7243868,My Heart Leaps Up, Wo xin que yue,2016, Drama,6.2,34
+4316,tt7245176,Paradox, Saat po long: Taam long,2017, Action&Adventure&Crime,6.5,3353
+4318,tt7262780,Axel 2: Adventures of the Spacekids, Axel 2: Adventures of the Spacekids,2017, Adventure&Animation&Sci-Fi,6.6,21
+4320,tt7263850,The Fighting Youth, Wo shi fen qing,2015, Drama,2.6,9
+4321,tt7263974,Keep Calm and Be a Superstar, Wo di ju xing,2018, Action&Comedy,4.1,92
+4322,tt7267916,Mr. Lucky, Hao ming xian sheng,2014, Comedy,4.4,7
+4326,tt7286908,The Liquidator, Xin li zui: Cheng shi zhi guang,2017, Crime,5.7,270
+4327,tt7294150,The Eight Hundred, Ba bai,2020, Action&Drama&History,6.9,2983
+4329,tt7298400,Ash Is Purest White, Jiang hu er nü,2018, Crime&Drama&Romance,7.0,8041
+4331,tt7320156,Tofu, Tofu,2017, Animation,6.5,38
+4332,tt7326858,Inference Notes, Inference Notes,2017, Crime&Drama&Mystery,5.6,74
+4336,tt7339584,City Of Rock, Feng ren ji yue dui,2017, Comedy&Music,6.1,504
+4339,tt7345928,The War of Loong, The War of Loong,2017, Action&History&War,6.4,112
+4341,tt7359998,The Great Detective, Da zhen shen huo sang,2019, Comedy&Crime&Mystery,4.9,19
+4342,tt7361776,Yun Shui, Yun Shui,2018, Drama,6.2,31
+4343,tt7362036,Dying to Survive, Wo bu shi yao shen,2018, Comedy&Drama,7.9,4928
+4345,tt7365296,A Little Wisdom, A Little Wisdom,2017, Documentary,8.2,35
+4346,tt7373674,Struggling, Fen dou,1932, Drama&Romance&War,7.0,27
+4348,tt7383740,My China Doll, My China Doll,2017, Action&Drama,8.5,6
+4349,tt7390082,Sunshine That Can Move Mountains, Bei yang guang yi dong de shan mai,2017, Drama&Family&Romance,7.2,23
+4350,tt7392160,Wonder boy, Pi li bei bei,1988, Drama&Sci-Fi,6.5,35
+4352,tt7401550,Balance, Balance,2000, Documentary,8.3,15
+4353,tt7407350,Lost Minds, Lost Minds,2016, Drama&Thriller,6.0,14
+4355,tt7424828,Bangzi Melody, Bangzi Melody,2017, Drama,7.6,84
+4356,tt7431894,Never Say Die, Xiu xiu de tie quan,2017, Comedy&Fantasy&Sport,6.2,1252
+4357,tt7435474,Farewell My Concubine: the Beijing Opera, Farewell My Concubine: the Beijing Opera,2014, Musical,6.4,7
+4358,tt7435822,Good Night, Ai shang shi shui shi,2016, Romance,4.5,11
+4359,tt7436316,Dads Cabin (2016), Ba ba de mu fang zi,2016, Drama,7.4,8
+4360,tt7436328,Rebellious Teenagers, Qing se rìji,2015, Drama,8.2,12
+4361,tt7451916,Ninja death III, Ninja death III,1987, Action&Drama,4.1,27
+4362,tt7473036,Ghostbox Cowboy, Ghostbox Cowboy,2018, Action&Adventure&Comedy,5.1,171
+4363,tt7473390,Genghis Khan, Zhan shen ji,2018, Action&Adventure&Biography,4.0,124
+4365,tt7476652,Gang Tie Fei Long Zhi Zai Jian Ao Te Man, Gang Tie Fei Long Zhi Zai Jian Ao Te Man,2017, Animation,5.0,24
+4366,tt7476810,Dead Pigs, Dead Pigs,2018, Comedy&Drama&Family,6.7,1012
+4367,tt7478112,Peoples Republic of Desire, Peoples Republic of Desire,2018, Documentary,6.7,424
+4368,tt7479718,Love Education, Xiang ai xiang qin,2017, Drama&Music,7.3,871
+4369,tt7481246,Old Beast, Old Beast,2017, Drama,6.6,200
+4371,tt7488208,Over the Moon, Over the Moon,2020, Adventure&Animation&Comedy,6.4,16137
+4372,tt7490280,Shi wan ge leng xiao hua II, Shi wan ge leng xiao hua II,2017, Animation,6.8,78
+4375,tt7505208,Once Again, Er ci chu lian,2017, Drama,5.2,16
+4377,tt7505500,The Girl Shaman, The Girl Shaman,2016, Comedy&Horror,3.9,7
+4378,tt7509586,Explosion, Yin bao zhe,2017, Action&Thriller,5.9,178
+4379,tt7510132,The Suspicious, The Suspicious,2014, Mystery&Romance&Thriller,6.0,9
+4380,tt7513326,Inmates, Inmates,2017, Documentary,8.6,37
+4382,tt7526316,Black Mirror, Shao nu ling yi ri ji,2013, Horror,6.6,28
+4383,tt7526328,Silent Mist, Silent Mist,2017, Thriller,6.1,54
+4387,tt7529814,Doomed Disaster, Doomed Disaster,2015, Horror,3.8,6
+4388,tt7532202,Highway 318, Highway 318,2017, Drama,6.3,22
+4392,tt7563926,24th Street, 24th Street,2017, Documentary,7.2,8
+4393,tt7571798,Golden Dart Hero, Golden Dart Hero,1987, Action&Adventure,3.9,7
+4394,tt7585522,Dark Butterfly, Hei hu di,2017, Romance,7.0,5
+4395,tt7585578,In the Fog, Mi zheng,2017, Crime&Thriller,5.0,10
+4396,tt7587984,The Knight of Shadows: Between Yin and Yang, Shen tan Pu Song Ling,2019, Action&Adventure&Family,4.9,1307
+4398,tt7605074,The Wandering Earth, Liu lang di qiu,2019, Action&Sci-Fi,6.0,27527
+4400,tt7611326,Lost in Apocalypse, Mo Shi Ren Jian Dao,2018, Action&Adventure&Horror,5.5,42
+4401,tt7616798,A Dogs Way Home, A Dogs Way Home,2019, Adventure&Drama&Family,6.7,15528
+4402,tt7616988,Hao han san tiao ban, Hao han san tiao ban,1998, Comedy,4.5,6
+4403,tt7618430,The Golden Monk, Xiang mo zhuan,2017, Comedy&Fantasy,4.5,214
+4404,tt7619402,Fist & Faith, Fist & Faith,2017, Action,5.8,60
+4405,tt7627782,The House That Never Dies: Reawakening, Jing Cheng 81 hao 2,2017, Horror&Thriller,5.1,59
+4406,tt7628068,Eternal Wave, Mi zhan,2017, Action&Drama,5.7,87
+4407,tt7628080,The Pluto Moment, Ming wang xing shi ke,2018, Drama,6.2,113
+4410,tt7638330,The Longest Shot, Zui chang yi qiang,2019, Mystery&Thriller,5.3,53
+4411,tt7639412,Heroes Returning to the East, Heroes Returning to the East,1993, Action&Drama&History,5.1,8
+4412,tt7645502,Namiya, Jie you za huo dian,2017, Drama&Family&Fantasy,4.9,425
+4413,tt7649320,The Looming Storm, Bao xue jiang zhi,2017, Crime,6.5,1482
+4415,tt7658426,In Character, In Character,2018, Documentary,6.6,25
+4416,tt7658610,The Final Blade, The Final Blade,2018, Action,5.9,350
+4417,tt7672188,Two Wrongs Make a Right, Tian sheng bu dui,2017, Comedy&Romance,4.9,58
+4418,tt7683896,The Blizzard, The Blizzard,2018, Action&Crime,5.0,41
+4421,tt7690110,Yun Jie, Yun Jie,2018, Drama,5.7,9
+4422,tt7690558,Mystery Zone: soul Eating Hill, Mystery Zone: soul Eating Hill,2017, Adventure&Horror&Thriller,4.2,12
+4423,tt7694546,Beowulf, Beowulf,2018, Action&Drama&Fantasy,6.6,5
+4425,tt7708320,Ash, Zhui zong,2017, Crime&Drama&Mystery,6.0,96
+4426,tt7722382,Miao miao, Miao miao,1980, Drama,6.2,5
+4428,tt7726702,Secret Fruit, Mi Guo,2017, Romance,6.4,57
+4429,tt7730204,The Warriors, Yong shì,2016, War,4.9,8
+4430,tt7734336,Mr. Big, Mr. Big,2018, Documentary,7.0,27
+4431,tt7735492,Battle of Xiangjiang River, Battle of Xiangjiang River,2017, Drama&History&War,5.3,28
+4435,tt7743588,Goldbuster, Yao ling ling,2017, Comedy&Fantasy,4.3,208
+4436,tt7752454,Detective Chinatown 2, Tang ren jie tan an 2,2018, Action&Comedy&Mystery,6.1,1953
+4439,tt7759626,Agent Mr. Chan, Dong du te gong,2018, Comedy&Crime,4.5,409
+4441,tt7765572,Qiao qian zhi xi, Qiao qian zhi xi,1994, Comedy,5.0,7
+4442,tt7765846,The Old Days in ShangGao, Wo de shang gao,2017, Drama,5.8,5
+4444,tt7773340,The Rookies, Su ren te gong,2019, Action,4.1,365
+4445,tt7773446,Haunted Road 2, Haunted Road 2,2017, Horror,3.6,54
+4447,tt7779524,Zhan Du Xiao, Zhan Du Xiao,2018, Action&Thriller&War,5.9,37
+4449,tt7786142,Da dao wang wu, Da dao wang wu,1985, Action,5.2,5
+4450,tt7787418,Hanson and the Beast, Er dai yao jing,2017, Comedy&Fantasy&Romance,5.2,417
+4454,tt7813256,Du wen, Du wen,1992, Drama&Horror&Sci-Fi,6.6,5
+4455,tt7813682,I Dedicate My Youth to You, Wo ba fang hua xian gei ni,2017, Documentary,6.8,12
+4456,tt7815620,The Ambiguous Focus, The Ambiguous Focus,2017, Drama&Romance,7.5,72
+4457,tt7820502,Where Has the Time Gone?, Where Has the Time Gone?,2017, Drama,5.4,78
+4458,tt7822042,The Super Reverend Monk, Tong tian zhang lao,1990, Action&Drama,5.5,6
+4459,tt7830888,The Ex-File 3: The Return of The Exes, Qian ren 3: Zai jian qian ren,2017, Comedy&Romance,5.6,401
+4461,tt7846140,Underset, Underset,2018, Drama,6.0,6
+4463,tt7853798,Seventy-Seven Days, Qi shi qi tian,2017, Adventure&Drama,6.5,75
+4464,tt7857158,The Spirit of a Policeman, Jing hun,1994, Action&Drama,5.0,7
+4467,tt7867360,Abduction, Abduction,2019, Action&Horror&Sci-Fi,4.8,2132
+4468,tt7870578,Girls vs Gangsters, Gui mi 2,2018, Comedy&Drama,3.2,172
+4471,tt7877136,Jiabiangou Elegy: Life and Death of the Rightists, Jiabiangou ji shi,2017, Documentary,8.6,17
+4473,tt7886614,Cats, Cats and Peachtopia,2018, Adventure&Animation&Comedy,4.9,921
+4477,tt7905318,Summer Knight, Summer Knight,2019, Drama,7.2,17
+4479,tt7937440,Bodies at Rest, Chen mo de zheng ren,2019, Action&Crime&Mystery,5.6,603
+4480,tt7937808,The Strangers in Beijing, Hun zai Bei Jing,1995, Drama,6.9,7
+4482,tt7946836,Animal World, Dong wu shi jie,2018, Action&Fantasy&Sci-Fi,6.5,3807
+4483,tt7955712,Girls Always Happy, Rou qing shi,2018, Drama,6.0,116
+4484,tt7957314,Go Back to China, Go Back to China,2019, Drama,5.9,683
+4486,tt7959042,The Ferry Man Manjusaka, The Ferry Man Manjusaka,2018, Fantasy,6.4,56
+4487,tt7961082,Wangdraks Rain Boots, Wang Zha de yuxue,2018, N/A,6.5,26
+4488,tt7962598,Till The End Of The World, Nan ji jue lian,2018, Adventure&Drama,6.7,313
+4491,tt7985270,Open Fire 3D, WANG Leehoms Open Fire Concert Film,2016, Biography&Documentary&Music,6.5,6
+4492,tt8002356,Miss Puff, Miss Puff,2018, Romance,3.1,16
+4493,tt8005336,Kung Fu Traveler 2, Kung Fu Traveler 2,2017, Action&Fantasy&Sci-Fi,4.9,90
+4494,tt8011594,Family of Winners, Family of Winners,2017, Comedy&Drama,5.3,21
+4495,tt8020856,The Loser Hero, Fei zi ying xiong lian meng,2018, Action&Comedy&Fantasy,3.0,5
+4496,tt8020896,An Elephant Sitting Still, Da xiang xidi erzuo,2018, Drama,7.8,5209
+4497,tt8023928,The Hidden Land: Back to No Mans Land in Northern Tibet, The Hidden Land: Back To No Mans Land In Northern Tibet,2018, Documentary,5.2,20
+4498,tt8028526,Boonie Bears 5, Xiong chu mei zhi bian xing ji,2018, Animation,5.5,130
+4499,tt8028842,Spycies, Spycies,2019, Action&Animation&Comedy,5.5,644
+4502,tt8033592,Us and Them, Hou lai de wo men,2018, Drama&Romance,7.4,3114
+4505,tt8071308,The Shadow Play, Feng Zhong You Duo Yu Zuo De Yun,2018, Crime&Drama&Mystery,6.6,874
+4506,tt8075474,The Undercover Gambler, The Undercover Gambler,2017, Action,7.2,20
+4508,tt8083810,When a Peking Family Meets an Aupair, Yang niu dao wo jia,2014, Comedy,4.3,11
+4510,tt8089548,Unserious Hero, Unserious Hero,2018, Comedy,4.7,28
+4511,tt8090914,The Swordswoman in White, The Swordswoman in White,1992, Action,2.8,6
+4512,tt8093306,The Falls, The Falls,2018, Drama,5.4,8
+4514,tt8111226,Killer Li Mo, Shashou Li Mo,2017, Action,5.3,11
+4516,tt8150238,Vanishing Days, Man you,2018, Drama&Mystery,5.5,46
+4518,tt8161726,Crystal Skies of Yesterday, Zuo ri qing kong,2018, Animation&Romance,6.5,168
+4520,tt8176578,Flavors of Youth, Si shi qing chun,2018, Animation&Drama&Romance,6.6,5975
+4521,tt8180932,The Dark Soul, The Dark Soul,2018, Thriller,6.3,7
+4522,tt8185182,Long Days Journey Into Night, Diqiu zuihou de yewan,2018, Drama&Mystery,7.2,6793
+4524,tt8209632,Nice to Meet You, Yu jian ni zhen hao,2018, Drama&Romance,5.1,32
+4525,tt8223408,Defying Chase, Defying Chase,2018, Action&Comedy,6.5,62
+4526,tt8239806,The White Storm 2: Drug Lords, So duk 2: Tin dei duei kuet,2019, Action&Crime,6.0,998
+4528,tt8256610,Breeze, Qing feng de wei dao,2018, Family,5.8,6
+4530,tt8286508,Sun Flower, Sun Flower,2017, Drama,7.0,7
+4531,tt8291232,The Lost Land, Huang Cheng Ji,2017, Comedy&Drama,6.9,42
+4533,tt8295224,Feelings to Tell, Gui qu lai xi,2018, Drama,6.8,8
+4534,tt8295936,Song at Midnight, Ye Ban Ge Sheng,1985, Drama,6.5,6
+4536,tt8306326,The Widowed Witch, Mirrors and Feathers,2017, Drama,6.7,152
+4539,tt8319694,Dudes Manual, Tuo Dan Gao Ji,2018, Romance,3.6,85
+4540,tt8320654,21 Karat, 21 ke la,2018, Comedy,4.5,68
+4542,tt8366766,A or B, Mu Hou Wan Jia,2018, Crime&Drama&Mystery,5.5,264
+4543,tt8372656,Life of Zhang Chu, Life of Zhang Chu,2019, Drama,6.0,6
+4544,tt8375760,Hong Kong Rescue, Xiang gang da ying jiu,2018, Action,5.7,15
+4545,tt8384298,Blue Amber, Blue Amber,2018, Drama,5.8,34
+4546,tt8385474,A Dogs Journey, A Dogs Journey,2019, Adventure&Comedy&Drama,7.5,20218
+4549,tt8387904,Haunted Dormitory: White Paper Girl, Bai zhi nu sheng,2017, Horror,3.8,6
+4550,tt8392146,Vixen, Vixen,2018, Action,6.0,22
+4551,tt8395472,Xi xing ping yao, Xi xing ping yao,1991, Adventure,3.7,11
+4552,tt8396196,The Home in the Tree, The Home in the Tree,2019, Comedy&Family&Romance,6.7,19
+4553,tt8399698,I Am Your Mom, Wo shi ni ma,2018, Comedy&Drama,4.4,29
+4554,tt8404272,How Long Will I Love U, Chao shi kong tong ju,2018, Comedy&Fantasy&Romance,6.4,888
+4555,tt8411990,The Bittersweet, The Bittersweet,2017, Drama,5.2,106
+4556,tt8425414,Looking for Lucky, Looking for Lucky,2018, Comedy&Drama&Family,6.3,6
+4557,tt8430326,Kinematics Theory, Yun dong xue gai lun,2018, Romance,6.9,24
+4558,tt8434380,Hidden Man, Xie bu ya zheng,2018, Action&Crime&Drama,6.3,1734
+4560,tt8443434,Happiness Around the Corner, Happiness Is Coming,2018, Comedy,2.7,10
+4561,tt8443556,The Faces of My Gene, Zu zong shi jiu dai,2018, Adventure&Comedy&Fantasy,3.7,108
+4563,tt8471480,Return of Wu Kong, Return of Wu Kong,2018, Adventure&Fantasy,8.8,6
+4565,tt8489090,Lobster Cop, Long xia jing cha,2018, Comedy&Crime,5.1,149
+4568,tt8499638,Saturday Fiction, Saturday Fiction,2019, Drama&History,6.2,344
+4573,tt8517640,The Six, The Six,2021, Documentary,8.9,51
+4577,tt8529186,Hello Mr. Billionaire, Xi hong shi shou fu,2018, Comedy,6.2,1605
+4578,tt8530898,Father and Hero, Father and Hero,2018, Crime&Drama,6.0,6
+4580,tt8549902,Oolong Courtyard: KungFu School, Oolong Courtyard,2018, Comedy,5.2,94
+4585,tt8586880,The Legend of Zu, Shu Shan Xiang Mo Zhuan,2018, Action,4.0,92
+4586,tt8595136,The Red Peony, Hong mu dan,1980, Drama,7.2,5
+4587,tt8611064,The Rib, The Rib,2018, Drama,7.0,19
+4588,tt8612254,The Secret of Immortal Code, Yi a suo mi ma,2018, Action&Horror&Sci-Fi,5.3,13
+4590,tt8618558,The Donor, The Donor,2016, Drama,8.0,5
+4591,tt8619856,Invisible Tattoo, Invisible Tattoo,2018, Action,9.2,5
+4592,tt8619974,The Way Home 2, The Way Home 2,2016, Horror&Sci-Fi,5.5,22
+4593,tt8619980,The Way Home, The Way Home,2015, Horror,6.3,7
+4594,tt8620006,Plan Egg, Plan Egg,2017, Adventure&Comedy,3.7,6
+4598,tt8647426,Di Renjie Zhi Lun Hui Tu, Di Renjie Zhi Lun Hui Tu,2018, Action,5.7,7
+4599,tt8651292,Breathing, Breathing,2016, Crime&Drama&Thriller,7.0,6
+4603,tt8674684,Midnight Garage, San geng che ku,2015, Horror,3.6,5
+4605,tt8688634,21 Bridges, 21 Bridges,2019, Action&Crime&Thriller,6.6,53323
+4606,tt8690024,Breaking the Waves, Breaking the Waves,2014, Drama&Sport,3.6,9
+4607,tt8697754,Laozi Went out of Hangu Pass, Laozi Went out of Hangu Pass,2014, History,7.2,5
+4609,tt8714508,Pure Land, Pure Land,2018, Drama,7.0,6
+4613,tt8734578,To My 19-Year-Old, Gei 19 sui de wo zi ji,2018, Drama&Fantasy&Romance,7.1,74
+4614,tt8747304,Suburban Birds, Jiao qu de niao,2018, Drama,6.0,222
+4615,tt8747790,A Monks Madness, A Monks Madness,2018, Action,6.4,14
+4616,tt8755316,The Island, Yi chu hao xi,2018, Comedy&Drama,6.3,1416
+4617,tt8757162,Three Adventures of Brooke, Three Adventures of Brooke,2018, Adventure&Fantasy,6.3,63
+4618,tt8761374,Wings Over Everest, Bing feng bao,2019, Action,4.4,187
+4619,tt8769226,Kung Food, Mei shi Da mao xian,2018, Animation&Family,5.2,14
+4620,tt8774260,Go Brother!, Go Brother!,2018, Comedy&Fantasy,6.4,377
+4621,tt8779020,A First Farewell, Di yi ci de li bie,2018, Drama,6.8,126
+4622,tt8781980,Snipers Shot, Snipers Shot,2014, Action&Adventure&History,7.1,16
+4623,tt8784830,Great Happiness, Ji Le Dian,2020, Drama,6.7,7
+4624,tt8784950,In the Blue, Qian lan shen lan,2006, Comedy&Family&Romance,8.2,5
+4625,tt8787116,The Unity of Heroes, Huang Fei Hong: Nan bei ying xiong,2018, Action,5.2,359
+4626,tt8793220,The Way of the Bug, The Way of the Bug,2018, Comedy,3.9,30
+4628,tt8835580,The Maid of the Blind Master (V), Mang shao ye de xiao nu pu,2016, Drama&Romance,5.8,12
+4629,tt8835590,Love Hunting, Love Hunting,2016, Drama&Romance,6.7,15
+4630,tt8835702,The Imprisoned Love, The Imprisoned Love,2016, Romance,5.8,5
+4631,tt8835722,The Love, The Love,2016, Romance,7.5,12
+4632,tt8836292,Jinpa, Zhuang si le yi zhi yang,2018, Drama,6.7,598
+4634,tt8839502,Shes from Another Planet, Shes From Another Planet,2016, Comedy&Fantasy&Romance,6.9,9
+4635,tt8845432,Fat Buddies, Pang zi xing dong dui,2018, Action&Comedy,4.3,145
+4636,tt8846198,Baby, Bao Bei Er,2018, Drama,6.1,211
+4637,tt8849174,A Postman of Paradise, A Postman of Paradise,2007, Drama,8.2,5
+4639,tt8856172,S He, S He,2018, Animation,6.7,64
+4642,tt8870694,An Flying Arrow, An Flying Arrow,2016, Action,8.4,9
+4643,tt8875366,The Crossing, Guo chun tian,2018, Crime&Drama,6.8,829
+4644,tt8893870,iPartment the Movie, Ai qing gong yu,2018, Adventure&Comedy&Fantasy,2.5,103
+4645,tt8898112,Baofeng Zhouyu, Baofeng Zhouyu,2005, Documentary,8.3,6
+4646,tt8901722,Proud of Me, Proud of Me,2018, Comedy&Family,6.1,22
+4648,tt8922832,Last Sunrise, Zui Hou De Ri Chu,2019, Adventure&Drama&Romance,6.4,263
+4649,tt8924474,Ying and Bai, Ying and Bai,2002, Documentary,6.0,8
+4650,tt8924524,Kindergarten, Kindergarten,2007, Documentary,7.5,17
+4651,tt8925102,The Ladybug, The Ladybug,2018, Animation,4.8,133
+4652,tt8937972,Uncontrolled Love 2, Uncontrolled Love 2,2016, Drama&Family&Romance,7.5,53
+4653,tt8942260,Really?, Really?,2018, Comedy,5.8,24
+4654,tt8946050,Wild Swords, Wu Ming Kuang,2019, Action&Drama&Mystery,5.2,24
+4656,tt8947632,Linglong Wells, Linglong Wells,2018, Thriller,3.9,10
+4659,tt8959680,One Second, Yi miao zhong,2020, Drama&History,7.3,482
+4662,tt8983026,The Fragile House, Hai shang cheng shi,2018, Drama,4.2,6
+4663,tt9020130,The Road Not Taken, Wei ze zhi lu,2018, Comedy&Crime&Drama,6.5,92
+4665,tt9033534,Love in 50 Meters, 50 mi zhi lian,2018, Romance,4.9,27
+4666,tt9036926,Cry Me a Sad River, Bei shang ni liu cheng he,2018, Drama&Romance,5.8,211
+4668,tt9060288,The Year 1987, The Year 1987,2018, Drama&Romance,6.6,5
+4669,tt9061198,The Adjudicator, The Adjudicator,2018, Crime,5.3,6
+4670,tt9066236,Tomb Story, Phantom from the Deep,2018, Action,4.3,17
+4671,tt9074406,Super Bear, Super Bear,2019, Animation&Family,5.1,95
+4673,tt9081510,The Enigma of Arrival, Di da zhi mi,2018, Drama,8.0,56
+4677,tt9097170,A Road To Spring, A Road To Spring,2019, Drama,6.0,19
+4678,tt9097374,Confucian Dream, Confucian Dream,2019, Documentary&Drama,7.2,17
+4679,tt9099176,Our Time Machine, Our Time Machine,2019, Documentary&Drama&Family,7.8,91
+4686,tt9140380,Up the Mountain, Huo shan,2018, Documentary,7.6,28
+4687,tt9159816,Ala Changso, Ala Changso,2018, Drama,7.0,118
+4691,tt9198974,A City Called Macau, Ma Ge shi zuo cheng,2019, Drama,5.7,157
+4692,tt9203190,Skyfire, Skyfire,2019, Action&Drama&Thriller,5.3,1669
+4695,tt9215778,Demon Catcher, Demon Catcher,2018, Comedy&Fantasy,7.7,7
+4696,tt9243442,Te jing dui, Te jing dui,2019, Action,4.2,173
+4697,tt9252692,Monster, Monster,2018, Sci-Fi&Thriller,6.8,23
+4698,tt9257932,Animal World, Animal World,2018, Comedy&Drama,5.8,5
+4699,tt9272138,Out of Crimes, Yun wu long zhao de shan feng,2018, Crime,5.1,16
+4701,tt9282616,A Cool Fish, Wu ming zhi bei,2018, Comedy,7.0,1412
+4703,tt9288776,White Snake, Bai She: Yuan Qi,2019, Action&Adventure&Animation,7.0,2802
+4705,tt9303734,A Final Reunion, A Final Reunion,2018, Drama,7.6,22
+4708,tt9348768,Wushu Orphan, Wushu Orphan,2018, Comedy&Drama,6.5,36
+4709,tt9349016,Red Flowers and Green Leaves, Red Flowers and Green Leaves,2018, Drama&Family,4.8,8
+4711,tt9368628,The New King of Comedy, The New King of Comedy,2019, Comedy&Drama,6.2,1377
+4712,tt9372628,Mr. Zombie, Xin jiang shi xian sheng 2,2018, Comedy&Horror,4.0,7
+4713,tt9372986,Animal Rescue Squad, Dong wu chu ji,2019, Family&Fantasy&Sci-Fi,5.1,12
+4715,tt9382356,Inside The Boys, Inside The Boys,2018, Horror,4.3,10
+4716,tt9387300,Girls Love, Girls Love,2016, Romance,6.7,19
+4717,tt9387330,I Love You as a Man, Lei si ai qing,2014, Drama&Romance,6.4,11
+4718,tt9387518,The Fate of Swordsman, The Fate of Swordsman,2017, Action&Drama,7.2,16
+4720,tt9395824,Hold Your Hands, Shi ba dong cun,2017, Drama,7.3,7
+4722,tt9407198,Lost in Mobius, Lost in Mobius,2018, Mystery&Thriller,4.9,10
+4724,tt9408490,Kill Mobile, Lai dian kuang xiang,2018, Drama,5.6,292
+4725,tt9408568,Defended War, Defended War,2019, War,7.2,11
+4726,tt9409854,Airpocalypse, Tian qi yu bao,2018, Action&Adventure&Comedy,3.9,104
+4729,tt9434008,Strange Battle, Strange Battle,2016, Horror,4.2,5
+4730,tt9434778,Chinese Portrait, Chinese Portrait,2018, Documentary,6.4,96
+4732,tt9460600,The Kiss Addict, The Kiss Addict,2018, Sci-Fi,5.8,9
+4733,tt9460872,Call Heaven to Heaven, Call Heaven to Heaven,2019, Thriller,4.2,8
+4734,tt9477132,Snakes, Snakes,2018, Adventure,6.8,20
+4735,tt9477338,Detective Dees Hell Road, Detective Dees Hell Road,2018, Adventure,6.4,7
+4736,tt9477594,Legends of the Three Kingdoms, Legends of the Three Kingdoms,2018, Action&Romance,4.3,7
+4737,tt9479806,Endless Loop, Endless Loop,2018, Crime&Mystery,5.8,77
+4738,tt9490414,Mojin: The Worm Valley, Yun nan chong gu,2018, Action&Adventure&Fantasy,4.8,338
+4739,tt9496220,Crossing the Border - Zhaoguan, Guo Zhao Guan,2018, Family,7.0,65
+4740,tt9496406,The Wind Guardians, Feng yu zhou,2018, Action&Adventure&Animation,7.2,193
+4741,tt9496886,Goddesses in the Flames of War, na xie nv ren,2018, War,4.1,13
+4742,tt9497076,Uncle and House, he qun lu,2018, Drama,6.4,15
+4743,tt9501228,82 Warriors, liu lao zhuang shi ba zhuang shi,2013, War,5.5,6
+4745,tt9501772,Male Sorority Director, Nan fu nü zhu ren,1999, Comedy&Drama,6.4,12
+4750,tt9552832,Bunshinsaba vs Sadako, Bunshinsaba vs Sadako,2016, Horror,6.4,7
+4751,tt9552836,Bunshinsaba vs Sadako 2, Bunshinsaba vs Sadako 2,2017, Horror,6.0,13
+4752,tt9567112,A Kid from Coney Island, A Kid from Coney Island,2019, Biography&Documentary&Sport,7.1,423
+4755,tt9577760,The Fading Village, The Fading Village,2019, Documentary&Family,7.4,7
+4758,tt9585788,Present.Perfect., Wan mei xian zai shi,2019, Documentary,6.7,78
+4759,tt9586294,Better Days, Shaonian de ni,2019, Crime&Drama&Family,7.5,5654
+4760,tt9596638,The Big Shot, Da ren wu,2019, Action&Crime,5.8,191
+4761,tt9597190,Pegasus, Fei chi ren sheng,2019, Comedy&Sport,6.3,1430
+4763,tt9608078,Qing Ni Ji Zhu Wo, Qing Ni Ji Zhu Wo,2017, Biography&Drama&Romance,4.6,5
+4765,tt9610976,Starups, Starups,2019, N/A,5.1,10
+4768,tt9626920,At Two Thirty, At Two Thirty,2019, Horror&Thriller,2.3,18
+4769,tt9626928,Autumn Fairy Tale, Autumn Fairy Tale,2019, Drama&Romance,5.1,27
+4770,tt9628568,The Cloud in Her Room, Ta fang jian li de yun,2020, Drama,6.5,109
+4771,tt9629026,Peppa Celebrates Chinese New Year, Xiao zhu pei qi guo da nian,2019, Animation&Family,3.2,60
+4772,tt9635616,The Climbers, Pan deng zhe,2019, Action&Adventure&Drama,5.5,1000
+4775,tt9647768,The Wild Goose Lake, Nanfang chezhan de juhui,2019, Crime&Drama,6.8,5485
+4776,tt9649372,Self-portrait: Sphinx in 47 KM, Zi Hua Xiang: 47 Gong Li Si Fen Ke Si,2018, Documentary,6.4,7
+4779,tt9664198,Meili, Meili,2018, Drama,6.3,28
+4780,tt9674226,A Dog Barking at the Moon, A Dog Barking at the Moon,2019, Drama,6.0,142
+4781,tt9680630,Jade Dynasty, Zhu xian I,2019, Action&Fantasy&Romance,5.7,1443
+4783,tt9685342,A Writers Odyssey, Ci sha xiao shuo jia,2021, Action&Adventure&Crime,6.5,672
+4784,tt9690420,Winter After Winter, Dong qu dong you lai,2019, Drama,6.3,24
+4785,tt9690762,On the Balcony, Yang tai shang,2019, Drama&Romance,5.5,77
+4786,tt9695722,Vanguard, Vanguard,2020, Action&Adventure&Comedy,4.7,3522
+4787,tt9698044,The Great Sage Sun Wukong (2019), Qi tian da sheng zhi da nao long gong,2019, Action&Fantasy,7.1,39
+4789,tt9725262,Swordsman Nice Kungfu, Swordsman Nice Kungfu,2019, Action,4.2,6
+4790,tt9726522,Million Demons City, Monkey King and the City of Demons,2018, Action&Adventure&Comedy,4.6,10
+4791,tt9726638,Qi tian da sheng zhi huoyan shan, Qi tian da sheng zhi huoyan shan,2019, Action&Adventure&Comedy,5.2,19
+4794,tt9741338,Walking in Darkness, Walking in Darkness,2019, Drama,6.1,7
+4796,tt9742422,Savage, Xue bao,2018, Action&Crime&Thriller,5.8,335
+4799,tt9754442,Dream Journey 5: Legendary Treasure, Da meng xi you 5,2019, Adventure&Comedy&Romance,8.4,8
+4800,tt9767028,A Wonderful Stranger, A Wonderful Stranger,2018, Comedy,4.1,9
+4804,tt9812530,Warriors of the Nation, Huang Fei Hong: Nu hai xiong feng,2018, Action,6.5,38
+4806,tt9818000,Girl Dorm, Shao nu su she,2019, Thriller,5.9,34
+4810,tt9838780,Hidden Dragon Battle, Hidden Dragon Battle,2017, Action,8.8,71
+4811,tt9842404,Dream Journey 2: Princess Iron Fan, Da meng xi you 2,2017, Adventure&Fantasy,6.0,5
+4812,tt9844650,Fighting Men of China, Zhong guo he huo ren 2,2018, Drama,4.5,13
+4814,tt9855210,An Actress Dream, Yi ge nü yan yuan de meng,1985, Crime&Drama,7.8,5
+4815,tt9857522,Daughter of Shanghai, Daughter of Shanghai,2019, Documentary,6.9,18
+4816,tt9865310,Legend of the Demon Seal, Legend of the Demon Seal,2019, Action&Fantasy,3.9,21
+4817,tt9872368,Give Me a Ride, Cheng ke,2019, Drama,5.5,8
+4819,tt9877138,Caught in Time, Chu bao,2020, Crime&Drama,6.2,349
+4820,tt9887106,Warriors of the Nation, Once Upon a Time in China,2019, Drama,6.7,6
+4821,tt9887164,Unforgivable Sin, Unforgivable Sin,2019, Mystery&Thriller,6.0,6
+4823,tt9916428,The Secret of China, Hong xing zhao yao Zhong guo,2019, Adventure&History&War,3.8,12
