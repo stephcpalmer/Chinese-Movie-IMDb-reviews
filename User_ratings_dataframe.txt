@@ -1,0 +1,10 @@
+,Id,User,Rating,Date Posted
+2,tt0018600_1,gmwhite,10/10,31 August 2005
+3,tt0019996_1,zzmale,10/10,5 December 2003
+4,tt0023036_1,zzmale,10/10,12 December 2003
+5,tt0028281_1,netwallah,8/10,2 March 2007
+6,tt0028281_2,,,
+7,tt0040009_1,Soma-6,10/10,10 December 2001
+8,tt0042054_1,hobbes159-1,8/10,28 February 2001
+9,tt0042054_2,Bobak!,6/10,27 May 1999
+10,tt0043139_1,alsolikelife,,

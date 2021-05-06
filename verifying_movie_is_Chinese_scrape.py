@@ -18,9 +18,7 @@ else:
     Col_names = ['Id','Primary Title','Original Title','Year','Genres','Average Rating','# of Votes']
     data = pd.read_csv('Chinese_movies.txt', delimiter = ",",header=0,names=Col_names,error_bad_lines=False) #Creating database from Mandarin movie file #some movies don't have reviews->bad, not keeping those for analysis
 
-    data.to_csv('Chinese_Movies_Dataframe.txt')
     print('check')
-    #for i in range(len(data.index)):
     for i in range(len(data.index)):
         with urllib.request.urlopen(Base_url+data.at[i,'Id']) as request:
             soup = BeautifulSoup(request.read(),'lxml')

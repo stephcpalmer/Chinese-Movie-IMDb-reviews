@@ -1,0 +1,205 @@
+{'tt0018600': {1: 'This film has survived thanks to a foreign print, with '
+                  'French intertitles. Made for foreign export, it is '
+                  'nevertheless one of the most traditionally Chinese of the '
+                  'silent films still available. It is based on a popular '
+                  "drama by the same name, 'Romance of the Western Chamber'. "
+                  'Set during the Tang dynasty, it is a typical tale of love '
+                  'across class boundaries, a poor scholar and a wealthy '
+                  'woman.There is a lot to commend in this film: The temple '
+                  'where most of the action takes place is a lovely building, '
+                  'and the costumes and interiors of the temple are also '
+                  'detailed and quite fascinating. There are also nice touches '
+                  'of humour, and also some impressive action sequences '
+                  'consisting of both duels and battles, though without the '
+                  'excesses of martial arts films. The actors do well, though '
+                  'the scholar-hero does wear some unusual (and '
+                  'less-than-flattering) facial expressions at times.No time '
+                  'is wasted in the telling of the tale, for it flies past in '
+                  'less than 45 minutes, and although the film could have '
+                  'benefited from being presented at a slower film speed '
+                  '(which with silent films is quite variable), I doubt this '
+                  'would have lengthened it greatly (some sites list it at 49 '
+                  'min, which would probably be its length if played at a '
+                  'slower speed). The print I viewed is quite clean and clear, '
+                  'even in interior shots, which is another plus. I enjoyed '
+                  'this film immensely and heartily recommend it. HERE FOLLOWS '
+                  'A PLOT SUMMARY WITH SPOILERSThe story, in greater detail '
+                  'for the benefit of non-French readers, is one of a poor '
+                  'scholar (Zhang Junrui), who, on his way to the capital for '
+                  'the imperial examinations, sees and falls in love with '
+                  'Yingying, the daughter of the late prime minister, for whom '
+                  'she has come to offer incense. He contrives to offer '
+                  'incense for his own parents so as to meet Yingying. Their '
+                  'meeting is restrained by etiquette, though it seems she may '
+                  "fancy him. Yingying's maid Hongniang does, however, begin "
+                  'to help then exchange love letters and poems, and then meet '
+                  'secretly in the western chamberFurther developments are '
+                  'soon curtailed by Sun Feihu, a brigand chief who has heard '
+                  "of Yingying's beauty and her wealth and besieges the temple "
+                  "with his followers. In temple, Yingying's mother offers her "
+                  'daughter in marriage to anyone that can drive away the '
+                  'brigands. Zhang, by means of a brave monk, has a message '
+                  'delivered to his friend, an army general, who immediately '
+                  "comes to the rescue and vanquishes the brigands.Yingying's "
+                  'mother offer a large sum of money in thanks to Zhang, but '
+                  "not her daughter's hand. Zhang is disappointed and while "
+                  'trying to study falls asleep. Suddenly the brigand Sun '
+                  "comes in and, in spite of Zhang's efforts carries Yingying "
+                  "away. Zhang's brush magically swells in size, and Zhang "
+                  'rides it after Sun, uses it as a spear against the bandit, '
+                  'and rescues Yingying. He embraces her eagerly, but he wakes '
+                  'to discover she is only his servant boy and he has been '
+                  "dreaming.Hongniang, Yingying's maid continues to help the "
+                  "two in their amorous affairs. After Yingying's mother "
+                  "discovers her daughter's true feelings, she reluctantly "
+                  'gives her consent to their marriage on condition that Zhang '
+                  'passes the imperial exams with high honours. Zhang leaves '
+                  'for the capital, and comes back, a successful graduate, to '
+                  'finally receive his beloved.'},
+ 'tt0019996': {1: 'The literal translation of the title of this film is Hero '
+                  "in Red.Obviously capitalizing on the previous' martial arts "
+                  'success, the Burning of the Red Lotus, this is another one '
+                  'that clearly copy the idea, even the title included the '
+                  'word Red.  Other film of the this type included Heroine in '
+                  'Red, made a year earlier, and the only difference between '
+                  'the two are the protagonist is a female in the former and a '
+                  'male in the latter.  The audience does not seemed to mind '
+                  'watching the similar story over and over again, because '
+                  'this film was also a success.'},
+ 'tt0023036': {1: 'A rather refreshing look in the early Chinese martial arts '
+                  'flicks in that this one has not much to do with the Burning '
+                  'of Red Lotus Temple and similar theme that involves Red, '
+                  'Temple or Burning.  Not as fresh as The Yellow River Hero, '
+                  'because still has volcano, relating to Burning, but good '
+                  'enough to be fresh looking.'},
+ 'tt0028281': {1: 'The theme of this movie is filial piety in the Confucian '
+                  'tradition, bringing the director in line with China\'s "New '
+                  'Life Movement," dedicated to a return to traditional '
+                  'morality. The Chinese continued to make silent movies long '
+                  'after other film-making centres had moved on to sound. Here '
+                  'the film has a soundtrack of traditional Chinese music, '
+                  'which is appropriate, and intertitles in Chinese and '
+                  'English.The story is simple enough. A man races across the '
+                  "country to his father's bedside, arriving just in time for "
+                  "his father's blessing and his own promise to raise his son "
+                  'in the same way, and to treat all aged people with respect '
+                  'as if they were elders of his family, and to treat children '
+                  "as his own, too. Years pass, and the man's son is grown, "
+                  "but he's turned the wrong way in the city, and is given to "
+                  'drink and gambling. The father laments his failure and '
+                  'determines to take the family back to the country. He does, '
+                  'but the son and daughter-in-law arrange a party supposedly '
+                  'to honour the father, but actually an opportunity for '
+                  'carousing with city friends. After this, the son, his wife, '
+                  'and their son\x97much attached to country life and his '
+                  'grandparents\x97go back to the city. Time passes, again, '
+                  'and the grandson, grown, writes hi father to urge him to '
+                  "visit the grandfather, who's very ill. The young man shows "
+                  'up at the house, the grandfather rises, and they go to the '
+                  'orphanage the old man has founded where the grandson '
+                  'becomes the new master. Finally the bad son returns to beg '
+                  'forgiveness, and all is reconciled.The photography is very '
+                  'interesting, and though the interiors are sometimes rather '
+                  'dark, the rooms and furnishing and the costumes and the way '
+                  'the people move\x97all this gives a fascinating glimpse of '
+                  'a China that has completely disappeared. And the story '
+                  'itself embodies the Confucian principle of family and '
+                  'honour. The film was made in Shanghai in 1935, and a '
+                  'version with English intertitles was released in the U.S. '
+                  'in 1936. The movie is 65 minutes long; there is an '
+                  'abbreviated version floating around that lasts just a '
+                  'little under 50 minutes.'},
+ 'tt0033669': {},
+ 'tt0040009': {1: "The best film arguably made of its genre. They really don't "
+                  'make movies like this anymore, even the so-called '
+                  '"heart-wrenching" movies of today do not have the ability '
+                  'to stir the great emotions of sympathy like this one. I '
+                  "couldn't help but cry buckets towards the ending of the "
+                  'show. I had to contain my overwhelming emotions as the '
+                  'mother finally ended her life in the symbolic river which '
+                  'flows east. The river symbolizes many things in this movie, '
+                  'as in accordance with the title, a river that flows east '
+                  'reminds one of home, hope, and a battle against the '
+                  'invading forces of the Japanese. It represents hope for Bai '
+                  'Yang (a great actress), the home for Tao Jin, as he thinks '
+                  'fondly of his home before he is slowly seduced by the '
+                  'riches and decadence of Shanghai. I first read the abridged '
+                  'version of the book when I was about 15 or 14, and it made '
+                  'a great impression on my mind, it was one of the very few '
+                  'Chinese classics that I read and unlike other classics, it '
+                  'moved me to the core. Strangely, I still remembered it at '
+                  'this age, and when I discovered the tape, I just had to '
+                  'watch it. The book is equally moving, do read it if you '
+                  'have a chance.The best scene for me was when Bai Yang '
+                  'braced herself against the howling storm and wind to '
+                  'prevent the entire hut from being blown down. It twisted my '
+                  'poor heart-strings mercilessly. The other scenes, like how '
+                  'cruelly the father-in-law was made to hang, and till the '
+                  'fields despite barely being able to stand or walk also '
+                  'aggravated the wretchedness of the situation. The old woman '
+                  'who could not bear standing in the pool of frosty water who '
+                  'took the risk of escaping and got shot eventually added to '
+                  'the memory of the cruelties of the aggressors. The worst '
+                  'part of course was when she eventually found out that her '
+                  'husband had forgotten about the family altogether and was '
+                  'leading a decadent lifestyle in Shanghai with his new wife '
+                  'and mistress. The ever sacrificial mother and her stoicism '
+                  'naturally crumbled as her hopes of love and a reunion are '
+                  "dashed by the cold-heartedness of Zhongliang's words.I have "
+                  'to disagree with comments that the film exhibited the '
+                  'proletariat-bourgeois divide, as the film was made just '
+                  'after the Japanese Occupation and the film was more to '
+                  'highlight the atrocities of war and the hardships the '
+                  'people had to endure, all intricately bound together with '
+                  'the sub-themes of patriotism and love. There was little '
+                  'notion of Communism in China during that period, that came '
+                  'later on. To emphasize that the whole deal about the '
+                  'rich-poor divide was the sub-plot would be wrong, as that '
+                  'was not the whole idea nor was it an idea at all to be '
+                  'Communist in his take. The sympathy for the poor and stoic '
+                  "characters is common in most literature, and shouldn't be "
+                  'always confused with Communism, particularly in '
+                  "pre-communist literature.Lastly, I'd like to say that it is "
+                  'easily one of the most moving old Chinese movies which will '
+                  'be remembered by many generations to come. More '
+                  'importantly, virtues like patriotism and self-sacrifice '
+                  'would perhaps remain relics of the ancient theatre which '
+                  'would remain solely the stronghold of such films which '
+                  'modern films would fail to emulate. Go watch it!'},
+ 'tt0042054': {1: 'Good film that explores a lot of the experiences of the '
+                  'poorer city folk. Good vs. evil on a smaller scale, yet all '
+                  "the more powerful for it.  It's important to remember that "
+                  'this movie was filmed as the GMD was falling, and only '
+                  'released after the Communists had seized power.  Thus I '
+                  'would recommend it to anyone wondering what it must have '
+                  'been like to live in an urban area during the fall of the '
+                  'GMD.'},
+ 'tt0042785': {},
+ 'tt0043139': {1: "If you've ever wondered what the Chinese version of FORREST "
+                  "GUMP looked like, here's a fascinating account of 50 "
+                  'tumultuous years of early 20th century Chinese history seen '
+                  'through the eyes of a nameless, impoverished Beijing '
+                  'resident.  Like Forrest Gump, he adheres almost blindly to '
+                  'the prevailing (traditional) sentiments of his national '
+                  'culture, but unlike that feel-good blockbuster that swept '
+                  'the conflicts of American history under the rug of warm '
+                  'nostalgia, this masterpiece finds as many faults as virtues '
+                  "with its hero's simple-mindedness.  In his youth he is "
+                  'employed as a policeman and as such becomes witness to '
+                  'pervasive corruption by the Imperial powers who employ him; '
+                  "the Nationalist and Japanese regimes that follow don't fare "
+                  'much better.  In fact, in what is supposed to be another '
+                  "Communist propaganda movie, the Communists aren't portrayed "
+                  "in too flattering a light either.  In sum, I've rarely come "
+                  "across a film that explores how a nation's culture allows "
+                  'for social injustices to be repeated time after time; the '
+                  'way these injustices are depicted have a devastating '
+                  "cumulative impact.  Those who think Zhang Yimou's TO LIVE "
+                  'is the last word on Chinese history epics should reserve '
+                  "their judgment until they're fortunate enough to come "
+                  'across this unexpected treasure. Sadly, the director and '
+                  'star of the film, Shi Hui, took his own life seven years '
+                  'later under persecution as a political reactionary, at the '
+                  'age of 42.  Had he been able to live and work, who knows '
+                  'how great his reputation may have become.'},
+ 'tt0049979': {}}
