@@ -17,6 +17,9 @@ Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/t
 Title_ratings_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.ratings.tsv.gz','Title_ratings.tsv.gz')
 
 ```
+Help with [Bokeh](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-github-pages/#:~:text=Bokeh%20can%20help%20anyone%20who%20would%20like%20to,2%3A%20Embedding%201%20or%20more%20plots%20with%20components%28%29)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
