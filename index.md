@@ -23,7 +23,7 @@ Help with [Bokeh](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-g
 ### Markdown
 
 
-<iframe width="400" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/3.embed"></iframe>
+<iframe width="650" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/3.embed"></iframe>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
