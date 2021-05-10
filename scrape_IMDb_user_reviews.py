@@ -1,22 +1,15 @@
-import urllib.request
+import urllib.request, pprint, re
 from bs4 import BeautifulSoup
 import pandas as pd
-import pprint, re
-
-Url = 'https://www.imdb.com/title/tt*/reviews'
 
 Base_url = 'https://www.imdb.com/title/'
 End_url = '/reviews/'
-
 
 data = pd.read_csv('Dataframe.txt', delimiter = ",")
 data = data.drop(columns = 'Unnamed: 0')
     
 User_reviews_dict = {}
-
-Col_names = ['Id','User','Rating','Date Posted']
 User_ratings_df = pd.DataFrame()
-
 
 for i in range(len(data.index)):
     try:
@@ -26,25 +19,36 @@ for i in range(len(data.index)):
             User_reviews = soup.find_all('div', {'class': 'text show-more__control'})   # a list of user reviews # removed limit in hopes to improve topic models # call User_reviews[i].contents for individual reviews
             User_reviews_dict[data.at[i,'Id']] = {} #creating nested dictionary {'id1':{0:'first review',1:'second review},'id2':{0:'first review of 2nd id',1:'second review of 2nd id}}...
             
+            Ratings = []
             for j in range(len(User_reviews)):
                 User_reviews_dict[data.at[i,'Id']][j] = User_reviews[j].text
                 
-            Ratings = []
-
             for k in range(len(User_reviews)):
-                
                 user_rating_num = data.at[i,'Id']+'_'+str(k)
-            
-                if len(User_reviews[k].parent.parent.contents)<=7:
+                
+                if len(User_reviews[k].parent.parent.contents)== 7:
                     rating = 'N/A'
                     user = User_reviews[k].parent.parent.contents[3].contents[1].text
-                    date_posted = User_reviews[2].parent.parent.contents[3].contents[2].text
+                    date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
+                
                     
-                elif len(User_reviews[k].parent.parent.contents)>=9:
+                if len(User_reviews[k].parent.parent.contents) == 11:
+                    rating = 'N/A'
+                    user = User_reviews[k].parent.parent.contents[3].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
+
+                    
+                if len(User_reviews[k].parent.parent.contents) == 13:
                     rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
                     user = User_reviews[k].parent.parent.contents[5].contents[1].text
                     date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
+
                     
+                if len(User_reviews[k].parent.parent.contents) == 9:
+                    rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
+                    user = User_reviews[k].parent.parent.contents[5].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
+                
                 Ratings.append([user_rating_num,user,rating,date_posted])
                 
             User_ratings_df = User_ratings_df.append(Ratings,ignore_index=True)
@@ -54,16 +58,11 @@ for i in range(len(data.index)):
         print(i)
     except: 
         print(f"Request for {i}'s user reviews timed out")
-
+        
+User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
 User_ratings_df.to_csv('User_ratings_dataframe.txt')
 
 with open('User_reviews.txt', 'w',encoding='utf8') as wf:
-    wf.write(pprint.pformat(User_reviews_dict, depth=0))
+    wf.write(pprint.pformat(User_reviews_dict, depth=2))
 
-    
-
-
-
-
-
-
+ 
