@@ -21,10 +21,12 @@ Help with [Bokeh](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-g
 
 
 ### Markdown
-{% include /SA_viz.html %}
-<div class="bk-root" id="dab50dcb-bbe5-48b3-a569-ab2e32db01cd" data-root-id="2753">
+{% include SA_viz.html %}
+<div class="bk-root">
+  <div class="bk-root" id="dab50dcb-bbe5-48b3-a569-ab2e32db01cd" data-root-id="2753"></div>
 </div> 
-<div class="bk-root" id="9843604d-455e-4e4d-ae79-11e2a06ebf7b" data-root-id="2789">
+<div class="bk-root">
+  <div class="bk-root" id="9843604d-455e-4e4d-ae79-11e2a06ebf7b" data-root-id="2789"></div>
 </div>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
