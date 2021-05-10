@@ -22,8 +22,11 @@ Help with [Bokeh](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-g
 
 ### Markdown
 
-
+Bar Chart of frequencies of User ratings for sample size 800.
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/3.embed"></iframe>
+Dist of Compound SA scores of sample over time
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/5.embed"></iframe>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
