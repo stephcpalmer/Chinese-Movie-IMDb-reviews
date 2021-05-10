@@ -21,9 +21,9 @@ Help with [Bokeh](https://p-mckenzie.github.io/2017/12/01/embedding-bokeh-with-g
 
 
 ### Markdown
-
+[How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
 Bar Chart of frequencies of User ratings for sample size 800.
-<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/3.embed"></iframe>
+<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/9.embed"></iframe>
 Dist of Compound SA scores of sample over time
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/5.embed"></iframe>
 Box dist of SA score per User ratings
