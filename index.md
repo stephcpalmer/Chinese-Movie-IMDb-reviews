@@ -275,7 +275,50 @@ with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
 User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
 User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 ```
-## Sentiment Analysis of User Reviews
+## Sentiment Analysis
+
+### What is Sentiment Analysis?
+Sentiment analysis is a natural language processing technique used in text analysis to evaluate subjective information in a source material and quantify the tone of the material. Sentiment analysis is widely used in social media monitoring to capture the public opinion and feeling held on certain topics, such as government policies or brands. Using the NLTK library, sentiment analysis is relatively simple to perform without needing an extensive background in programming.
+
+### Sentiment Analysis of User Reviews
+To perform sentiment analysis, there are a few necessary items to import and download.
+```python
+import nltk
+nltk.download('vader_lexicon')
+from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
+```
+```python
+mport re, numpy, textwrap
+import pandas as pd
+
+
+results = []
+texts = []
+
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
+    User_reviews = rf.read()
+    
+User_ratings_df = pd.read_csv('Textfiles/User_ratings_dataframe.txt') 
+User_ratings_df = User_ratings_df.drop(columns = 'Unnamed: 0')
+
+All_user_reviews_for_movie = re.split(r"'(tt\d{7})':", User_reviews)[1:]
+
+for i in range(0, len(All_user_reviews_for_movie), 2):
+    Ind_user_reviews = re.split(r"\W\W(\d+):\s\W",All_user_reviews_for_movie[i+1])[1:]
+    if Ind_user_reviews != []:
+        for j in range(0,len(Ind_user_reviews),2):
+            review_contents = Ind_user_reviews[j+1]
+            texts.append(textwrap.fill(review_contents))
+
+```
+[How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
+Bar Chart of frequencies of User ratings for sample size 800.
+<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/9.embed"></iframe>
+Dist of Compound SA scores of sample over time
+<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/11.embed"></iframe>
+Box dist of SA score per User ratings
+<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/15.embed"></iframe>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ## Most Common Words in User Reviews
 
@@ -285,14 +328,6 @@ User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 ![Image](WC/Topic_0wordcloud.png)    ![Image](WC/Topic_1wordcloud.png)
 
 ### Markdown
-[How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
-Bar Chart of frequencies of User ratings for sample size 800.
-<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/9.embed"></iframe>
-Dist of Compound SA scores of sample over time
-<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/11.embed"></iframe>
-Box dist of SA score per User ratings
-<iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/15.embed"></iframe>
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
