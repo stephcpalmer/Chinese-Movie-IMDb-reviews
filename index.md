@@ -5,14 +5,15 @@ In this project I aim to analyze user reviews of Chinese movies from the IMDb we
 This project is the final project of Professor Vierthaler's Spring 2021 CHIN 303 "Hacking Chinese Studies" class at William & Mary. From the time I was in high school, I have been beguiled by Chinese tv shows and movies. This interest in Chinese programs lead to me taking over 20 Chinese Studies credits at William & Mary even though most of them did not satisfy any of my liberal arts requirements. Thankfully, in my last semester at the College, I have found a class that intersects my academic focus in Applied Mathematics and my interest in Chinese language and culture. Hence, in the final project I wished to analyze Chinese movies, and since I am aware of IMDb's available datasets, and in my previous programming classes I have not learned how to web scrape, my ideas manifested as sourcing my analysis of Chinese movie user reviews from IMDb.
 
 ## Gathering Data
+I pulled the data used in my project from the IMDb datasets and also scraped from the IMDb page for each specified movie and from the user reviews page of the specified movie.
 
 ### IMDb Datasets
 
 IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for personal and non-commercial use. I downloaded the data from three of their datasets: title.akas, title.basics, and title.ratings by using the urllib package for Python.
 
 ```python
+### Downloading zipped dataset files ###
 import urllib.request
-
 
 Title_akas_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.akas.tsv.gz','Title_akas.tsv.gz')
 Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.basics.tsv.gz','Title_basics.tsv.gz')
