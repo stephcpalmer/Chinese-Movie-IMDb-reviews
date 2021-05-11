@@ -1,5 +1,4 @@
 import nltk
-from nltk import classify
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 import re, numpy, textwrap
 import pandas as pd
@@ -45,38 +44,82 @@ User_ratings_df.insert(6,'Positivity_Score',pos_scores)
 User_ratings_df.insert(7,'Compound_Score',com_scores)
 
 errors = []
-
+ratings_eval = []
 for i in range(len(User_ratings_df.index)):
     if pd.isnull(User_ratings_df.at[i,'Rating']) is False:
         calculated_rating = User_ratings_df.at[i,'Compound_Score'] * .5 + .5
-        actual_rating = eval(User_ratings_df.at[i,'Rating']) 
+        actual_rating = eval(User_ratings_df.at[i,'Rating'])
+        ratings_eval.append(actual_rating)
         error = (calculated_rating - actual_rating / actual_rating ) *100
         errors.append(error)
     if pd.isnull(User_ratings_df.at[i,'Rating']) is True:
         errors.append(numpy.nan)
+        ratings_eval.append(numpy.nan)
         
 User_ratings_df.insert(8,'Error',errors)
-
+User_ratings_df.insert(9,'Evaluated_User_Rating',ratings_eval)
 User_ratings_df.to_csv('User_ratings_df_with_SA_scores.txt')
 
-from bokeh.plotting import figure, output_file, show
-from random import sample
 
-output_file("SA_Sample_Scores.html")
+Score_sample = User_ratings_df.sample(800,axis='index',random_state=1)
+Score_sample.to_csv('Sample_user_ratings_df_with_SA_scores.txt')
 
-Score_sample = User_ratings_df.sample(100,axis='index')
-source = ColumnDataSource(Score_sample)
-hover = HoverTool(tooltips = 
-                 [('Id','@Id'),('Compound Score','@Compound_Score'),('Rating','@Rating'),('Error','@Error %')])
+import chart_studio.tools as tls
+import plotly.express as px
 
-q = figure(
-   tools=[hover],
-   title="Trial 2",
-   y_axis_label='Sentiment Analysis Score'
-)
+###Bar Plot###
+counts = []
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.1,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.2,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.3,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.4,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.5,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.6,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.7,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.8,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.9,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==1.0,'Evaluated_User_Rating'].count())
 
-q.scatter(x = 'index', y = 'Compound_Score', source = source,
-         legend_label="Compound Sentiment Analysis Score", size=8)
-q.xaxis.visible = False
 
-show(q)
+Bar_df = pd.DataFrame(data=
+                      [(0.1,counts[0]),(0.2,counts[1]),(0.3,counts[2]),(0.4,counts[3]),(0.5,counts[4]),(0.6,counts[5]),
+                       (0.7,counts[6]),(0.8,counts[7]),(0.9,counts[8]),(1.0,counts[9])],columns=['Evaluated_User_Rating','Count'])
+
+fig = px.bar(Bar_df, x='Evaluated_User_Rating',y='Count',title='User Rating Counts of Sample')
+fig.update_xaxes(showline=True, linecolor='black',showticklabels=True,nticks=11,ticks='outside',title_text='User Rating')
+fig.update_yaxes(showline=True, linecolor='black',nticks=12,ticks='outside')
+
+username = 'StephCPalmer' 
+api_key = 'M8qEVu1mK0DQ8urtCkuk'
+tls.set_credentials_file(username=username, api_key=api_key)
+py.plot(fig, filename = 'User_Rating_Counts_of_Sample', auto_open=True)
+
+###Scatter Plot###
+dates_formatted = []
+for i in Score_sample.index:
+    date_form = pd.to_datetime(Score_sample.at[i,'Date Posted']).date().strftime('%Y/%m/%d')
+    dates_formatted.append(date_form)
+Score_sample.insert(10,'Date Formatted',dates_formatted)
+#https://www.programiz.com/python-programming/datetime/strftime
+Dist_df = Score_sample.sort_values(by=['Date Formatted'])
+
+fig2 = px.scatter(Dist_df,x='Date Formatted',y='Compound_Score',hover_name="Id",title='Distribution of Sample Compound SA Scores')
+fig2.update_xaxes(showticklabels=False,visible = False)
+fig2.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
+                  showline=True, linecolor='black',
+                  showgrid=True,title_text= 'Compound SA Score',
+                  zeroline=True, zerolinecolor='black', zerolinewidth=.1)
+py.plot(fig2, filename = 'Distribution of Sample Compound SA Scores', auto_open=True)
+
+###Box Plot###
+fig3 = px.box(Score_sample,x='Evaluated_User_Rating',y='Compound_Score',
+              title='Distribution of Compound Sentiment Analysis Score for User Ratings')
+fig3.update_xaxes(showticklabels=True,nticks=11,title_text='User Rating')
+fig3.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
+                  showline=True, linecolor='black',
+                  showgrid=True,title_text= 'Compound SA Score')
+fig3.show()
+py.plot(fig3, filename = 'Box dist of SA score per User ratings', auto_open=True)
+
+
+
