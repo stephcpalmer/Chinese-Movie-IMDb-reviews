@@ -13,7 +13,7 @@ Ratings_info_regex = re.compile(r'tt\d{7}\t(\d\.\d)\t(\d+)\n')
 
 Chinese_titles_dict = {}
 
-with open('Title_akas.txt','r',encoding='utf8') as data_file:
+with open('Textfiles/Title_akas.txt','r',encoding='utf8') as data_file:
     while True:
         line = data_file.readline() #reading line by line as loading in the whole file under with open.. too expensive on memory
         if line == '':
@@ -30,7 +30,7 @@ print("Done parsing for Chinese movies")
 Chinese_movies = Chinese_titles_dict.keys()
 Chinese_movies_dict = {}
 
-with open('Title_basics.txt','r',encoding='utf8') as data_file:
+with open('Textfiles/Title_basics.txt','r',encoding='utf8') as data_file:
     while True:
         line = data_file.readline()
         if line == '':
@@ -50,7 +50,7 @@ print("Done writing Chinese movie info")
 
 Chinese_movies = Chinese_movies_dict.keys()
 
-with open('Title_ratings.txt','r',encoding='utf8') as data_file:
+with open('Textfiles/Title_ratings.txt','r',encoding='utf8') as data_file:
     while True:
         line = data_file.readline()
         if line == '':
@@ -78,7 +78,7 @@ Chinese_movies_dict = Temp_dict
 Chinese_movies_dict_str = str(Chinese_movies_dict)
 Pretty_dict_str = Chinese_movies_dict_str.replace("{",'').replace("}",'').replace('"','').replace("'",'').replace(': [',',').replace('], ','\n').replace('\\N','N/A').replace('\\','').replace(']','')
 
-with open('Chinese_movies.txt','w',encoding = 'utf8') as wf:
+with open('Textfiles/Chinese_movies.txt','w',encoding = 'utf8') as wf:
     wf.write("tconst\tprimaryTitle\toriginalTitle\tstartYear\tgenres\taverageRating\tnumVotes\n")
     wf.write(Pretty_dict_str)
 print("Done!")

@@ -24,10 +24,10 @@ top_100_words = ['``', "'s",'movie','film', "''", "n't", "'the", 'one', 'story',
  'martial', 'actually', 'look']
 stopwords.update(top_100_words)
 
-with open('User_reviews.txt','r',encoding ='utf8') as rf:
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
     text = rf.read()
     
-dataframe = pd.read_csv('Dataframe.txt', delimiter = ",")
+dataframe = pd.read_csv('Textfiles/Dataframe.txt', delimiter = ",")
 dataframe = dataframe.drop(0)
 
 All_user_reviews_for_movie = re.split(r"'(tt\d{7})': \{", text)[1:]
@@ -75,7 +75,7 @@ for i in range(lda_model.num_topics):
     plt.axis('off')
     plt.title('Topic #' + str(i))
     plt.show()
-    plt.savefig('Topic#'+ str(i)+'wc.png')
+    wordcloud.to_file('WC/Topic_'+str(i)+'wordcloud.png')
 
 topics_1 = lda_model.show_topics(num_topics=4, num_words=10)
 print(topics_1)

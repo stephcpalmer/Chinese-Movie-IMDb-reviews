@@ -8,7 +8,7 @@ nltk.download('punkt')
 texts = ''
 stopwords = set(stopwords.words('english'))
 
-with open('User_reviews.txt','r',encoding ='utf8') as rf:
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
     text = rf.read()
     
 All_user_reviews_for_movie = re.split(r"'(tt\d{7})': \{", text)[1:]

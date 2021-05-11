@@ -3,7 +3,7 @@ from gensim.models import Word2Vec
 import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 
-with open('User_reviews.txt','r',encoding ='utf8') as rf:
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
     text = rf.read()
  
 labels = []

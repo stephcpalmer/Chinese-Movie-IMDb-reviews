@@ -5,7 +5,7 @@ import pandas as pd
 Base_url = 'https://www.imdb.com/title/'
 End_url = '/reviews/'
 
-data = pd.read_csv('Dataframe.txt', delimiter = ",")
+data = pd.read_csv('Textfiles/Dataframe.txt', delimiter = ",")
 data = data.drop(columns = 'Unnamed: 0')
     
 User_reviews_dict = {}
@@ -60,9 +60,9 @@ for i in range(len(data.index)):
         print(f"Request for {i}'s user reviews timed out")
         
 User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
-User_ratings_df.to_csv('User_ratings_dataframe.txt')
+User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 
-with open('User_reviews.txt', 'w',encoding='utf8') as wf:
+with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
     wf.write(pprint.pformat(User_reviews_dict, depth=2))
 
  

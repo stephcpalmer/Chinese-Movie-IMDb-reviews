@@ -7,10 +7,10 @@ nltk.download('vader_lexicon')
 results = []
 texts = []
 
-with open('User_reviews.txt','r',encoding ='utf8') as rf:
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
     User_reviews = rf.read()
     
-User_ratings_df = pd.read_csv('User_ratings_dataframe.txt') 
+User_ratings_df = pd.read_csv('Textfiles/User_ratings_dataframe.txt') 
 User_ratings_df = User_ratings_df.drop(columns = 'Unnamed: 0')
 
 All_user_reviews_for_movie = re.split(r"'(tt\d{7})':", User_reviews)[1:]
@@ -58,11 +58,11 @@ for i in range(len(User_ratings_df.index)):
         
 User_ratings_df.insert(8,'Error',errors)
 User_ratings_df.insert(9,'Evaluated_User_Rating',ratings_eval)
-User_ratings_df.to_csv('User_ratings_df_with_SA_scores.txt')
+User_ratings_df.to_csv('Textfiles/User_ratings_df_with_SA_scores.txt')
 
 
 Score_sample = User_ratings_df.sample(800,axis='index',random_state=1)
-Score_sample.to_csv('Sample_user_ratings_df_with_SA_scores.txt')
+Score_sample.to_csv('Textfiles/Sample_user_ratings_df_with_SA_scores.txt')
 
 import chart_studio.tools as tls
 import plotly.express as px
@@ -88,6 +88,8 @@ Bar_df = pd.DataFrame(data=
 fig = px.bar(Bar_df, x='Evaluated_User_Rating',y='Count',title='User Rating Counts of Sample')
 fig.update_xaxes(showline=True, linecolor='black',showticklabels=True,nticks=11,ticks='outside',title_text='User Rating')
 fig.update_yaxes(showline=True, linecolor='black',nticks=12,ticks='outside')
+
+import chart_studio.plotly as py
 
 username = 'StephCPalmer' 
 api_key = 'M8qEVu1mK0DQ8urtCkuk'
