@@ -169,7 +169,7 @@ tt0032145,Wuthering Heights, Wuthering Heights, 1939, Drama&Romance, 7.6, 16685
 Upon pulling up IMDb's webpage and searching for their list of Chinese movies, the first movie that pops up on their list is 1917, which is not what I would consider to be a "Chinese" movie. IMDb includes movies that have been distributed in a certain country in their list of movies from said country, so as many movies have been distributed in China that are not movies from China, I had to verify that each movie that I collected from the datasets is actually from China.
 
 ### Verifying Chinese Movies
-To verify that the data I have collected is of a movie from China, I scraped the IMDb page of each movie I collected using their title id. Before scraping from the title pages of IMDb, I checked to make sure that it is allowed in [IMDb.com/robots.txt](https://www.imdb.com/robots.txt), which it is. IMDb also has not set a crawl speed limit, so I let my urllib requests run as normal. In the IMDb pages for titles, they include the country of origin. So, I parsed through the HTML of the title pages to find the country of origin for each movie in my Chinese_movies.txt file, and if the result of the country-of-origin search showed that the movie originated from somewhere other than China, I dropped that movie from my data frame. After completing the scrape of the approximately 5,000 IMDb movie pages(which took over an hour the first time executed), my Chinese movie data frame reduced from 4,965 to 2,423, and I saved this verified Chinese movie data frame as Dataframe.txt.
+To verify that the data I have collected is of a movie from China, I scraped the IMDb page of each movie I collected using their title id. Before scraping from the title pages of IMDb, I checked to make sure that it is allowed in [IMDb.com/robots.txt](https://www.imdb.com/robots.txt), which it is. IMDb also has not set a crawl speed limit, so I let my urllib requests run as normal. In the IMDb pages for titles, they include the country of origin. So, I parsed through the HTML of the title pages to find the country of origin for each movie in my Chinese_movies.txt file, and if the result of the country-of-origin search showed that the movie originated from somewhere other than China, I dropped that movie from my data frame. After completing the scrape of the approximately 5,000 IMDb movie pages (which took over an hour the first time executed), my Chinese movie data frame reduced from 4,965 to 2,423, and I saved this verified Chinese movie data frame as Dataframe.txt.
 ```python
 # code from verifying_movie_is_Chinese_scrape.py
 # importing necessary libraries
@@ -196,7 +196,84 @@ for i in range(len(data.index)):
     print(i)
 
 data.to_csv('Textfiles/Dataframe.txt')
+```
+Now that I have collected all of the data I want about the movies themselves, it is time to collect the user reviews.
 
+### Scraping User Reviews
+User review data is not included in IMDb's available datasets--and from the size of their uncompressed datasets of much small info I can see why--so to gather the user reviews of Chinese movies, I had to scrape IMDb again. Scraping from the separate user reviews page of IMDb titles is also allowed, so I started off in an equivalent manner as when I scraped to verify the country-of-origin, except for changing the URL format. If the request to scrape from a specific movie's user reviews did not time out, which a handful did, I collected the user review itself, the user, the user rating, and the date of the review for all user reviews of that movie. Some reviews included spoilers, or did not have ratings, so mu code had to change a bit in its parsing through the HTML for the correct data to be collected.
+```python
+# code from scrape_IMDb_user_reviews.py
+import urllib.request, pprint, re
+from bs4 import BeautifulSoup
+import pandas as pd
+
+Base_url = 'https://www.imdb.com/title/'
+End_url = '/reviews/'
+
+data = pd.read_csv('Textfiles/Dataframe.txt', delimiter = ",")
+data = data.drop(columns = 'Unnamed: 0') #don't need the index column
+    
+User_reviews_dict = {}
+User_ratings_df = pd.DataFrame()
+
+for i in range(len(data.index)):
+    try:
+        with urllib.request.urlopen(Base_url+data.at[i,'Id']+End_url,timeout=10) as request:
+                soup = BeautifulSoup(request.read(),'lxml')
+        try:
+            User_reviews = soup.find_all('div', {'class': 'text show-more__control'})   
+            # a list of user reviews # removed limit in hopes to improve topic models # call User_reviews[i].contents for individual reviews
+            
+            User_reviews_dict[data.at[i,'Id']] = {} 
+            #creating nested dictionary {'id1':{0:'first review',1:'second review},'id2':{0:'first review of 2nd id',1:'second review of 2nd id}}...
+            
+            Ratings = []
+            for j in range(len(User_reviews)):
+                User_reviews_dict[data.at[i,'Id']][j] = User_reviews[j].text
+                
+            for k in range(len(User_reviews)):
+                user_rating_num = data.at[i,'Id']+'_'+str(k)
+                
+                if len(User_reviews[k].parent.parent.contents)== 7: # no rating
+                    rating = 'N/A'
+                    user = User_reviews[k].parent.parent.contents[3].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
+                
+                    
+                if len(User_reviews[k].parent.parent.contents) == 11: # no rating & has spoiler
+                    rating = 'N/A'
+                    user = User_reviews[k].parent.parent.contents[3].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
+
+                    
+                if len(User_reviews[k].parent.parent.contents) == 13: # has spoiler
+                    rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
+                    user = User_reviews[k].parent.parent.contents[5].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
+
+                    
+                if len(User_reviews[k].parent.parent.contents) == 9:  # regular
+                    rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
+                    user = User_reviews[k].parent.parent.contents[5].contents[1].text
+                    date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
+                
+                Ratings.append([user_rating_num,user,rating,date_posted])
+                
+            User_ratings_df = User_ratings_df.append(Ratings,ignore_index=True)
+                
+        except:
+            data.drop(i)
+        print(i)
+    except: 
+        print(f"Request for {i}'s user reviews timed out")
+```
+After collecting the user review texts and organizing the other review and ratings data into a data frame, I saved the user reviews to User_reviews.txt and saved the data frame to User_ratings_dataframe.txt .
+```python
+with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
+    wf.write(pprint.pformat(User_reviews_dict, depth=2))
+    
+User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
+User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 ```
 ### Word Clouds
 ![Image](WC/Topic_0wordcloud.png)
