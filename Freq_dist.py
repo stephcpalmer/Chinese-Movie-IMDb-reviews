@@ -1,10 +1,11 @@
 import pandas as pd
 import nltk
 from nltk.corpus import stopwords
-
+import string
+nltk.download('stopwords')
+nltk.download('punkt')
 
 texts = ''
-
 stopwords = set(stopwords.words('english'))
 
 with open('User_reviews.txt','r',encoding ='utf8') as rf:
@@ -21,6 +22,9 @@ for i in range(0, len(All_user_reviews_for_movie), 2):
 fd = nltk.FreqDist()
 for sent in nltk.sent_tokenize(texts):
     for word in nltk.word_tokenize(sent):
-        fd[word.lower()]+=1
-fd.plot(50,cumulative=False) 
+        if word.lower() not in stopwords and word not in set(string.punctuation):
+            fd[word.lower()]+=1
 
+top_100_words = []
+for i in range(100):
+    top_100_words.append(fd.most_common(100)[i][0])

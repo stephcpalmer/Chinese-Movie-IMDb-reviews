@@ -6,9 +6,9 @@ from gensim.test.utils import datapath
 from nltk.corpus import stopwords
 
 
-#nltk.download('punkt')
-#nltk.download('stopwords')
-#nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
   
 
@@ -19,11 +19,15 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 labels = []
 texts = []
 stopwords = set(stopwords.words('english'))
-more_stopwords = ['the','movie','film','story','china',
-                  'chinese','cinema','one','two','three','flick',
-                  'cast','movies','films','characters','character','plot',
-                  'title','director','actor','actors','scene','scenes','acting']
-stopwords.update(more_stopwords)
+top_100_words = ['``', "'s",'movie','film', "''", "n't", "'the", 'one', 'story', 'like', 'chinese', 'good', 'china', 'time',
+ 'also', "'and", 'even', 'really', 'would', 'well', 'much', 'see', 'people', 'love', 'action', 'characters', 'great',
+ 'movies', 'first', 'many', 'life', "'of", 'way', 'watch', 'scenes', 'could', 'two', 'get', 'films', "'to", 'make', 'made',
+ 'character', 'plot', '...', 'director', 'little', "'is", 'know', 'still', 'bad', 'think', 'end', 'man', 'acting', 'best',
+ "'that", "'in", 'better', 'quite', 'scene', "'this", 'seen', 'never', 'though', 'li', 'zhang', 'years', 'go', "'movie",
+ 'real', 'world', 'part', 'lot', 'new', 'young', 'say', 'something', 'back', 'actors', 'feel', 'old', 'may',
+ 'watching', 'another', 'work', 'long', 'however', 'us', 'bit', 'find', 'makes', "'m", "'with", 'war', 'beautiful', 'family',
+ 'martial', 'actually', 'look']
+stopwords.update(top_100_words)
 
 with open('User_reviews.txt','r',encoding ='utf8') as rf:
     text = rf.read()
@@ -78,8 +82,24 @@ lda_model_1 = ldamodel.LdaModel(corpus=processed_corpus,
                                             chunksize= 1000)
 
 print('\nPerplexity: ', lda_model_1.log_perplexity(processed_corpus))
+#temp_file = datapath("model")
+#lda_model_1.save(temp_file)
+'''
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+for i in range(lda_model_1.num_topics):
+    plt.figure()
+    plt.imshow(WordCloud().fit_words(dict(lda_model_1.show_topic(i, 50))))
+    plt.axis("off")
+    plt.title("Topic #" + str(i))
+    plt.show()
+    
+'''  
+from gensim.models.coherencemodel import CoherenceModel
 
-
+cm1 = CoherenceModel(model=lda_model_1,corpus=processed_corpus,dictionary=corpus_dictionary,coherence='u_mass')
+print(cm1.get_coherence())
+'''
 lda_model_2 = ldamodel.LdaModel(corpus=processed_corpus, 
                                             id2word=corpus_dictionary, 
                                             num_topics= 5,
@@ -88,8 +108,7 @@ lda_model_2 = ldamodel.LdaModel(corpus=processed_corpus,
 
 print('\nPerplexity: ', lda_model_2.log_perplexity(processed_corpus))
 
-temp_file = datapath("model")
-lda_model_1.save(temp_file)
+
 
 temp_file = datapath("model2")
 lda_model_2.save(temp_file)
@@ -99,14 +118,7 @@ topics = lda_model_1.show_topics(num_topics=5, num_words=10)
 print(topics)
 
 
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-for i in range(lda_model_1.num_topics):
-    plt.figure()
-    plt.imshow(WordCloud().fit_words(dict(lda_model_1.show_topic(i, 50))))
-    plt.axis("off")
-    plt.title("Topic #" + str(i))
-    plt.show()
+
     
 for i in range(lda_model_2.num_topics):
     plt.figure()
@@ -120,7 +132,7 @@ from gensim.models.coherencemodel import CoherenceModel
 cm1 = CoherenceModel(model=lda_model_1,corpus=processed_corpus,dictionary=corpus_dictionary,coherence='u_mass')
 cm2 = CoherenceModel(model=lda_model_2,corpus=processed_corpus,dictionary=corpus_dictionary,coherence='u_mass')
 
-print(cm1.get_coherence(),cm2.get_coherence())
+print(cm1.get_coherence(),cm2.get_coherence())'''
 
 
 
