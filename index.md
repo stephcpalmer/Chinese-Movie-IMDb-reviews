@@ -4,12 +4,12 @@ In this project I aim to analyze user reviews of Chinese movies from the IMDb we
 ## Motivation
 This project is the final project of Professor Vierthaler's Spring 2021 CHIN 303 "Hacking Chinese Studies" class at William & Mary. From the time I was in high school, I have been beguiled by Chinese tv shows and movies. This interest in Chinese programs lead to me taking over 20 Chinese Studies credits at William & Mary even though most of them did not satisfy any of my liberal arts requirements. Thankfully, in my last semester at the College, I have found a class that intersects my academic focus in Applied Mathematics and my interest in Chinese language and culture. Hence, in the final project I wished to analyze Chinese movies, and since I am aware of IMDb's available datasets, and in my previous programming classes I have not learned how to web scrape, my ideas manifested as sourcing my analysis of Chinese movie user reviews from IMDb.
 
-## IMDb Data
-I first pulled data from IMDb's datasets to identify IMDb's Chinese movies.
+## Data Gathering and Cleaning
+I pulled data from IMDb's datasets and scraping their title and user review pages for specific movies.
 
 ### Downloading and Unzipping IMDb Datasets
 
-IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for personal and non-commercial use. I downloaded the data from three of their datasets: title.akas, title.basics, and title.ratings by using the urllib package for Python.
+IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for personal and non-commercial use. Firstly, I downloaded the data from three of their datasets: title.akas, title.basics, and title.ratings by using the urllib package for Python.
 
 ```python
 # code from download_and_unzip_IMDb_files.py
@@ -275,8 +275,14 @@ with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
 User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
 User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 ```
-### Word Clouds
-![Image](WC/Topic_0wordcloud.png)
+## Sentiment Analysis of User Reviews
+
+## Most Common Words in User Reviews
+
+## Topic Modeling of User Reviews
+
+### Topic Word Clouds
+![Image](WC/Topic_0wordcloud.png)    ![Image](WC/Topic_1wordcloud.png)
 
 ### Markdown
 [How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
