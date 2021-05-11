@@ -52,14 +52,14 @@ To leave only the data of movies from China, I created regular expressions using
 # code from gather_IMDb_database_data.py
 import re
 
-#titleId	ordering	title	region	language	types	attributes	isOriginalTitle
+#Title_akas header #titleId	ordering	title	region	language	types	attributes	isOriginalTitle
 Chinese_titles_id_regex = re.compile(r'(tt\d{7}).+\tCN\t',re.X) #captures id if the title is from China
 Id_regex = re.compile(r'(tt\d{7})')
 
-#tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres  ###Header from Title_basics.txt
+#Title_basics header #tconst	titleType	primaryTitle	originalTitle	isAdult	startYear	endYear	runtimeMinutes	genres  ###Header from Title_basics.txt
 Basics_info_regex = re.compile(r'tt\d{7}\tmovie\t([^\t]+)\t([^\t]+)\t\d\t([^\t]+)\t[^\t]+\t[^\t]+\t([^\t]+)\n')
 
-#tconst	averageRating	numVotes
+#Title_ratings header #tconst	averageRating	numVotes
 Ratings_info_regex = re.compile(r'tt\d{7}\t(\d\.\d)\t(\d+)\n')
 
 ```
@@ -105,10 +105,76 @@ with open('Textfiles/Title_basics.txt','r',encoding='utf8') as data_file:
                     Basic_info = Basics_info_regex.search(line)
                     if Basic_info: # weeds out other titles such as shorts or tv shows, leaving movies
                         Genres = re.sub(',','&',Basic_info.group(4)) # replacing the commas separating genres to store all genres together
-                        Basic_info = [Basic_info.group(1),Basic_info.group(2),Basic_info.group(3),Genres]
+                        Basic_info = [Basic_info.group(1),Basic_info.group(2),
+                                      Basic_info.group(3),Genres]
                         Chinese_movies_dict[Id]= Basic_info
 
 print("Done writing Chinese movie info")
+```
+Starting by updating the list of Chinese movies to be only movie Ids and not all types of titles, I searched Title_ratings.txt and capture the average rating and the number of votes of Chinese movies.
+```python
+Chinese_movies = Chinese_movies_dict.keys()
+
+with open('Textfiles/Title_ratings.txt','r',encoding='utf8') as data_file:
+    while True:
+        line = data_file.readline()
+        if line == '':
+            break
+        Id = Id_regex.search(line)
+        if Id is not None:
+            if Id.group(1) is not None:
+                Id = Id.group(1)
+                if Id in Chinese_movies:
+                    Ratings_info = Ratings_info_regex.search(line)
+                    if Ratings_info:
+                        Chinese_movies_dict[Id].append(Ratings_info.group(1))
+                        Chinese_movies_dict[Id].append(Ratings_info.group(2))
+                        
+print("Done rating Chinese movies")
+
+```
+Some of the captured Chinese movies' data is not complete, so I created a copy of the Chinese movie dictionary with the movie Id as the key and the other data as values to be able to remove the movies with incomplete data.
+```python
+Temp_dict = Chinese_movies_dict.copy()
+
+for key,value in Chinese_movies_dict.items():
+    if len(value)<=4:
+        Temp_dict.pop(key)
+
+Chinese_movies_dict = Temp_dict
+```
+All that is left is to save the Chinese movie dictionary as Chinese_movies.txt to be able to use it for analysis. Dictionaries in python do not display well when written to a text file, so I converted the dictionary to a sting, cleaned it up, and wrote to Chinese_movies.txt with a header of my data labels and the cleaned string.
+```python
+Chinese_movies_dict_str = str(Chinese_movies_dict)
+Pretty_dict_str = Chinese_movies_dict_str.replace("{",'').replace("}",'').replace('"','').replace("'",'').replace(': [',',').replace('], ','\n').replace('\\N','N/A').replace('\\','').replace(']','')
+
+with open('Textfiles/Chinese_movies.txt','w',encoding = 'utf8') as wf:
+    wf.write("tconst\tprimaryTitle\toriginalTitle\tstartYear\tgenres\taverageRating\tnumVotes\n")
+    wf.write(Pretty_dict_str)
+print("Done!")
+```
+Supposedly, I now have only Chinese movie data according to IMDb's datasets. However upon inspection of Chinese_movies.txt, I notice that there are movies such as _Gone With the Wind_ and _Wuthering Heights_.
+```
+tconst	primaryTitle	originalTitle	startYear	genres	averageRating	numVotes
+tt0014429,Safety Last!, Safety Last!, 1923, Action&Comedy&Thriller, 8.1, 18750
+tt0017925,The General, The General, 1926, Action&Adventure&Comedy, 8.1, 82447
+...
+tt0031381,Gone with the Wind, Gone with the Wind, 1939, Drama&History&Romance, 8.1, 293668
+...
+tt0032138,The Wizard of Oz, The Wizard of Oz, 1939, Adventure&Family&Fantasy, 8.0, 373691
+tt0032145,Wuthering Heights, Wuthering Heights, 1939, Drama&Romance, 7.6, 16685
+
+```
+Upon pulling up IMDb's webpage and searching for their list of Chinese movies, the first movie that pops up on their list is 1917, which is not what I would consider to be a "Chinese" movie. IMDb includes movies that have been distributed in a certain country in their list of movies from said country, so as many movies have been distributed in China that are not movies from China, I had to verify that each movie that I collected from the datasets is actually from China.
+
+### Verifying Chinese Movies
+```python
+import urllib.request
+from bs4 import BeautifulSoup
+import pandas as pd
+
+#first check to see if ok to scrape user ratings data
+
 ```
 ### Word Clouds
 ![Image](WC/Topic_0wordcloud.png)
