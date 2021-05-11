@@ -15,9 +15,15 @@ IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for
 ### Downloading zipped dataset files ###
 import urllib.request
 
-Title_akas_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.akas.tsv.gz','Title_akas.tsv.gz')
-Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.basics.tsv.gz','Title_basics.tsv.gz')
-Title_ratings_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.ratings.tsv.gz','Title_ratings.tsv.gz')
+Title_akas_request = urllib.request.urlretrieve(
+                    'https://datasets.imdbws.com/title.akas.tsv.gz',
+                    'Title_akas.tsv.gz')
+Title_basics_request = urllib.request.urlretrieve(
+                    'https://datasets.imdbws.com/title.basics.tsv.gz',
+                    'Title_basics.tsv.gz')
+Title_ratings_request = urllib.request.urlretrieve(
+                    'https://datasets.imdbws.com/title.ratings.tsv.gz',
+                    'Title_ratings.tsv.gz')
 
 ```
 After downloading the desired zipped dataset files, I then had to unzip them. As they are gzip files, I used the python library gzip to unzip them, and I then saved the decompressed data as text files to my computer.
