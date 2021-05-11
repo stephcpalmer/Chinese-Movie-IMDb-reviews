@@ -364,8 +364,40 @@ Score_sample = User_ratings_df.sample(800,axis='index',random_state=1)
 Score_sample.to_csv('Textfiles/Sample_user_ratings_df_with_SA_scores.txt')
 ```
 I first plotted the counts of the different user ratings from the sample.
+
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/9.embed"></iframe>
 
+The distribution of sampled user ratings is unimodal and skewed to the left with the lowest rating count a bit higher than if it were to be perfectly skewed to the left. You can hover over the bars of the graph to the exact counts. To create this graph, I used Plotly, a python library for data visualizations. Plotly also has online functionality for creating data visualizations with [Chart Studio](https://plotly.com/chart-studio/). With a free account you can create publicly accessible visualizations, but if your data is too large it is better to use it through python as it will not work online. For example, though I created this bar chart in python, I was able to quickly recreate it using Chart Studio, but when I tried to create a visualization using my whole data frame instead of a sample on Chart Studio, it did not work. 
+
+Although creating this bar chart is much quicker in Chart Studio, it was not hard to create in python. First, I had to count the occurrences of each user rating level. Pandas Data Frame has a handy count function, so I called it from locating every occurrence of a certain rating level. Then I created a data frame of just the rating levels and their counts.
+```python
+counts = []
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.1,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.2,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.3,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.4,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.5,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.6,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.7,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.8,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==0.9,'Evaluated_User_Rating'].count())
+counts.append(Score_sample.loc[Score_sample.Evaluated_User_Rating==1.0,'Evaluated_User_Rating'].count())
+
+Bar_df = pd.DataFrame(data=
+                      [(0.1,counts[0]),(0.2,counts[1]),(0.3,counts[2]),(0.4,counts[3]),(0.5,counts[4]),(0.6,counts[5]),
+                       (0.7,counts[6]),(0.8,counts[7]),(0.9,counts[8]),(1.0,counts[9])],columns=['Evaluated_User_Rating','Count'])
+```
+To create the bar chart, I had to import plotly and using their built-in express, creating figures is very simple. I used the data frame formed previously as the source of the data for the figure, and by referencing the column names I was able to set my axes accordingly. I updated the x axis to show all the different levels of ratings instead of having the default few labelled. I also made a few other stylistic choices such as manipulating the lines and tick marks of the axes.
+```python
+import plotly.express as px
+
+fig = px.bar(Bar_df, x='Evaluated_User_Rating',y='Count',title='User Rating Counts of Sample')
+fig.update_xaxes(showline=True, linecolor='black',
+                showticklabels=True,nticks=11,ticks='outside',
+                title_text='User Rating')
+fig.update_yaxes(showline=True, linecolor='black',
+                nticks=12,ticks='outside')
+```
 Dist of Compound SA scores of sample over time
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/11.embed"></iframe>
 Box dist of SA score per User ratings
@@ -378,7 +410,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Topic Word Clouds
 ![Image](WC/Topic_0wordcloud.png)    ![Image](WC/Topic_1wordcloud.png)
-
+### Word Embeddings
 ### Markdown
 
 ```markdown
