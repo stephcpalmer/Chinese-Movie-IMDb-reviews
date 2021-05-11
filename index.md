@@ -10,10 +10,9 @@ This project is the final project of Professor Vierthaler's Spring 2021 CHIN 303
 
 IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for personal and non-commercial use. I downloaded the data from three of their datasets: title.akas, title.basics, and title.ratings by using the urllib package for Python.
 
-```
+```markdown
 import urllib.request
 
-#retrieve zipped files
 
 Title_akas_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.akas.tsv.gz','Title_akas.tsv.gz')
 Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.basics.tsv.gz','Title_basics.tsv.gz')
