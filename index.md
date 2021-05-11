@@ -1,10 +1,10 @@
-## Objective
+# Objective
 In this project I aim to analyze user reviews of Chinese movies from the IMDb website and draw some inferences about the western audience's perception of Chinese cinema.
 
-## Motivation
+# Motivation
 This project is the final project of Professor Vierthaler's Spring 2021 CHIN 303 "Hacking Chinese Studies" class at William & Mary. From the time I was in high school, I have been beguiled by Chinese tv shows and movies. This interest in Chinese programs lead to me taking over 20 Chinese Studies credits at William & Mary even though most of them did not satisfy any of my liberal arts requirements. Thankfully, in my last semester at the College, I have found a class that intersects my academic focus in Applied Mathematics and my interest in Chinese language and culture. Hence, in the final project I wished to analyze Chinese movies, and since I am aware of IMDb's available datasets, and in my previous programming classes I have not learned how to web scrape, my ideas manifested as sourcing my analysis of Chinese movie user reviews from IMDb.
 
-## Data Gathering and Cleaning
+# Data Gathering and Cleaning
 I pulled data from IMDb's datasets and scraping their title and user review pages for specific movies.
 
 ### Downloading and Unzipping IMDb Datasets
@@ -275,24 +275,27 @@ with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
 User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
 User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 ```
-## Sentiment Analysis
+# Analysis of User Review Data
 
+## Sentiment Analysis
 ### What is Sentiment Analysis?
 Sentiment analysis is a natural language processing technique used in text analysis to evaluate subjective information in a source material and quantify the tone of the material. Sentiment analysis is widely used in social media monitoring to capture the public opinion and feeling held on certain topics, such as government policies or brands. Using the NLTK library, sentiment analysis is relatively simple to perform without needing an extensive background in programming.
 
 ### Sentiment Analysis of User Reviews
-To perform sentiment analysis, there are a few necessary items to import and download.
+The most popular natural language processing library for python is NLTK, the Natural Language Toolkit. From NLTK, the VADER lexicon must be downloaded in order to perform sentiment analysis.
+
 ```python
 import nltk
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 ```
+As I have stored the user reviews in a text file and other data about the user review in a data frame, I must also import the libraries necessary to access my data. If you are performing sentiment analysis of a simple string located in the local python script, this is not necessary.
 ```python
 mport re, numpy, textwrap
 import pandas as pd
-
-
-results = []
+```
+The texts of the user reviews in User_reviews.txt are stored in the following format: {'id': {'review # for movie': 'review text'}}. In order to form a list of just the text of the reviews, I needed to split the text file using regular expressions. First, I split the text file into each movie id and its corresponding user reviews. Then, once I was able to operate within the reviews of a single movie, if a review was detected, I added each review to the list of texts by iterating through all of the reviews for the specific movie. Since the user review was formatted in a dictionary style in the text file using pprint, it had indentations. So, I used textwrap to fill in the space of the hanging indent after the first line of each review to make the text of individual reviews a bit more legible before appending them to the list of texts.
+```python
 texts = []
 
 with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
@@ -305,15 +308,64 @@ All_user_reviews_for_movie = re.split(r"'(tt\d{7})':", User_reviews)[1:]
 
 for i in range(0, len(All_user_reviews_for_movie), 2):
     Ind_user_reviews = re.split(r"\W\W(\d+):\s\W",All_user_reviews_for_movie[i+1])[1:]
-    if Ind_user_reviews != []:
+    if Ind_user_reviews != []: # some movies don't have reviews
         for j in range(0,len(Ind_user_reviews),2):
             review_contents = Ind_user_reviews[j+1]
             texts.append(textwrap.fill(review_contents))
-
 ```
-[How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
-Bar Chart of frequencies of User ratings for sample size 800.
+Now that I have made a list of the texts of user reviews I wish to analyze, I can iterate through this list and get the sentiment analysis scores for each user review. Sentiment Intensity Analyzer or SIA, the tool performing the sentiment analysis, outputs four different scores: the positive, negative, neutral, and compound. I will only use the compound score, which is a normalized, aggregate score from the user review. If it is close to 1, the review has been analyzed to have a strong positive tone. If it close to - 1, the user review has been analyzed to have strong negative tone. If the compound score is close to 0, it does not have a strong tone either way.
+```python
+results = []
+for i in range(len(texts)):
+    pol_score = SIA().polarity_scores(texts[i])
+    pol_score['headline'] = User_ratings_df.at[i,'Id'] 
+    results.append(pol_score)
+```
+I added all of the scores for every review into the current data frame User_ratings_df. Although I will only look at the compound score for analysis, if I return to expand on this project, I am interested in storing that information for future analysis.
+```python
+pos_scores = []
+neu_scores = []
+neg_scores = []
+com_scores = []
+
+for i in range(len(results)):
+    pos_scores.append(results[i]['pos'])
+    neu_scores.append(results[i]['neu'])
+    neg_scores.append(results[i]['neg'])
+    com_scores.append(results[i]['compound'])
+    
+User_ratings_df.insert(4,'Negativity_Score',neg_scores)
+User_ratings_df.insert(5,'Neutrality_Score',neu_scores)
+User_ratings_df.insert(6,'Positivity_Score',pos_scores)
+User_ratings_df.insert(7,'Compound_Score',com_scores)
+```
+With these sentiment analysis scores in my data frame, I compared them with the rating that each reviewer left along with their review of the movie. As I scraped the user ratings in string form, I had to evaluate the string to get a number. As the IMDb user rating system is from 1-10/10, the evaluated ratings outputted as 0 - 1. Thus, to make the compound sentiment analysis score equivalent to the user rating's range, I manipulated it using a simple math equation so that a score of 0 would be transformed to 0.5, -1 would be transformed to 0, and a score of 1 will stay 1. With the transformed user rating and compound sentiment score, I calculated the percent error of VADER's compound score. If the reviewer did not leave a rating with their review, I used the numpy library's nan constant to still represent that data as null instead of failing to append to the overall lists of errors and evaluated ratings to make placing these data points into the data frame easier.
+```python
+errors = []
+ratings_eval = []
+for i in range(len(User_ratings_df.index)):
+    if pd.isnull(User_ratings_df.at[i,'Rating']) is False:
+        actual_rating = eval(User_ratings_df.at[i,'Rating'])
+        ratings_eval.append(actual_rating)
+        calculated_rating = User_ratings_df.at[i,'Compound_Score'] * .5 + .5
+        error = (calculated_rating - actual_rating / actual_rating ) *100
+        errors.append(error)
+    if pd.isnull(User_ratings_df.at[i,'Rating']) is True:
+        errors.append(numpy.nan)
+        ratings_eval.append(numpy.nan)
+        
+User_ratings_df.insert(8,'Error',errors)
+User_ratings_df.insert(9,'Evaluated_User_Rating',ratings_eval)
+User_ratings_df.to_csv('Textfiles/User_ratings_df_with_SA_scores.txt')
+```
+Time to visualize the data! As I have approximately 8,000 user reviews, any plot I made looked too hectic, so for my visualizations I only pulled the data from a sample of the population of my data. From a past statistics class, I learned a rule-of-thumb for choosing a sample size of at least 10% the population for a representative sample, so the size I chose for my sample using pandas' Data Frame sample function is 800. I saved this sample data frame Score_sample to a text file.
+```python
+Score_sample = User_ratings_df.sample(800,axis='index',random_state=1)
+Score_sample.to_csv('Textfiles/Sample_user_ratings_df_with_SA_scores.txt')
+```
+I first plotted the counts of the different user ratings from the sample.
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/9.embed"></iframe>
+
 Dist of Compound SA scores of sample over time
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/11.embed"></iframe>
 Box dist of SA score per User ratings
