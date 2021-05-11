@@ -155,6 +155,7 @@ print("Done!")
 ```
 Supposedly, I now have only Chinese movie data according to IMDb's datasets. However upon inspection of Chinese_movies.txt, I notice that there are movies such as _Gone With the Wind_ and _Wuthering Heights_.
 ```
+# from Chinese_movies.txt
 tconst	primaryTitle	originalTitle	startYear	genres	averageRating	numVotes
 tt0014429,Safety Last!, Safety Last!, 1923, Action&Comedy&Thriller, 8.1, 18750
 tt0017925,The General, The General, 1926, Action&Adventure&Comedy, 8.1, 82447
@@ -168,12 +169,33 @@ tt0032145,Wuthering Heights, Wuthering Heights, 1939, Drama&Romance, 7.6, 16685
 Upon pulling up IMDb's webpage and searching for their list of Chinese movies, the first movie that pops up on their list is 1917, which is not what I would consider to be a "Chinese" movie. IMDb includes movies that have been distributed in a certain country in their list of movies from said country, so as many movies have been distributed in China that are not movies from China, I had to verify that each movie that I collected from the datasets is actually from China.
 
 ### Verifying Chinese Movies
+To verify that the data I have collected is of a movie from China, I scraped the IMDb page of each movie I collected using their title id. Before scraping from the title pages of IMDb, I checked to make sure that it is allowed in [IMDb.com/robots.txt](https://www.imdb.com/robots.txt), which it is. IMDb also has not set a crawl speed limit, so I let my urllib requests run as normal. In the IMDb pages for titles, they include the country of origin. So, I parsed through the HTML of the title pages to find the country of origin for each movie in my Chinese_movies.txt file, and if the result of the country-of-origin search showed that the movie originated from somewhere other than China, I dropped that movie from my data frame. After completing the scrape of the approximately 5,000 IMDb movie pages(which took over an hour the first time executed), my Chinese movie data frame reduced from 4,965 to 2,423, and I saved this verified Chinese movie data frame as Dataframe.txt.
 ```python
+# code from verifying_movie_is_Chinese_scrape.py
+# importing necessary libraries
 import urllib.request
 from bs4 import BeautifulSoup
 import pandas as pd
 
-#first check to see if ok to scrape user ratings data
+Col_names = ['Id','Primary Title','Original Title','Year','Genres','Average Rating','# of Votes']
+data = pd.read_csv('Textfiles/Chinese_movies.txt', delimiter = ",",header=0,names=Col_names,
+                   error_bad_lines=False) #some movies don't have reviews->bad, not keeping those for analysis
+# created dataframe from Chinese_movies.txt as easy to refer to specific values
+
+Base_url = 'https://www.imdb.com/title/'   
+
+for i in range(len(data.index)):
+    with urllib.request.urlopen(Base_url+data.at[i,'Id']) as request:
+        soup = BeautifulSoup(request.read(),'lxml')
+    try:
+        Country_of_origin = soup.find('h4',string='Country:').parent.contents[3].text
+        if Country_of_origin != 'China':
+            data = data.drop(i)
+    except AttributeError:
+        data.drop(i)
+    print(i)
+
+data.to_csv('Textfiles/Dataframe.txt')
 
 ```
 ### Word Clouds
