@@ -19,6 +19,8 @@ Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/t
 Title_ratings_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.ratings.tsv.gz','Title_ratings.tsv.gz')
 
 ```
+### Word Clouds
+![Image](https://github.com/stephcpalmer/Chinese-Movie-IMDb-reviews/blob/main/WC/Topic%230wc.png)
 
 ### Markdown
 [How I embedded the plotly visualizations](https://towardsdatascience.com/how-to-create-a-plotly-visualization-and-embed-it-on-websites-517c1a78568b)
