@@ -10,7 +10,7 @@ This project is the final project of Professor Vierthaler's Spring 2021 CHIN 303
 
 IMDb has subsets of their data [available](https://www.imdb.com/interfaces/) for personal and non-commercial use. I downloaded the data from three of their datasets: title.akas, title.basics, and title.ratings by using the urllib package for Python.
 
-```markdown
+```python
 import urllib.request
 
 
