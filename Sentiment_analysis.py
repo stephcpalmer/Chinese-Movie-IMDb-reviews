@@ -112,7 +112,7 @@ fig2.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
 py.plot(fig2, filename = 'Distribution of Sample Compound SA Scores', auto_open=True)
 
 ###Box Plot###
-fig3 = px.box(Score_sample,x='Evaluated_User_Rating',y='Compound_Score',
+fig3 = px.box(Score_sample,x='Evaluated_User_Rating',y='Compound_Score',hover_name="Id",
               title='Distribution of Compound Sentiment Analysis Score for User Ratings')
 fig3.update_xaxes(showticklabels=True,nticks=11,title_text='User Rating')
 fig3.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
