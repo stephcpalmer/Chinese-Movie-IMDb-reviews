@@ -20,6 +20,23 @@ Title_basics_request = urllib.request.urlretrieve('https://datasets.imdbws.com/t
 Title_ratings_request = urllib.request.urlretrieve('https://datasets.imdbws.com/title.ratings.tsv.gz','Title_ratings.tsv.gz')
 
 ```
+After downloading the desired zipped dataset files, I then had to unzip them. As they are gzip files, I used the python library gzip to unzip them, and I then saved the decompressed data as text files to my computer.
+```python
+import gzip
+
+with gzip.open('Textfiles/Title_akas.tsv.gz','rb') as myzip:
+    with open('Textfiles/Title_akas.txt','wb') as w:
+        w.writelines(myzip)
+
+with gzip.open('Textfiles/Title_basics.tsv.gz','rb') as myzip:
+    with open('Textfiles/Title_basics.txt','wb') as w:
+        w.writelines(myzip)
+
+with gzip.open('Textfiles/Title_ratings.tsv.gz','rb') as myzip:
+    with open('Textfiles/Title_ratings.txt','wb') as w:
+        w.writelines(myzip)
+```
+
 ### Word Clouds
 ![Image](WC/Topic_0wordcloud.png)
 
