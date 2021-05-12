@@ -21,7 +21,7 @@ top_100_words = ['``', "'s",'movie','film', "''", "n't", "'the", 'one', 'story',
  "'that", "'in", 'better', 'quite', 'scene', "'this", 'seen', 'never', 'though', 'li', 'zhang', 'years', 'go', "'movie",
  'real', 'world', 'part', 'lot', 'new', 'young', 'say', 'something', 'back', 'actors', 'feel', 'old', 'may',
  'watching', 'another', 'work', 'long', 'however', 'us', 'bit', 'find', 'makes', "'m", "'with", 'war', 'beautiful', 'family',
- 'martial', 'actually', 'look']
+ 'martial', 'actually', 'look'] # list of top 100 words created in Freq_dist.py
 stopwords.update(top_100_words)
 
 with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
@@ -51,24 +51,26 @@ for i in range(0, len(All_user_reviews_for_movie), 2):
     texts.append(refined)
 
 corpus_dictionary = gensim.corpora.Dictionary(texts)
-corpus_dictionary.filter_extremes(no_below=5, no_above=.4)
+corpus_dictionary.filter_extremes(no_below=5, no_above=.4) 
+
 processed_corpus = [corpus_dictionary.doc2bow(review) for review in texts]
 
 from gensim.models import ldamodel
 
 lda_model = ldamodel.LdaModel(corpus=processed_corpus, 
                                             id2word=corpus_dictionary, 
-                                            num_topics= 4,
+                                            num_topics= 4, # 4 topics gave best coherence
                                             passes = 30,
                                             chunksize= 1000)
 
 temp_file = datapath("model")
 lda_model.save(temp_file)
 
+### Create word clouds
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
-wordcloud = WordCloud(background_color="white")
+wordcloud = WordCloud(background_color="white",width = 590,height = 400)
 for i in range(lda_model.num_topics):
     plt.figure()
     plt.imshow(wordcloud.fit_words(dict(lda_model.show_topic(i, 50))))
@@ -76,15 +78,5 @@ for i in range(lda_model.num_topics):
     plt.title('Topic #' + str(i))
     plt.show()
     wordcloud.to_file('WC/Topic_'+str(i)+'wordcloud.png')
-
-topics_1 = lda_model.show_topics(num_topics=4, num_words=10)
-print(topics_1)
-print('\nPerplexity: ', lda_model.log_perplexity(processed_corpus))
-
-
-from gensim.models.coherencemodel import CoherenceModel
-
-cm1 = CoherenceModel(model=lda_model,corpus=processed_corpus,dictionary=corpus_dictionary,coherence='u_mass')
-print(cm1.get_coherence())
 
 

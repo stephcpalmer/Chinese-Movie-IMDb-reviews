@@ -9,15 +9,15 @@ Title_ratings_request = urllib.request.urlretrieve('https://datasets.imdbws.com/
 
 #open zipped files
 
-with gzip.open('Title_akas.tsv.gz','rb') as myzip:
+with gzip.open('Textfiles/Title_akas.tsv.gz','rb') as myzip:
     with open('Textfiles/Title_akas.txt','wb') as w:
         w.writelines(myzip)
 
 with gzip.open('Textfiles/Title_basics.tsv.gz','rb') as myzip:
-    with open('Title_basics.txt','wb') as w:
+    with open('Textfiles/Title_basics.txt','wb') as w:
         w.writelines(myzip)
 
 with gzip.open('Textfiles/Title_ratings.tsv.gz','rb') as myzip:
-    with open('Title_ratings.txt','wb') as w:
+    with open('Textfiles/Title_ratings.txt','wb') as w:
         w.writelines(myzip)
 

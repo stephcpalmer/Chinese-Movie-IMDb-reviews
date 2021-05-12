@@ -1,7 +1,7 @@
 #clean IMDb files
 import re
 
-
+#titleId	ordering	title	region	language	types	attributes	isOriginalTitle
 Chinese_titles_id_regex = re.compile(r'(tt\d{7}).+\tCN\t',re.X) #captures id if the title is from China
 Id_regex = re.compile(r'(tt\d{7})')
 

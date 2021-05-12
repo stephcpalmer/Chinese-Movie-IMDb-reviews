@@ -1,6 +1,5 @@
 import gensim, nltk, re
 from gensim.models import Word2Vec
-import matplotlib.pyplot as plt
 from nltk.corpus import stopwords
 
 with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
@@ -39,7 +38,6 @@ word2vecModel = Word2Vec(texts)
 word2vecModel.save("modelfile.model")
 
 word2vecModel.wv.most_similar("japanese")
-word2vecModel.wv.most_similar("police")
 word2vecModel.wv.most_similar("arts")
 word2vecModel.wv.most_similar("father")
 

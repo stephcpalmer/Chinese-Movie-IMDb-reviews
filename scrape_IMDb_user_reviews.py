@@ -26,25 +26,25 @@ for i in range(len(data.index)):
             for k in range(len(User_reviews)):
                 user_rating_num = data.at[i,'Id']+'_'+str(k)
                 
-                if len(User_reviews[k].parent.parent.contents)== 7:
+                if len(User_reviews[k].parent.parent.contents)== 7: # no rating
                     rating = 'N/A'
                     user = User_reviews[k].parent.parent.contents[3].contents[1].text
                     date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
                 
                     
-                if len(User_reviews[k].parent.parent.contents) == 11:
+                if len(User_reviews[k].parent.parent.contents) == 11: # no rating & spoiler
                     rating = 'N/A'
                     user = User_reviews[k].parent.parent.contents[3].contents[1].text
                     date_posted = User_reviews[k].parent.parent.contents[3].contents[2].text
 
                     
-                if len(User_reviews[k].parent.parent.contents) == 13:
+                if len(User_reviews[k].parent.parent.contents) == 13: # spoiler
                     rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
                     user = User_reviews[k].parent.parent.contents[5].contents[1].text
                     date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
 
                     
-                if len(User_reviews[k].parent.parent.contents) == 9:
+                if len(User_reviews[k].parent.parent.contents) == 9: # regular
                     rating = re.sub('\n','',User_reviews[k].parent.parent.contents[1].text)
                     user = User_reviews[k].parent.parent.contents[5].contents[1].text
                     date_posted = User_reviews[k].parent.parent.contents[5].contents[2].text
@@ -58,11 +58,12 @@ for i in range(len(data.index)):
         print(i)
     except: 
         print(f"Request for {i}'s user reviews timed out")
-        
+ 
+with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
+    wf.write(pprint.pformat(User_reviews_dict, depth=2))        
+ 
 User_ratings_df = User_ratings_df.rename(columns={0:'Id',1:'User',2:'Rating',3:'Date Posted'})
 User_ratings_df.to_csv('Textfiles/User_ratings_dataframe.txt')
 
-with open('Textfiles/User_reviews.txt', 'w',encoding='utf8') as wf:
-    wf.write(pprint.pformat(User_reviews_dict, depth=2))
 
  

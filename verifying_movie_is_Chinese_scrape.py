@@ -4,9 +4,10 @@ import pandas as pd
 
 #first check to see if ok to scrape user ratings data
 
-Base_url = 'https://www.imdb.com/title/'   
 Col_names = ['Id','Primary Title','Original Title','Year','Genres','Average Rating','# of Votes']
 data = pd.read_csv('Textfiles/Chinese_movies.txt', delimiter = ",",header=0,names=Col_names,error_bad_lines=False) #Creating database from Mandarin movie file #some movies don't have reviews->bad, not keeping those for analysis
+
+Base_url = 'https://www.imdb.com/title/'   
 
 for i in range(len(data.index)):
     with urllib.request.urlopen(Base_url+data.at[i,'Id']) as request:
@@ -19,7 +20,7 @@ for i in range(len(data.index)):
         data.drop(i)
     print(i)
 
-data.to_csv('Textfiles/DataFrame.txt')
+data.to_csv('Textfiles/Dataframe.txt')
 
 
     

@@ -1,4 +1,3 @@
-import pandas as pd
 import nltk
 from nltk.corpus import stopwords
 import string
@@ -25,6 +24,4 @@ for sent in nltk.sent_tokenize(texts):
         if word.lower() not in stopwords and word not in set(string.punctuation):
             fd[word.lower()]+=1
 
-top_100_words = []
-for i in range(100):
-    top_100_words.append(fd.most_common(100)[i][0])
+fd.most_common(100)
