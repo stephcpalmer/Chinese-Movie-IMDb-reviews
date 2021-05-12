@@ -387,7 +387,7 @@ Bar_df = pd.DataFrame(data=
                       [(0.1,counts[0]),(0.2,counts[1]),(0.3,counts[2]),(0.4,counts[3]),(0.5,counts[4]),(0.6,counts[5]),
                        (0.7,counts[6]),(0.8,counts[7]),(0.9,counts[8]),(1.0,counts[9])],columns=['Evaluated_User_Rating','Count'])
 ```
-To create the bar chart, I had to import plotly and using their built-in express, creating figures is very simple. I used the data frame formed previously as the source of the data for the figure, and by referencing the column names I was able to set my axes accordingly. I updated the x axis to show all the different levels of ratings instead of having the default few labelled. I also made a few other stylistic choices such as manipulating the lines and tick marks of the axes.
+To create the bar chart, I had to import Plotly and using their built-in express, creating figures is very simple. I used the data frame formed previously as the source of the data for the figure, and by referencing the column names I was able to set my axes accordingly. I updated the x axis to show all the distinct levels of ratings instead of having the default few labelled. I also made a few other stylistic choices such as manipulating the lines and tick marks of the axes.
 ```python
 import plotly.express as px
 
@@ -397,11 +397,49 @@ fig.update_xaxes(showline=True, linecolor='black',
                 title_text='User Rating')
 fig.update_yaxes(showline=True, linecolor='black',
                 nticks=12,ticks='outside')
+fig.show()
 ```
-Dist of Compound SA scores of sample over time
+Onto visualizing the compound sentiment analysis scores of the user reviews!
+
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/11.embed"></iframe>
-Box dist of SA score per User ratings
+
+They are distributed concentrated at both extremes, +1 and -1, with few in the range [-0.5,0.5]. Thus, VADER has found that most of the user reviews convey a strong tone, mostly a strong positive tone, but also a fair amount of strong negative reviews. Hovering over individual points (you can also use the tools on the top of the plot to look at the data points more closely) shows the unique review Id of the data point and the date the review was posted. The data points go from earliest on the left to most recent on the right, and in the most recent years, I would discern that the ratings are a bit more varied, especially compared to reviews between 2011-2017. This may be attributed to the western audience being more aware of international movies, and thus there are more people reviewing Chinese movies on IMDb. There does not seem to be a marked recent increase in interest towards Chinese movies specifically according to my research, but maybe plotting this data for movies of other countries may show this to be the case.
+
+To create this figure, I had to transform the Date Posted data strings into datetime format, also made convenient by pandas. Creating a scatter plot of the compound scores over time was also straightforward following the Plotly [documentation](https://plotly.com/python-api-reference/generated/plotly.express.scatter).
+```python
+dates_formatted = []
+for i in Score_sample.index:
+    date_form = pd.to_datetime(Score_sample.at[i,'Date Posted']).date().strftime('%Y/%m/%d')
+    dates_formatted.append(date_form)
+Score_sample.insert(10,'Date Formatted',dates_formatted)  # new column for formatted dates
+Dist_df = Score_sample.sort_values(by=['Date Formatted']) #sorting the data frame by date oldest-> newest
+
+fig2 = px.scatter(Dist_df,x='Date Formatted',y='Compound_Score',hover_name="Id",title='Distribution of Sample Compound SA Scores')
+fig2.update_xaxes(showticklabels=False,visible = False) # too distracting to show dates
+fig2.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
+                  showline=True, linecolor='black',
+                  showgrid=True,title_text= 'Compound SA Score',
+                  zeroline=True, zerolinecolor='black', zerolinewidth=.1) # line at horizontal center of plot
+fig2.show()
+```
+Now to visualize the distribution of compound score for each rating level via box plot.
+
 <iframe width="590" height="400" frameborder="0" scrolling="no" src="//plotly.com/~StephCPalmer/15.embed"></iframe>
+
+The compound scores for high ratings are remarkably more concentrated at the upper end of the score range, and the opposite is true for low ratings. Suitably so, the middle level rating of 0.5 has the largest range of (-0.99,0.99) and inter-quartile range (-0.74,0.96) which is visible when hovering over a box. As noted previously, the compound score is above all things a marker for the  strength of tone, so a review with rating 0.5, where the reviewer does not hold a strong opinion of the movie either way, is expected to land in the middle of the compound score range region of (-0.5,0.5). Also, it is worth noting that the median compound score for the bottom two rating levels 0.1 and 0.2 are not that different considering the bar chart which showed a large number of the lowest rating compared to the second lowest rating. I suppose that once you hold a negative opinion of a movie, it is natural to give it the worst rating possible, versus trying to find a possible merit in the movie to give it a higher score.
+
+The python code to create the box plot:
+```python
+fig3 = px.box(Score_sample,x='Evaluated_User_Rating',y='Compound_Score',hover_name="Id",
+              title='Distribution of Compound Sentiment Analysis Score for User Ratings')
+fig3.update_xaxes(showticklabels=True,nticks=11,title_text='User Rating')
+fig3.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
+                  showline=True, linecolor='black',
+                  showgrid=True,title_text= 'Compound SA Score')
+fig3.show()
+py.plot(fig3, filename = 'Box dist of SA score per User ratings', auto_open=True)
+```
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ## Most Common Words in User Reviews
