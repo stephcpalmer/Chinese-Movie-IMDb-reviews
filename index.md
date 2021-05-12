@@ -476,8 +476,8 @@ fd.most_common(100) #prints list with sets containing the 100 most common words 
 ```
 The resulting output shows the most common words in the user reviews
 ```
-<samp>[('``', 59611),("'s", 16577),('movie', 13320),('film', 11806),("''", 7848),("n't", 7416),("'the", 6565),
-...('beautiful', 1005),('family', 1000),('martial', 998),('actually', 996),('look', 990)]</samp>
+<p><samp>[('``', 59611),("'s", 16577),('movie', 13320),('film', 11806),("''", 7848),("n't", 7416),("'the", 6565),
+...('beautiful', 1005),('family', 1000),('martial', 998),('actually', 996),('look', 990)]</samp></p>
 ```
 ## Topic Modeling of User Reviews
 
