@@ -492,4 +492,17 @@ Topic modeling is a text analysis technique to capture the abstract topics of a 
 4. The fourth topic has common words: cultural, japanese, history, political, and communist. This topic is mainly about political context.
 
 ### Word Embeddings
-
+Word embedding uses natural language processing and text analysis to analyze the meaning of a word and pull similar words from the source text. I used gensim's Word2Vec to look into some of the key words in the topics created from the user reviews in the word_embedding.py file.
+```python
+word2vecModel.wv.most_similar("japanese")
+>[('communist', 0.9740817546844482),
+ ('party', 0.969254732131958),
+ ('revolution', 0.9643056392669678),
+ ('era', 0.95346599817276),
+ ('war', 0.9532014727592468),
+ ('shanghai', 0.927743136882782),
+ ('society', 0.9268149137496948),
+ ('government', 0.9261659383773804),
+ ('rural', 0.9231822490692139),
+ ('cultural', 0.9230649471282959)]
+```
