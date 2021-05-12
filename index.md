@@ -285,6 +285,7 @@ Sentiment analysis is a natural language processing technique used in text analy
 The most popular natural language processing library for python is NLTK, the Natural Language Toolkit. From NLTK, the VADER lexicon must be downloaded in order to perform sentiment analysis.
 
 ```python
+# code from Sentiment_analysis.py
 import nltk
 nltk.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
@@ -439,11 +440,45 @@ fig3.update_yaxes(showticklabels=True,nticks=12,ticks='inside',
 fig3.show()
 py.plot(fig3, filename = 'Box dist of SA score per User ratings', auto_open=True)
 ```
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ## Most Common Words in User Reviews
+NLTK can also be used to find the most common words in a text using the FreqDist class.
 
+```python
+# code from Freq_dist.py
+import nltk
+from nltk.corpus import stopwords 
+import string #to pull out punctuations
+nltk.download('stopwords')  
+nltk.download('punkt')  #word tokenizer
+
+texts = ''
+stopwords = set(stopwords.words('english')) #set of very common english words
+
+with open('Textfiles/User_reviews.txt','r',encoding ='utf8') as rf:
+    text = rf.read()
+    
+All_user_reviews_for_movie = re.split(r"'(tt\d{7})': \{", text)[1:]
+
+for i in range(0, len(All_user_reviews_for_movie), 2):
+    Ind_user_reviews = re.split(r"(\d:) '",All_user_reviews_for_movie[i+1])[1:]
+    for i in range(0,len(Ind_user_reviews),2):
+        review_contents = Ind_user_reviews[i+1]
+        texts+=review_contents
+```
+After importing the necessary libraries, downloading NLTK modules for word tokenization and stopwords, and setting up a single string that includes all user reviews we can call to FreqDist and create a frequency distribution of all the words used in the corpus of user reviews.
+```python
+fd = nltk.FreqDist()
+for sent in nltk.sent_tokenize(texts):  # sent tokenize splits the single texts string into sentences
+    for word in nltk.word_tokenize(sent): # word tokenize splits each sentence into words
+        if word.lower() not in stopwords and word not in set(string.punctuation): # if word is not already in stopwords set and is not puntuation
+            fd[word.lower()]+=1 # add to the frequency of certain word
+fd.most_common(100) #prints list with sets containing the 100 most common words and their frequencies in sets
+```
+The resulting output shows the most common words in the user reviews
+```
+<samp>[('``', 59611),("'s", 16577),('movie', 13320),('film', 11806),("''", 7848),("n't", 7416),("'the", 6565),
+...('beautiful', 1005),('family', 1000),('martial', 998),('actually', 996),('look', 990)]</samp>
+```
 ## Topic Modeling of User Reviews
 
 ### Topic Word Clouds
