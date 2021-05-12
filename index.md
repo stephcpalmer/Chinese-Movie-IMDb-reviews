@@ -482,16 +482,16 @@ The resulting output shows the most common words in the user reviews.
 ## Topic Modeling of User Reviews
 Topic modeling is a text analysis technique to capture the abstract topics of a corpora. To further analyze the user reviews of Chinese movies I created an LDA topic model, which trained over my corpus of user reviews. The code to my topic model can be viewed in my repository in the file Topic_model_id_reviews.py . Using the tokenized user reviews, I created a 4-topic model. The Word Clouds for each topic are below.
 
-                                Topic #0
+Topic #0
 ![Image](WC/Topic_0wordcloud.png)    
 
-                                Topic #1
-![Image](WC/Topic_1wordcloud.png)\
+Topic #1
+![Image](WC/Topic_1wordcloud.png)
 
-                                Topic #2
+Topic #2
 ![Image](WC/Topic_2wordcloud.png)
 
-                                Topic #3
+Topic #3
 ![Image](WC/Topic_3wordcloud.png)
 ### Word Embeddings
 
