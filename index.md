@@ -485,5 +485,11 @@ Topic modeling is a text analysis technique to capture the abstract topics of a 
 ![Image](WC/Topic_1wordcloud.png)
 ![Image](WC/Topic_2wordcloud.png)
 ![Image](WC/Topic_3wordcloud.png)
+
+1. The first topic has common words: arts, police, hong, kong, and fight. This topic is mainly about detective films.
+2. The second topic has common words: woman, son, father, home, and music. This topic is mainly about family.
+3. The third topic has common words: comedy, effects, cgi, funny, kung, and fu. This topic could be concentrated on Wuxia or kung fu movies.
+4. The fourth topic has common words: cultural, japanese, history, political, and communist. This topic is mainly about political context.
+
 ### Word Embeddings
 
