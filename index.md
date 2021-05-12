@@ -506,3 +506,21 @@ word2vecModel.wv.most_similar("japanese")
  ('rural', 0.9231822490692139),
  ('cultural', 0.9230649471282959)]
 ```
+
+```python
+word2vecModel.wv.most_similar("arts")
+>[('comedy', 0.8560258150100708),
+ ('genre', 0.8496169447898865),
+ ('yoga', 0.8470509648323059),
+ ('shaolin', 0.843824565410614),
+ ('fans', 0.8401009440422058),
+ ('ip', 0.8394415378570557),
+ ('martial', 0.839270293712616),
+ ('hustle', 0.8324888348579407),
+ ('man', 0.8277096748352051),
+ ('stephen', 0.819689154624939)]
+```
+In user reviews, the plot of the movie is often summarized, and we can see that when users wrote japanese, they were talking about the political/historical context of the movie. Or for arts, Ip man, a popular martial arts movie shows up as similar.
+
+## Next Steps
+Although I have completed several forms of analysis on IMDb user reviews, there is still so much more analysis left to do. To gather a more complete look, I will require fine-tuning of my topic models to improve its coherence, in order to draw some conclusions from the texts of the user reviews. Although VADER is best for informal language, it can not differentiate when a reviewer is going over the plot versus their personal feelings towards the movie, so an improvement to the sentiment analysis lexicon could also lead to less error there.
