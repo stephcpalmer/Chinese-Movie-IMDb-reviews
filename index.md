@@ -474,15 +474,22 @@ for sent in nltk.sent_tokenize(texts):  # sent tokenize splits the single texts 
             fd[word.lower()]+=1 # add to the frequency of certain word
 fd.most_common(100) #prints list with sets containing the 100 most common words and their frequencies in sets
 ```
-The resulting output shows the most common words in the user reviews
+The resulting output shows the most common words in the user reviews.
 ```
-<p><samp>[('``', 59611),("'s", 16577),('movie', 13320),('film', 11806),("''", 7848),("n't", 7416),("'the", 6565),
-...('beautiful', 1005),('family', 1000),('martial', 998),('actually', 996),('look', 990)]</samp></p>
+[('``', 59611),("'s", 16577),('movie', 13320),('film', 11806),("''", 7848),("n't", 7416),("'the", 6565),
+...('beautiful', 1005),('family', 1000),('martial', 998),('actually', 996),('look', 990)]
 ```
 ## Topic Modeling of User Reviews
+Topic modeling is a text analysis technique to capture the abstract topics of a corpora. To further analyze the user reviews of Chinese movies I created an LDA topic model, which trained over my corpus of user reviews. The code to my topic model can be viewed in my repository in the file Topic_model_id_reviews.py . Using the tokenized user reviews, I created a 4-topic model. The Word Clouds for each topic are below.
+                                Topic #0
+![Image](WC/Topic_0wordcloud.png)    
+                                Topic #1
+![Image](WC/Topic_1wordcloud.png)
+                                Topic #2
+![Image](WC/Topic_2wordcloud.png)
+                                Topic #3
 
-### Topic Word Clouds
-![Image](WC/Topic_0wordcloud.png)    ![Image](WC/Topic_1wordcloud.png)
+![Image](WC/Topic_3wordcloud.png)
 ### Word Embeddings
 ### Markdown
 
